@@ -50,15 +50,15 @@
       </div>
     </front>
     <body>
-      <div xml:id="rhq-q23">
-        <head xml:id="rhq-q23-Hd1e4126">Quaestio 23 [Balliol 246 Transcription]</head>
-        <head xml:id="rhq-q23-Hd1e4129" type="question-title">Utrum qualitas suscipiat magis aut minus</head>
-        <p xml:id="rhq-q23-d1e4132">
+      <div xml:id="beq3sc-d1e521">
+        <head xml:id="beq3sc-d1e521-Hd1e4126">Quaestio 23 [Balliol 246 Transcription]</head>
+        <head xml:id="beq3sc-d1e521-Hd1e4129" type="question-title">Utrum qualitas suscipiat magis aut minus</head>
+        <p xml:id="beq3sc-d1e521-d1e4132">
           <lb ed="#B"/>Utrum qualitas 
           <lb ed="#B"/>suscipiat magis 
           <lb ed="#B"/>aut minus
         </p>
-        <p xml:id="rhq-q23-d1e4141">
+        <p xml:id="beq3sc-d1e521-d1e4141">
           Respondeo et 
           <lb ed="#B"/>dico quod ista propositio qualitas 
           <lb ed="#B"/>suscipit magis et minus 
@@ -98,7 +98,7 @@
           <lb ed="#B"/>realiter intensive et istum sensum innuit 
           <lb ed="#B"/>et <unclear>negat <!-- why is "gat" raised"; seems like something between "ne" and "gat" should be added --></unclear>
         </p>
-        <p xml:id="rhq-q23-d1e4237">
+        <p xml:id="beq3sc-d1e521-d1e4237">
           <pc type="virgula">//</pc> 3o modo potest intelligi habere 
           <lb ed="#B"/>mentis distinctas realiter extensive 
           <lb ed="#B"/>2m mentis sibiet sic concedit quod habet 
@@ -106,7 +106,7 @@
           <lb ed="#B"/>sicut habet ipsum caelum quia latitudo non est nisi 
           <lb ed="#B"/>ipsamet qualitas
         </p>
-        <p xml:id="rhq-q23-d1e4255">
+        <p xml:id="beq3sc-d1e521-d1e4255">
           <pc type="virgula">//</pc>Respondeo ad primum argumentum 
           <lb ed="#B"/>dicit quod si ignis in summo debeat de 
           <lb ed="#B"/>aqua generare ignem in summo non est 
@@ -119,7 +119,7 @@
           <lb ed="#B"/>et tunc subito inducetur summus ignis 
           <lb ed="#B"/>et summus calor ignis
         </p>
-        <p xml:id="rhq-q23-d1e4294">
+        <p xml:id="beq3sc-d1e521-d1e4294">
           <pc type="virgula">//</pc>Item in 
           <lb ed="#B"/>solvendo secundum principale ubi inquit 
           <lb ed="#B"/>utrum contra simul quo extendantur 
@@ -150,7 +150,7 @@
           <lb ed="#B"/>et causa est quia illa caliditas est essentialiter fri<lb ed="#B"/>giditas 
           et accidentis calor
         </p>
-        <p xml:id="rhq-q23-d1e4377">
+        <p xml:id="beq3sc-d1e521-d1e4377">
           Item 2m 
           <lb ed="#B"/>eundem corruptio rei naturales non est 
           <lb ed="#B"/>contraria generationem suae per eosdem 
@@ -179,7 +179,7 @@
           <lb ed="#B"/>aquae multum remissa reprasentat 
           <lb ed="#B"/>caliditatem 
         </p>
-        <p xml:id="rhq-q23-d1e4451">
+        <p xml:id="beq3sc-d1e521-d1e4451">
           <pc type="virgula">//</pc>hic est notandum quod idem 
           <lb ed="#B"/>calor potest esse intentior quam eam est 
           <lb ed="#B"/>sine additione alicuius quia faciat deus 
