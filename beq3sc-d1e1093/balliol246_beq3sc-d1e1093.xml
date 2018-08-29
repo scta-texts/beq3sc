@@ -50,16 +50,16 @@
       </div>
     </front>
     <body>
-      <div xml:id="beq3sc-d1e109">
-        <head xml:id="beq3sc-d1e109-Hd1e105">Quaestio 50 [Balliol 246 Transcription]</head>
-        <head xml:id="beq3sc-d1e109-Hd1e108" type="question-title">Utrum aliqua propositio possit componi ex intentionibus et speciebus in anima naturaliter significantibus rem extra</head>
-        <p xml:id="beq3sc-d1e109-d1e111">
+      <div xml:id="beq3sc-d1e1093">
+        <head xml:id="beq3sc-d1e1093-Hd1e105">Quaestio 50 [Balliol 246 Transcription]</head>
+        <head xml:id="beq3sc-d1e1093-Hd1e108" type="question-title">Utrum aliqua propositio possit componi ex intentionibus et speciebus in anima naturaliter significantibus rem extra</head>
+        <p xml:id="beq3sc-d1e1093-d1e111">
           <lb ed="#B"/>Utrum aliqua propositio 
           possit componi ex intentionibus 
           <lb ed="#B"/>et speciebus in anima naturaliter significan<lb ed="#B"/>tibus 
           rem extra 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e120">
+        <p xml:id="beq3sc-d1e1093-d1e120">
           hic dicunt
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>quidam propositionem dicentem mentalem esse 
@@ -76,7 +76,7 @@
           <lb ed="#B"/>ligneae etc sed omnes propositiones vocales et mentales 
           <lb ed="#B"/>correspondenter vocalibus sunt eiusdem speciei 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e164">
+        <p xml:id="beq3sc-d1e1093-d1e164">
           <lb ed="#B"/><pc type="virgula">//</pc> Item secundum istos nulla propositio mentalis est ponenda 
           <lb ed="#B"/>nisi componatur ex terminis qui sunt naturales 
           <lb ed="#B"/>similitudines terminorum scriptorum vel prolatorum unde 
@@ -90,7 +90,7 @@
           <lb ed="#B"/>mundo correspondet secundum eum alicui <unclear>ydiomati</unclear> 
           <lb ed="#B"/>vel alicui scripturae
         </p>
-        <p xml:id="beq3sc-d1e109-d1e199">
+        <p xml:id="beq3sc-d1e1093-d1e199">
           <pc type="virgula">//</pc>Ex isto concluditur 
           <lb ed="#B"/>quod haec descriptio termini mentalis non valet quia terminus mentalis 
           <lb ed="#B"/>non est intellectio vel passio animae significans <unclear>aliquid <!-- possibily corrected --></unclear> natum 
@@ -101,7 +101,7 @@
           <lb ed="#B"/><title>peryhermenias</title> <pc type="virgula">/</pc> dicitur quod ibi definitur nomen et verbum 
           <lb ed="#B"/>in voce tantum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e237">
+        <p xml:id="beq3sc-d1e1093-d1e237">
           <pc type="virgula">/</pc> consequentia ad <unclear>logicam</unclear> pertinet determinare 
           <lb ed="#B"/>de propositione etc numero mentalis quia illa quae 
           <lb ed="#B"/>pertinet ad logicam istis attribuit 
@@ -110,21 +110,21 @@
           <lb ed="#B"/>verum et non pictum tamen sicut homo pictus dicitur 
           <lb ed="#B"/>homo improprie ita dicitur animal rationale improprie
         </p>
-        <p xml:id="beq3sc-d1e109-d1e259">
+        <p xml:id="beq3sc-d1e1093-d1e259">
           similiter 
           <lb ed="#B"/>licet intendat ibi definire talia in voce 
           <lb ed="#B"/>tamen si diffinita inveniantur in intellectu 
           <lb ed="#B"/>diffinitiones eis conveniet ergo nomen mentale 
           <lb ed="#B"/>significat ad placitum <!-- gelber has plurimum, but I'm pretty sure placitum is correct -->
         </p>
-        <p xml:id="beq3sc-d1e109-d1e272">
+        <p xml:id="beq3sc-d1e1093-d1e272">
           <pc type="virgula">//</pc> Item quilibet experitur 
           <lb ed="#B"/>in se ipso quod potest formare antequam 
           <lb ed="#B"/>loquatur tales propositiones etc significant ad 
           <lb ed="#B"/>placitum unde qui novit latinum <sic>fformat</sic> 
           <lb ed="#B"/>propositiones latinas
         </p>
-        <p xml:id="beq3sc-d1e109-d1e290">
+        <p xml:id="beq3sc-d1e1093-d1e290">
           <pc type="virgula">/</pc> Item omni vocabuli cor<lb ed="#B"/>respondet 
           aliqua mentalis ergo isti termini ens 
           <lb ed="#B"/><sic>ens</sic> est unum <pc type="virgula">/</pc> igitur respectu correspondet terminus mentalis 
@@ -136,50 +136,50 @@
           <lb ed="#B"/>vel eius naturalis similitudo quorum nullum potest com<lb ed="#B"/>petere 
           termino naturali respectu omnium rerum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e325">
+        <p xml:id="beq3sc-d1e1093-d1e325">
           Item viator 
           <lb ed="#B"/><sic>fformat</sic> illam <mentioned>deus est trinus et unus</mentioned> ergo 
           <lb ed="#B"/>trinus correspondens isto formet signum naturalis dei
         </p>
-        <p xml:id="beq3sc-d1e109-d1e338">
+        <p xml:id="beq3sc-d1e1093-d1e338">
           <lb ed="#B"/>Item tunc subiectum illius propositionis in mente omnis 
           <lb ed="#B"/>qualitas <sic>in haereret</sic> subiecto formet naturalis similitudo 
           <lb ed="#B"/>omnis qualitas quod est inpossibilis quia eo ipso quod est 
           <lb ed="#B"/>naturalis similitudo unius est naturalis similitudo alterius
         </p>
-        <p xml:id="beq3sc-d1e109-d1e352">
+        <p xml:id="beq3sc-d1e1093-d1e352">
           <pc type="virgula">//</pc>
           <lb ed="#B"/>Item de ratione verbi est quod intelligitur ab infor<lb ed="#B"/>mante 
           <unclear>sed <!-- valet --></unclear> quando formo verbum rerum contrariarum et 
           <lb ed="#B"/>naturale similitudinem earundem
         </p>
-        <p xml:id="beq3sc-d1e109-d1e368">
+        <p xml:id="beq3sc-d1e1093-d1e368">
           Item 
           <lb ed="#B"/>posito unio verbo albedinis potest intellectus formare 
           <lb ed="#B"/>hanc albedo est albedo igitur ibi sunt 2ae similitudines 
           <lb ed="#B"/>naturales omnium albedinum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e377">
+        <p xml:id="beq3sc-d1e1093-d1e377">
           <pc type="virgula">/</pc> sed contra hanc oppinionem 
-          <lb ed="#B"/>est <ref xml:id="beq3sc-d1e109-Rd1e384"><name ref="#Anselm">anselmus</name> <title>monologion</title> 31o</ref> sic dicens <quote xml:id="beq3sc-d1e109-Qd1e392" source="http://scta.info/resource/adcmon-c31">nulla ratione 
+          <lb ed="#B"/>est <ref xml:id="beq3sc-d1e1093-Rd1e384"><name ref="#Anselm">anselmus</name> <title>monologion</title> 31o</ref> sic dicens <quote xml:id="beq3sc-d1e1093-Qd1e392" source="http://scta.info/resource/adcmon-c31">nulla ratione 
           <lb ed="#B"/><seg type="correction">neg<del rend="expunctuation">n</del>ari</seg> potest cum mens rationalis seipsam 
           <lb ed="#B"/>intelligat ymaginem illius nasci in eius cogitatione 
           <lb ed="#B"/>ymmod ipsam cogitationem sui esse suam 
           <lb ed="#B"/>ymaginem <pc type="virgula">/</pc> ad eius similitudinem tanquam 
           <lb ed="#B"/>ex eius impressione formatam</quote> haec ille
         </p>
-        <p xml:id="beq3sc-d1e109-d1e415">
+        <p xml:id="beq3sc-d1e1093-d1e415">
           Si ergo talis 
           <lb ed="#B"/>similitudo nata in anima sit vere eiusdem 
           <lb ed="#B"/>speciei cum ipsa sequitur quod anima quaelibet infi<lb ed="#B"/>nitas 
           produceret animas rationales  et cum anima 
           <lb ed="#B"/>rationalis solummodo quod anima <sic>posit</sic> creare
         </p>
-        <p xml:id="beq3sc-d1e109-d1e429">
+        <p xml:id="beq3sc-d1e1093-d1e429">
           <lb ed="#B"/><pc type="virgula">//</pc>Item species hominis est in mente angeli 
           <lb ed="#B"/>sed species hominis est homo ergo
         </p>
-        <p xml:id="beq3sc-d1e109-d1e439">
+        <p xml:id="beq3sc-d1e1093-d1e439">
           Item multi homines 
           <lb ed="#B"/>fuerit qui nec habuerunt patrem nec 
           <lb ed="#B"/>matrem nec numquam comederunt et tamen 
@@ -189,80 +189,80 @@
           <lb ed="#B"/>qui sunt in specie humana <pc type="virgula">/</pc> nec unquam mo<lb ed="#B"/>riuntur 
           nec sunt mortales
         </p>
-        <p xml:id="beq3sc-d1e109-d1e463">
+        <p xml:id="beq3sc-d1e1093-d1e463">
           Item angelus 
           <lb ed="#B"/>Inferior intelligit superiorem ergo habet in 
           <lb ed="#B"/>se angelum nobilior se quia illam speciem
         </p>
-        <p xml:id="beq3sc-d1e109-d1e470">
+        <p xml:id="beq3sc-d1e1093-d1e470">
           <lb ed="#B"/>Item tot sunt <sic>fenites</sic> tot <seg type="correction">sol<add place="margin-center">es</add></seg> tot 
           <lb ed="#B"/>lunae quot sunt intelligentes fenicem 
           <lb ed="#B"/>solem et <unclear>lunam</unclear>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e491">
+        <p xml:id="beq3sc-d1e1093-d1e491">
           Item si deus <sic>anihilaret</sic> 
           <lb ed="#B"/>omnia corpora munid ad huc <unclear>foram</unclear> multi 
           <lb ed="#B"/>homines et multa leones in mentibus an<lb ed="#B"/>gelorum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e506">
+        <p xml:id="beq3sc-d1e1093-d1e506">
           <pc type="virgula">//</pc> Item multi homines erant 
           <lb ed="#B"/>creati ante <name>adam</name> quia in angelis fuerunt 
           <lb ed="#B"/>species hominis concreatae ante <name>adam</name>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e522">
+        <p xml:id="beq3sc-d1e1093-d1e522">
           Item 
           <lb ed="#B"/>color est extremitas perspicui in corpore terminato
-          <lb ed="#B"/><add place="margin">in</add> <ref xml:id="beq3sc-d1e109-Rd1e530"><title>de sensu et sensato</title> capitulo <unclear>6o</unclear></ref> et <ref xml:id="beq3sc-d1e109-Rd1e537">2o <title>de anima</title></ref> dicitur 
+          <lb ed="#B"/><add place="margin">in</add> <ref xml:id="beq3sc-d1e1093-Rd1e530"><title>de sensu et sensato</title> capitulo <unclear>6o</unclear></ref> et <ref xml:id="beq3sc-d1e1093-Rd1e537">2o <title>de anima</title></ref> dicitur 
           <lb ed="#B"/>quod color est motius lucidi 2m actum 
           <lb ed="#B"/>igitur color in cerebro vere videtur
         </p>
-        <p xml:id="beq3sc-d1e109-d1e549">
+        <p xml:id="beq3sc-d1e1093-d1e549">
           Item omne 
           <lb ed="#B"/>grave naturaliter descendit species lapidis 
           <lb ed="#B"/>in mente angeli est gravis quare 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>igitur non descendit
         </p>
-        <p xml:id="beq3sc-d1e109-d1e560">
+        <p xml:id="beq3sc-d1e1093-d1e560">
           Item vel species lapidis 
           <lb ed="#B"/>in anima vel in angelo est substantia corporea vel 
           <lb ed="#B"/>in corporea si incorporea ergo non est corpus si corporea 
           <lb ed="#B"/>ergo lapis est maximus naturaliter in loco <sic>partuali</sic> 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e572">
-          <lb ed="#B"/>Item dicit <name ref="#Aristotle">aristoteles</name> quod <quote xml:id="beq3sc-d1e109-Qd1e579" ana="#Aristotle_DeAnima_III_8_a">lapis non est in anima</quote> sed species 
+        <p xml:id="beq3sc-d1e1093-d1e572">
+          <lb ed="#B"/>Item dicit <name ref="#Aristotle">aristoteles</name> quod <quote xml:id="beq3sc-d1e1093-Qd1e579" ana="#Aristotle_DeAnima_III_8_a">lapis non est in anima</quote> sed species 
           <lb ed="#B"/>lapidis quod falsum est per illam oppinionem
         </p>
-        <p xml:id="beq3sc-d1e109-d1e585">
+        <p xml:id="beq3sc-d1e1093-d1e585">
           Item 
           <lb ed="#B"/>2o <title>de anima</title> commento 104 si visus haberet colorem 
           <lb ed="#B"/>in actu non reciperet alios colores
         </p>
-        <p xml:id="beq3sc-d1e109-d1e595">
+        <p xml:id="beq3sc-d1e1093-d1e595">
           <lb ed="#B"/>Item <name>augustinus</name> 10 <title>confessionum</title> capitulo 15 et 16 dicit quod 
           <lb ed="#B"/><sic>ymagno</sic> tristitiae est in memoria et tamen 
           <lb ed="#B"/>nulla tristitia 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e612">
+        <p xml:id="beq3sc-d1e1093-d1e612">
           pro ista omni oppinione ponit
           <lb ed="#B"/>multas auctoritates 2o de anima commento <unclear>110e</unclear> 
-          <lb ed="#B"/><quote xml:id="beq3sc-d1e109-Qd1e620">color habet duplex esse scilicet in corpore colorato 
+          <lb ed="#B"/><quote xml:id="beq3sc-d1e1093-Qd1e620">color habet duplex esse scilicet in corpore colorato 
           <lb ed="#B"/>et hoc est esse corporale et in diaphano 
           <lb ed="#B"/>et hoc est esse spirituale</quote>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e629">
+        <p xml:id="beq3sc-d1e1093-d1e629">
           Item 7o <title>metaphysicae</title> 
-          <lb ed="#B"/>commento 23o <quote xml:id="beq3sc-d1e109-Qd1e636">sanitas dicitur de intellectu sanitatis 
+          <lb ed="#B"/>commento 23o <quote xml:id="beq3sc-d1e1093-Qd1e636">sanitas dicitur de intellectu sanitatis 
           <lb ed="#B"/>quae est in anima</quote> et eodem commento dicit forma  
           <lb ed="#B"/><unclear>argumentis</unclear> est duplex una quae est in anima et alia 
           <lb ed="#B"/>quae est extra et sunt idem
         </p>
-        <p xml:id="beq3sc-d1e109-d1e648">
+        <p xml:id="beq3sc-d1e1093-d1e648">
           Item <unclear>11</unclear> metaphysicae 
           <lb ed="#B"/>de balneo in anima etc
         </p>
         <!-- paragraph break here -->
-        <p xml:id="beq3sc-d1e109-d1e658">
+        <p xml:id="beq3sc-d1e1093-d1e658">
           ponit et iste 
           <lb ed="#B"/>idem quod cognitio est potentia ccognitiva quae 
           <lb ed="#B"/>est ipsa anima unde cognitio humana non 
@@ -274,13 +274,13 @@
           <lb ed="#B"/>2o modo materialis vel obiectiva immediata <del rend="strikethrough">Item</del>
           <lb ed="#B"/>3o modo materialis vel obiectiva mediata
         </p>
-        <p xml:id="beq3sc-d1e109-d1e686">
+        <p xml:id="beq3sc-d1e1093-d1e686">
           <pc type="virgula">//</pc>Item 
           <lb ed="#B"/><unclear>dividit</unclear> istum terminum <mentioned>cognitivum</mentioned> quia quandoque accipitur 
           <lb ed="#B"/>pro efficiente cognitionum aliquando pro receptivo 
           <lb ed="#B"/>cognitionis aliquanod pro illo quo potest formalis
         </p>
-        <p xml:id="beq3sc-d1e109-d1e703">
+        <p xml:id="beq3sc-d1e1093-d1e703">
           <lb ed="#B"/><pc type="virgula">//</pc> Prima conclusio omnis cognitio humana primo modo 
           <lb ed="#B"/>accepta est potentia cognitiva probatur sic si cognitio 
           <lb ed="#B"/>foret qualitas super addita per divinam 
@@ -292,18 +292,18 @@
           <lb ed="#B"/>obstante denominat eam formaliter 
           <lb ed="#B"/>2m suam proprietatem
         </p>
-        <p xml:id="beq3sc-d1e109-d1e730">
+        <p xml:id="beq3sc-d1e1093-d1e730">
           Item color 
           <lb ed="#B"/>formaliter videtur per visionem igitur conservato 
           <lb ed="#B"/><unclear>colore <!-- abbrev is identical to word at end of line which seems to be only "color" --></unclear> et visione semper erit haec vera color 
           <lb ed="#B"/>videtur igitur destructa potentia <!-- big homoteleuton here -->
         </p>
-        <p xml:id="beq3sc-d1e109-d1e744">
+        <p xml:id="beq3sc-d1e1093-d1e744">
           <!-- homteletuon continues until "intellectiva" -->
           intellectiva in<lb ed="#B"/>tellectio 
           intelligere
         </p>
-        <p xml:id="beq3sc-d1e109-d1e751">
+        <p xml:id="beq3sc-d1e1093-d1e751">
           Item inpossibile est prae<lb ed="#B"/>dicamenta 
           consequentia dicitur respectiva <unclear>verificari</unclear> 
           <lb ed="#B"/>successie de aliqua re nulla facta muta<lb ed="#B"/>tione 
@@ -318,7 +318,7 @@
           <lb ed="#B"/>et conservetur obiectum et qualitas haec est vera si foremetur 
           <lb ed="#B"/>haec qualitas est <unclear>intensio vel intellectio <!-- is this scirbal indication of choice/confusion--></unclear>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e796">
+        <p xml:id="beq3sc-d1e1093-d1e796">
           Item in<lb ed="#B"/>possible 
           est effectum esse perfectiorem sua causa 
           <lb ed="#B"/>efficiente sed cognitio est quandoque perfectior obiecto 
@@ -326,12 +326,12 @@
           a potentia nec ab obiecto
         </p>
         <!-- why break ?? -->
-        <p xml:id="beq3sc-d1e109-d1e809">
+        <p xml:id="beq3sc-d1e1093-d1e809">
           Dicitur quod causatur ab u<lb ed="#B"/>troque 
           et non ab altero ut a causa totali 
           <lb ed="#B"/>sed partiali tantum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e817">
+        <p xml:id="beq3sc-d1e1093-d1e817">
           contra illa cognitio est divisibilis vel 
           <lb ed="#B"/>indivisibilis si indivisibilis igitur a quocumque 
           <lb ed="#B"/>producitur totaliter producitur aliqui idem vis 
@@ -342,12 +342,12 @@
           <lb ed="#B"/>indivisible et de illa quaerendum est aut causatur 
           <lb ed="#B"/>totaliter ab obiecto vel non
         </p>
-        <p xml:id="beq3sc-d1e109-d1e837">
+        <p xml:id="beq3sc-d1e1093-d1e837">
           Item si omne 
           <lb ed="#B"/>cognitivum in homine sit potentia cognitiva sed <choice><orig>alica</orig><reg>aliqua</reg></choice> 
           <lb ed="#B"/>cognitio hominis est cognitiva potentia  
         </p>
-        <p xml:id="beq3sc-d1e109-d1e850">
+        <p xml:id="beq3sc-d1e1093-d1e850">
           item iste 
           <lb ed="#B"/>terminus cognitivum vel dicit causam effectivam materialis 
           <lb ed="#B"/>vel formalis vel finalis non primum quia sic 
@@ -357,7 +357,7 @@
           <lb ed="#B"/>cognitio quando ad actu <sic>cognocitur</sic> igitur 
           <lb ed="#B"/>intellectio est potentia intellectiva
         </p>
-        <p xml:id="beq3sc-d1e109-d1e871">
+        <p xml:id="beq3sc-d1e1093-d1e871">
           Item si aliquid 
           <lb ed="#B"/>sit causatum a re visa vel ergo agit 
           <lb ed="#B"/>univoce vel aequivoce si uniquivoce igitur sunt eiusdem 
@@ -372,15 +372,15 @@
           <lb ed="#B"/>albedine consequens falsum dicitur quod causatur ab o<lb ed="#B"/>biecto 
           et a potentia receptiva
         </p>
-        <p xml:id="beq3sc-d1e109-d1e909">
+        <p xml:id="beq3sc-d1e1093-d1e909">
           contra sic possem 
           <lb ed="#B"/>ego fingere quod nulla qualitas causatur 
           <lb ed="#B"/>ab agento extrinsece sed contra est commentator 
-          <lb ed="#B"/>2o <title>de anima</title> <unclear>res</unclear> <quote xml:id="beq3sc-d1e109-Qd1e924">sicut actio passio sunt in 
+          <lb ed="#B"/>2o <title>de anima</title> <unclear>res</unclear> <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio passio sunt in 
           <lb ed="#B"/>patiente non in agente ita actio sensum 
           <lb ed="#B"/>sensibilium sunt in sensibilitate</quote> ex quo patet <unclear>intellectum</unclear>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e935">
+        <p xml:id="beq3sc-d1e1093-d1e935">
           <lb ed="#B"/><pc type="virgula">//</pc>Item si intentio sit qualitas super add<lb ed="#B"/>ita 
           sit illa <c>a</c> nolo igitur quod cognoscens 
           <lb ed="#B"/>cognoscat aut igitur ipso aut alia 
@@ -388,11 +388,11 @@
           in infinitum si se ipsa igitur eadem ratione 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>etc confirmatur per <name ref="#Augustine">augustinum</name> 2o <title>de trinitate</title> capitulo 
-          <lb ed="#B"/>4o <quote xml:id="beq3sc-d1e109-Qd1e973" source="http://scta.info/resource/adt-l4">ipsa visio non est aliud quam sensus qui videt 
+          <lb ed="#B"/>4o <quote xml:id="beq3sc-d1e1093-Qd1e973" source="http://scta.info/resource/adt-l4">ipsa visio non est aliud quam sensus qui videt 
           <lb ed="#B"/>esse videtur hoc est visio non est aliud esse vietur 
           <lb ed="#B"/>quam sensus informatus specie</quote>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e982">
+        <p xml:id="beq3sc-d1e1093-d1e982">
           <pc type="virgula">//</pc>ad ista 
           <lb ed="#B"/>tamen respondetur ad primum conceditur totum usque ibi 
           <lb ed="#B"/><unclear>not?um</unclear> cognitum intelligit quod <sic>nemo</sic> quia non 
@@ -407,34 +407,34 @@
           <lb ed="#B"/>denominet aliam nisi quod sit in distans 
           <lb ed="#B"/>ab ea
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1017">
+        <p xml:id="beq3sc-d1e1093-d1e1017">
           Item deus est in lapide et deus est 
           <lb ed="#B"/>intellectio igitur etc et tamen falsum est quod lapis 
           <lb ed="#B"/>intelligit
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1024">
+        <p xml:id="beq3sc-d1e1093-d1e1024">
           Item intellectio est in pede quia 
           <lb ed="#B"/>anima et tamen pes non <del rend="strikethrough">il</del> intelligit
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1032">
+        <p xml:id="beq3sc-d1e1093-d1e1032">
           <pc type="virgula">//</pc>Item 
           <lb ed="#B"/>haec consequentia non est formalis lapis intelligit 
           <lb ed="#B"/>igitur non est cognitum intelligit quia tantum est consequentia 
           <lb ed="#B"/>ut hinc quia si deus assumeret lapidem 
           <lb ed="#B"/>antecedens esset verum et consequens falsum
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1046">
+        <p xml:id="beq3sc-d1e1093-d1e1046">
           <pc type="virgula">//</pc> ad 2m eodem 
           <lb ed="#B"/>modo quia isto casu posito illa qualitas non foret 
           <lb ed="#B"/>visio quia iste terminus visio supponit pro una 
           <lb ed="#B"/>quantitate connotans eam esse in certo subiecto
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1058">
+        <p xml:id="beq3sc-d1e1093-d1e1058">
           <lb ed="#B"/><pc type="virgula">//</pc> ad 3m dico quod una causa non denominat aliam 
           <lb ed="#B"/>nisi forte denominatione extrinseca  nihil enim 
           <lb ed="#B"/>est dictum actio formalis vel materia finalis
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1070">
+        <p xml:id="beq3sc-d1e1093-d1e1070">
           <pc type="virgula">//</pc>
           <lb ed="#B"/>ad 4m dico quod stante illa specie in anima quando<lb ed="#B"/>que 
           est intellecto quando non similiter <sic>asumit</sic> falsum 
@@ -447,20 +447,20 @@
           <lb ed="#B"/>animam <name>platonis</name> in <c>a</c> et tunc deus non mutatur 
           <lb ed="#B"/>nec anima
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1110">
+        <p xml:id="beq3sc-d1e1093-d1e1110">
           ad aliud dico quod dicimus hanc conclusio<lb ed="#B"/>nem 
           esse demonstrativam non quia demonstrat 
           <lb ed="#B"/>nec habitum elevativum quia elegit sed quia homo 
           <lb ed="#B"/>eligit per illos
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1119">
+        <p xml:id="beq3sc-d1e1093-d1e1119">
           ad aliud dico quod 2m eum anima 
           <lb ed="#B"/>est cognitiva et anima est cognitio nam iste terminus 
           <lb ed="#B"/>cognitum dicit causam formalis cognitionis 
           <lb ed="#B"/>quaero de illa causa vel est cognitio vel alia res 
           <lb ed="#B"/>si alia cognitio est opposita
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1130">
+        <p xml:id="beq3sc-d1e1093-d1e1130">
           alia conclusio est ista 
           <lb ed="#B"/>similitudo cognoscentis quae est naturalis similitudo qua<lb ed="#B"/>litatis 
           sensibilis extra cognoscitur et asseritur non cog<lb ed="#B"/>nita 
@@ -489,32 +489,32 @@
           <lb ed="#B"/>apparent videnti eiusdem quantitatis quia videntur 
           <lb ed="#B"/>sub aequalibus angelis
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1200">
+        <p xml:id="beq3sc-d1e1093-d1e1200">
           <pc type="virgula">//</pc> Alia conclusio est ista 
           <lb ed="#B"/>similitudo naturalis rei cognitae est eiusdem 
           <lb ed="#B"/>speciei cum re illa cuius est et haec est oppinio <name ref="#RogerBacon">rogerii 
           <lb ed="#B"/>backim</name> in sua <title>perspectiva</title> distinctione 6 capitulo 3o Probatur 
-          <lb ed="#B"/>haec sic <quote xml:id="beq3sc-d1e109-Qd1e1220">impossibile est una qualitas esse naturalem 
+          <lb ed="#B"/>haec sic <quote xml:id="beq3sc-d1e1093-Qd1e1220">impossibile est una qualitas esse naturalem 
           <lb ed="#B"/>similitudinem alterius a <unclear>differt</unclear> specie quia non 
           <lb ed="#B"/>habemus aliud medium pro statu isto ad probandum 
           <lb ed="#B"/>quod duae res sunt eiusdem speciei nisi quod 
           <lb ed="#B"/>una est naturalis similitudo alterius</quote> etc
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1235">
+        <p xml:id="beq3sc-d1e1093-d1e1235">
           2o sic 
           <lb ed="#B"/>albedo visa causat speciem nihil igitur est agens u<lb ed="#B"/>nivoce 
           et habetur propositum vel aequivoce quod est falsum quia 
           <lb ed="#B"/>in generatione aequivoca effectus est disimilis 
           <lb ed="#B"/>agenti
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1247">
+        <p xml:id="beq3sc-d1e1093-d1e1247">
           <pc type="virgula">//</pc> Item omne in simile est lux 
           <lb ed="#B"/>vel color sed illa specie est in similis quia sic 
           <lb ed="#B"/>vocatur igitur est lux vel color non lux quia 
           <lb ed="#B"/>illa non est naturalis Similitudo color igitur color 
           <lb ed="#B"/>est
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1261">
+        <p xml:id="beq3sc-d1e1093-d1e1261">
           item respiciens attente colorem viri<lb ed="#B"/>dem 
           et subito convertens se ad obscurum 
           <lb ed="#B"/>adhuc videt colorem viridem sed nullum 
@@ -523,7 +523,7 @@
           <lb ed="#B"/>sentiendum est de specie <seg type="correction">intelligibili <!-- extra "li" added above line?? --></seg> et de 
           <lb ed="#B"/>re a qua generatur
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1284">
+        <p xml:id="beq3sc-d1e1093-d1e1284">
           <pc type="virgula">//</pc> Item 2o <title>de anima</title> 
           si visus haberet colorem in actu non 
           <lb ed="#B"/>reciperet colorem quia igitur quia igitur recipit 
@@ -534,28 +534,28 @@
           <lb ed="#B"/>et quod lapis est cum angelo in caelo et in anima 
           <lb ed="#B"/>quando intelligunt lapides
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1310">
+        <p xml:id="beq3sc-d1e1093-d1e1310">
           Si arguitur sic consequentia impossibile 
           <lb ed="#B"/>duas <sic>fformas</sic> materiales esse eiusdem 
           <lb ed="#B"/>speciei cum <sic>fforma</sic> in materiali
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1323">
+        <p xml:id="beq3sc-d1e1093-d1e1323">
           Item impossibile est 
           <lb ed="#B"/>duas <sic>fformas</sic> eiusdem specie simul 
           <lb ed="#B"/>esse in eodem subiecto sed duae similes quarum 
           <lb ed="#B"/>una causatur ab una albedine et alia ab 
           <lb ed="#B"/>alia in eodem occulo sunt etc
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1337">
+        <p xml:id="beq3sc-d1e1093-d1e1337">
           Item 
-          <lb ed="#B"/><quote xml:id="beq3sc-d1e109-Qd1e1340" ana="#Aristotle_DeAnima_III_8_a">lapis non est in anima sed species lapidis</quote>
+          <lb ed="#B"/><quote xml:id="beq3sc-d1e1093-Qd1e1340" ana="#Aristotle_DeAnima_III_8_a">lapis non est in anima sed species lapidis</quote>
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1345">
+        <p xml:id="beq3sc-d1e1093-d1e1345">
           <lb ed="#B"/>Item si beatus videt deum mediate specie produceret 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>aliquid eiusdem <unclear>apeii</unclear> cum deo 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1357">
+        <p xml:id="beq3sc-d1e1093-d1e1357">
           ad primum dicitur quod forma dicitur in materia tripliciter vel quia 
           <lb ed="#B"/>illud est indivisibile et per oppositum forma materialis est divisibilis 
           <lb ed="#B"/>quaelibet forma divisibilis <pc type="virgula">/</pc> alio modo quae est in 
@@ -569,21 +569,21 @@
           <lb ed="#B"/>eiusdem speciei 2o modo sunt quia color in 
           <lb ed="#B"/>mente angeli etc
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1388">
+        <p xml:id="beq3sc-d1e1093-d1e1388">
           ad 2m concedo quod duae 
           <lb ed="#B"/><sic>fformae</sic> possunt esse in eodem subiecto
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1395">
+        <p xml:id="beq3sc-d1e1093-d1e1395">
           <pc type="virgula">//</pc> ad 3m 
           <lb ed="#B"/>dico quod <name ref="#Aristotle">aristoteles</name> vocat speciem lapidis 
           <lb ed="#B"/>similitudinem accidentis lapidis
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1408">
+        <p xml:id="beq3sc-d1e1093-d1e1408">
           ad 4m 
           <lb ed="#B"/>dico quod impossibile est intellectum causatum formare 
           <lb ed="#B"/>verbum de deo
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1415">
+        <p xml:id="beq3sc-d1e1093-d1e1415">
           <pc type="virgula">//</pc> contra prima conclusionem et probo 
           <lb ed="#B"/>quod non sufficit ad hoc quod anima <unclear>intelligat</unclear> 
           <lb ed="#B"/><unclear>scilicet</unclear> anima et species sed requiritur species quae 
@@ -592,7 +592,7 @@
           <name>sortes</name> et per consequens in anima <name>sortes</name> igitur aliqua 
           <lb ed="#B"/>res requiritur 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1453">
+        <p xml:id="beq3sc-d1e1093-d1e1453">
           item visu se habente <unclear>universaliter</unclear> 
           <lb ed="#B"/>ad obiectum in prima partis temporis in casu 
           <lb ed="#B"/>videt in 2a non posito quod in 2a partis anima 
@@ -600,7 +600,7 @@
           ut patet de distractis quaerentibus 
           <lb ed="#B"/>quae habent primi occulis 
         </p>
-        <p xml:id="beq3sc-d1e109-d1e1470">
+        <p xml:id="beq3sc-d1e1093-d1e1470">
           contra ultimam conclusionem 
           <lb ed="#B"/>arguitur sic quando duae qualitates sunt eiusdem 
           <lb ed="#B"/>speciei et aequae <sic>intenssae</sic> si sunt activae 
