@@ -68,31 +68,35 @@
           <lb ed="#B"/>logicam conclusionis quantum ad rem ponit quod 
           <lb ed="#B"/>calor habet quandam latitudinem tamen 
           <lb ed="#B"/>calorem habere latitudinem potest intelligi 
-          <lb ed="#B"/>etc uno modo sic quod non habet <unclear>mediates <!-- mediatates --></unclear> distinctas 
+          <lb ed="#B"/>2ter
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e139">
+          uno modo sic quod non habet medietates distinctas 
           <lb ed="#B"/>realiter <choice><orig>sicud</orig><reg>sicut</reg></choice> est de tempore et motu quia hora 
           et annus non distinguuntur realiter sicut 
           <lb ed="#B"/>nec sortes in foro et sortes in theatro 
           <lb ed="#B"/>Sed cum dicitur quod duas habet partes quarum 
           <lb ed="#B"/>una est dies et alia est annus vel 
           <lb ed="#B"/>hora propositiones debent sic intelligi 
-          <lb ed="#B"/>hora et pars diei et haec res ut est horam 
-          <lb ed="#B"/>minus divinat quam ut est dies vel annus 
+          <lb ed="#B"/>hora est pars diei et haec res ut est horam 
+          <lb ed="#B"/>minus durat quam ut est dies vel annus 
           <lb ed="#B"/>vel potest sic exponi diutius est haec 
           <pb ed="#B" n="204-r"/>
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>propositio vera In ista regione caelum est dies 
-          <lb ed="#B"/>ergo ista propositio in ista regione caelum est hora 
-          <lb ed="#B"/>nulla et sic concedendum est quod tunc habent mediatates et tunc 
+          <lb ed="#B"/>quam ista propositio in ista regione caelum est hora 
+          <lb ed="#B"/>nona et sic concedendum est quod tempus habet medietates et tunc 
           <lb ed="#B"/>non est alius sensus nisi iste caelum ut est hora 
-          <lb ed="#B"/>non ita diu durat sicut caelum ut est anno <add place="margin-center">vel</add> 
-          <lb ed="#B"/>tunc duplum ad annum vel ad horam 
+          <lb ed="#B"/>non ita diu durat sicut caelum ut est annus <add place="margin-center">vel</add> 
+          <lb ed="#B"/>tempus duplum ad annum vel ad horam 
           <lb ed="#B"/>et eodem modo est de latitudine caritatis 
           <lb ed="#B"/>nam eadem res realiter est latitudo 
           <lb ed="#B"/>caritatis habet pars sicut tempus quia eadem 
           <lb ed="#B"/>caritas ut est in transmutari dicitur la<lb ed="#B"/>titudo 
-          et quando transmutatum dicitur quia 
+          et quando transmutatur dicitur qualitas 
           <lb ed="#B"/>et non latitudo
-        <!-- paragraph break here ?? -->
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e200">
           alio modo posset concedi 
           <lb ed="#B"/>vel intelligi habere mentis distinctam 
           <lb ed="#B"/>realiter intensive et istum sensum innuit 
@@ -101,28 +105,28 @@
         <p xml:id="beq3sc-d1e521-d1e4237">
           <pc type="virgula">//</pc> 3o modo potest intelligi habere 
           <lb ed="#B"/>mentis distinctas realiter extensive 
-          <lb ed="#B"/>2m mentis sibiet sic concedit quod habet 
-          <lb ed="#B"/>mentis realiter distinctas et tunc est motus 
+          <lb ed="#B"/>2m mentis subiecti et sic concedit quod habet 
+          <lb ed="#B"/>mentis realiter distinctas et tempus est motus 
           <lb ed="#B"/>sicut habet ipsum caelum quia latitudo non est nisi 
           <lb ed="#B"/>ipsamet qualitas
         </p>
         <p xml:id="beq3sc-d1e521-d1e4255">
-          <pc type="virgula">//</pc>Respondeo ad primum argumentum 
+          <pc type="virgula">//</pc> Respondeo ad primum argumentum 
           <lb ed="#B"/>dicit quod si ignis in summo debeat de 
           <lb ed="#B"/>aqua generare ignem in summo non est 
           <lb ed="#B"/>ymaginandum quod continue in principio 
-          <lb ed="#B"/>ac communis ignis latitudo qualitatis 
-          <lb ed="#B"/>inducatur in aliquam debet est ibi una 
+          <lb ed="#B"/><sic>ac tionis</sic> ignis latitudo qualitatis 
+          <lb ed="#B"/>inducatur in <sic>aliquam</sic> sed est ibi una 
           <lb ed="#B"/>successiva corruptio aquae et non inducitur 
-          <lb ed="#B"/><choice><orig>alico</orig><reg>aliquo</reg></choice> qualitatis ignis nec <choice><orig>alica</orig><reg>aliqua</reg></choice> forma 
+          <lb ed="#B"/><choice><orig>alica</orig><reg>aliqua</reg></choice> qualitas ignis nec <choice><orig>alica</orig><reg>aliqua</reg></choice> forma 
           <lb ed="#B"/>ignis ante ultimum instans corruptionis aquae 
           <lb ed="#B"/>et tunc subito inducetur summus ignis 
           <lb ed="#B"/>et summus calor ignis
         </p>
         <p xml:id="beq3sc-d1e521-d1e4294">
           <pc type="virgula">//</pc>Item in 
-          <lb ed="#B"/>solvendo secundum principale ubi inquit 
-          <lb ed="#B"/>utrum contra simul quo extendantur 
+          <lb ed="#B"/>solvendo secundum principale ubi inquirit 
+          <lb ed="#B"/>utrum contraria simul quo extendantur 
           <lb ed="#B"/>in eodem subiecto tenet quod non propter multas 
           <lb ed="#B"/>rationes dicens quod quando ex aqua generatur 
           <lb ed="#B"/>ignis non est ymaginandum quod subito 
@@ -176,7 +180,7 @@
           <lb ed="#B"/>secundum qualiditatem Respondet quod sicut album 
           <lb ed="#B"/>positum a remotis per intentionem re<lb ed="#B"/>missam 
           reputat visui ita frigiditas 
-          <lb ed="#B"/>aquae multum remissa reprasentat 
+          <lb ed="#B"/>aquae multum remissa repraesentat 
           <lb ed="#B"/>caliditatem 
         </p>
         <p xml:id="beq3sc-d1e521-d1e4451">

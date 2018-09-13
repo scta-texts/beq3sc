@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestio 23 [Pembroke 236 Transcription]</title>
+        <title>Question 23</title>
         <author ref="#Holcot">Holcot</author>
         <editor>Jeffrey C. Witt</editor>
-        <editor>John Slotemaker</editor>
-        <editor>Hester Gelber</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Quaestio 23 [Pembroke 236 Transcription]</title>
-          <date when="2018-01-29">January 29, 2018</date>
+          <title>Question 23</title>
+          <date when="2018-09-13">September 13, 2018</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -30,22 +28,22 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
-          guidelines for a diplomatic edition.
+          guidelines for a critical edition.
         </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2017-11-07" who="#JW" status="draft" n="0.0.0">
+        <change when="2018-09-13" who="#JW" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="include-list">
         <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
@@ -57,72 +55,94 @@
     </front>
     <body>
       <div xml:id="beq3sc-d1e521">
-        <head xml:id="beq3sc-d1e521-Hd1e4126">Quaestio 23 [Pembroke 236 Transcription]</head>
-        <head xml:id="beq3sc-d1e521-Hd1e4129" type="question-title">Utrum qualitas suscipiat magis aut minus</head>
+        <head xml:id="beq3sc-d1e521-Hd1e4126">Question 23</head>
+        <head xml:id="beq3sc-d1e521-Hd1e4129" type="question-title">
+          Whether quality admits of a greater or lesser degree
+        </head>
         <p xml:id="beq3sc-d1e521-d1e4132">
-          <lb ed="#P"/>Utrum qualitas suscipiat magis 
-          <lb ed="#P"/>aut minus <pc type="#punctus"/>
+          Whether quality admits of a greater or lesser degree.
         </p>
         <p xml:id="beq3sc-d1e521-d1e4141">
-          <pc type="#pilcrow"/>Respondeo propositio est distinguenda 
-          <lb ed="#P"/>secundum compositum et divisum sensus compositus est impossibilis 
-          <lb ed="#P"/>quia nulla qualitas suscipit 
-          <lb ed="#P"/>magis et minus simul <pc type="#punctus"/> sensus divisus 
-          <lb ed="#P"/>est verus <pc type="#punctus"/> hoc quantum ad logicam quaestionis <pc type="#punctus"/> quantum 
-          <lb ed="#P"/>ad rem ponit quod calor habet quandam la<lb ed="#P"/>titudinem 
-          tamen calorem habere latitudinem potest 
-          <lb ed="#P"/>intelligi dupliciter
+          I respond 
+          that this proposition should be distinguished 
+          according to the composed and divided sense. 
+          The composite sense is impossible 
+          because no quality takes a greater and lesser at the same time.
+          The divided sense is true 
+          and this is with respect to the logic of the question. 
+          With respect the matter he <!-- he/it/who?? --> puts 
+          that color has some latitude
+          Nevertheless, <mentioned>that color has latitude</mentioned> 
+          is able to be understood in two ways.
         </p>
         <p xml:id="beq3sc-d1e521-d1e139">
-          uno modo sic quia non habet medietates 
-          <lb ed="#P"/>distinctas realiter sicut est de tempore 
-          <lb ed="#P"/>et motu quia hora et annus non distinguuntur 
-          <lb ed="#P"/>realiter sicut nec sortes in foro et sortes in 
-          <lb ed="#P"/>theatro <sic>set</sic> cum dicitur quod tempus habet partes 
-          <lb ed="#P"/>quarum una est dies et alia est an<lb ed="#P"/>nus 
-          debet sic intelligi hora est pars diei et 
-          <lb ed="#P"/>haec res ut est hora minus durat quam ut 
-          <lb ed="#P"/><sic>ut</sic> est dies aut annus <pc type="#punctus"/> <pc type="#pilcrow"/>vel potest sic 
-          <lb ed="#P"/>exponi diutius est haec propositio vera in ista regi<lb ed="#P"/>one
-          caelum est dies <pc type="#punctus"/> quam ista propositio in eadem 
-          <lb ed="#P"/>caelum est hora nona <pc type="#punctus"/> et sic concedendum est quod 
-          <lb ed="#P"/>tempus habet medietates et tunc non est alius sensus 
-          <lb ed="#P"/>nisi iste <pc type="#punctus"/> caelum ut est hora non ita diu du<lb ed="#P"/>rat 
-          sicut caelum ut est annus vel tempus duplum 
-          <lb ed="#P"/>ad annum vel horam <pc type="#punctus"/> et eodem modo est de 
-          <lb ed="#P"/>latitudine caliditatis et <unclear>caliditas</unclear> nam eadem res est 
-          <lb ed="#P"/>latitudo caliditatis et <unclear>caliditas</unclear> et latitudo caliditatis 
-          <lb ed="#P"/>habet partes sicut tempus quia eadem caliditas 
-          <lb ed="#P"/>ut est in <unclear>transmutari <!-- looks like transmitari --></unclear> dicitur latitudo et quando 
-          <lb ed="#P"/>transmutatur dicitur caliditas et non latitudo
+          In one mode thus 
+          that it does not really have distinct intermediates, 
+          just as is true about time and motion 
+          because an hour and a year are not really distinguished 
+          just as Socrates in the forum and Socrates in the theater 
+          are not really distinguished.
+          But when it is said that time has parts, 
+          one of which is day and another is year or hour, 
+          these propositions ought to be understood thus, 
+          hour is part of day and this thing, 
+          as it is an hour, 
+          lasts less than an a day or a year. 
+          Or it is able to be explained thus,
+          the following proposition is true longer <mentioned>in this region the heavens are day</mentioned> 
+          than this proposition <mentioned>in the same region the heavens are now in the ninth hour</mentioned>. 
+          And in this way it should be conceded 
+          that time has intermediaries.
+          And then not in another sense unless this:
+          <mentioned>the heavens, as it is hour, does not thus last longer, 
+          just as the heavens, as it is a year or double time to a year or an hour</mentioned>. 
+          And it is in the same way concerning the latitude of heat,
+          for the same thing is the latitude of heat and heat. 
+          And the latitude of heat has parts, 
+          just as time 
+          because the same heat, as it is in the process of changing 
+          is called 'latitude', and when it is changed 
+          is called <mentioned>heat</mentioned> and not <mentioned>latitude</mentioned>.
         </p>
         <p xml:id="beq3sc-d1e521-d1e200">
-          <lb ed="#P"/><pc type="#pilcrow"/>alio modo posset habere medietates distinctas 
-          <lb ed="#P"/>realiter intensive et istum sensum innuit et 
-          <lb ed="#P"/>negat <pc type="#punctus"/>
+          In another mode, 
+          having really distinct intermediaries 
+          could be to be conceded or be understood intensively, 
+          and this sense beckons and denies. <!-- unsure of "innuit" and translation -->
         </p>
         <p xml:id="beq3sc-d1e521-d1e4237">
-          <pc type="#pilcrow"/>tertio modo potest intelligi habere 
-          <lb ed="#P"/>medietates distinctas realiter extensive sed 
-          <lb ed="#P"/>medietates subiecti et sic concedit quod habet medietates
-          <lb ed="#P"/>realiter distinctas et tempus et motus 
-          <lb ed="#P"/>sicut habet ipsum caelum quia latitudo non est nisi ipsa<lb ed="#P"/>met 
-          caliditas
+          In a third mode, 
+          it is possible for having distinct intermediaries 
+          to be understood extensively
+          according to the intermediaries of the subject, 
+          and thus he <!-- he?? who? --> concedes that both time and motion have 
+          really distinct intermediaries, 
+          just the heavens themselves have 
+          because there is not a latitude 
+          except the heat itself.
         </p>
         <p xml:id="beq3sc-d1e521-d1e4255">
-          <pc type="#pilcrow"/> In Respondendo ad primum argumentum quod 
-          <lb ed="#P"/>si ignis in summo debeat de aqua gener<lb ed="#P"/>are 
-          ignem in summo non est ymaginandum 
-          <lb ed="#P"/>quod continue in principio actionis ignis latitudo 
-          <lb ed="#P"/>caliditatis inducatur in aquam <sic>set</sic> est ibi 
-          <lb ed="#P"/>una successiva <sic>coruptio</sic> aquae sed non inducitur 
-          <lb ed="#P"/>aliqua caliditas ignis neque forma ignis ante ul<lb ed="#P"/>timum 
-          instans <sic>coruptionis</sic> aquae et tunc subito 
-          <lb ed="#P"/>inducetur summus ignis et summus calor
+          I respond to the first argument that, 
+          if fire in the highest degree ought to generate from water 
+          fire in the highest degree, 
+          it should not be imagined that 
+          continuously in the beginning of the action of fire 
+          the latitude of heat is led into water. 
+          Rather there is a successive corruption of the water. 
+          and it does not lead some heat of fire 
+          nor the form of fire before an ultimate instant of corruption of water, 
+          and then immediately will lead to the highest fire and highest color.
         </p>
         <p xml:id="beq3sc-d1e521-d1e4294">
           <pb ed="#P" n="155-r"/>
           <cb ed="#P" n="a"/>
+          Again, 
+          in solving the second principale argument, 
+          where he <!-- he/it? who? --> inquires,
+          whether contraries at the same time are coextended in the same subject, 
+          he holds that this is not so 
+          on account of many arguments, 
+          
           <lb ed="#P"/>Item in solvendo 2m principale ubi inquirit 
           <lb ed="#P"/>utrum contraria simul coextendantur in eodem 
           <lb ed="#P"/>subiecto tenet quod non propter multas rationes dicens 
