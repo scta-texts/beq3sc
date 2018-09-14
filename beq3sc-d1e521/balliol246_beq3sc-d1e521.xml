@@ -131,53 +131,56 @@
           <lb ed="#B"/>rationes dicens quod quando ex aqua generatur 
           <lb ed="#B"/>ignis non est ymaginandum quod subito 
           <lb ed="#B"/>corrumpatur et deinde generetur ignis 
-          <lb ed="#B"/>et intendatur successive nec quod per mediate 
-          <lb ed="#B"/>tempus in quo transmutabitur <unclear>uc?ati?a</unclear>
-          <lb ed="#B"/>aquae corrumpatur tota a quo successive 
-          <lb ed="#B"/>et in alia mediate intendatur forma 
-          <lb ed="#B"/>ignis successive valet successive corrpetur 
+          <lb ed="#B"/>et intendatur successive nec quod per medietate 
+          <lb ed="#B"/>temporis in quo transmutabitur materia 
+          <lb ed="#B"/>aquae corrumpatur tota aqua successive 
+          <lb ed="#B"/>et in alia medietate intendatur forma 
+          <lb ed="#B"/>ignis successive sed successive corrumpetur 
           <lb ed="#B"/>aqua et subito generabitur forma ignis 
           <lb ed="#B"/>et eius qualitas ita quod non generabitur qua<lb ed="#B"/>litas 
-          ignis ante quam tota frigiditas 
-          <lb ed="#B"/>corrumpatur illa tamen caliditas per quam 
+          ignis <sic>ante quam</sic> tota frigiditas 
+          <lb ed="#B"/>corrumpatur illa tamen <sic>caliditas</sic> per quam 
           <lb ed="#B"/>aqua dicitur calida est eadem res cum 
           <cb ed="#B" n="b"/> <!-- 204rb -->
           <lb ed="#B"/>frigiditate aquae et frigiditas aquae 
-          <lb ed="#B"/>et simul est caliditas accidentalis bene non omnis caliditas 
-          <lb ed="#B"/>usnt eiusdem speciei cum frigiditatis 
-          <lb ed="#B"/>aquae et ideo aqua caleditas <unclear>redit</unclear> ad 
-          <lb ed="#B"/>rrigiditatem sine agente extrinseco 
-          <lb ed="#B"/>unde proprie non <unclear>alteras <!-- possible correction --></unclear> se quia alteratio est 
-          <lb ed="#B"/>proprie remissio <sic>fformae <!-- why double ff --></sic> contrariae formae 
+          <lb ed="#B"/>et simul est caliditas accidentalis unde non omnis caliditas 
+          <lb ed="#B"/>sunt eiusdem speciei cum frigiditate 
+          <lb ed="#B"/>aquae et ideo aqua calefacta redit ad 
+          <lb ed="#B"/>frigiditatem sine agente extrinseco 
+          <lb ed="#B"/>unde proprie non <seg type="correction">altera<subst><del>t</del><add>s</add></subst></seg> se quia alteratio est 
+          <lb ed="#B"/>proprie remissio <sic>fformae</sic> contrariae formae 
           <lb ed="#B"/>agentis unde illa caliditas quando fit debilior 
-          <lb ed="#B"/>caliditas non remittitur valet intenditur 
+          <lb ed="#B"/>caliditas non remittitur sed intenditur 
           <lb ed="#B"/>et causa est quia illa caliditas est essentialiter fri<lb ed="#B"/>giditas 
-          et accidentis calor
+          et accidentaliter calor
         </p>
         <p xml:id="beq3sc-d1e521-d1e4377">
           Item 2m 
-          <lb ed="#B"/>eundem corruptio rei naturales non est 
-          <lb ed="#B"/>contraria generationem suae per eosdem 
-          <lb ed="#B"/>gradus valet generatio ignis ex aliqua 
+          <lb ed="#B"/>eundem corruptio rei naturalis non est 
+          <lb ed="#B"/>contraria generationi suae per eosdem 
+          <lb ed="#B"/>gradus sed generatio ignis ex aqua 
           <lb ed="#B"/>erit ex contraria corruptione formae 
           <lb ed="#B"/>aquae et suae frigiditate et generatio 
           <lb ed="#B"/>aquae ex illo erit ex successiva co<lb ed="#B"/>rruptione 
           aquae in latitudine 
           <lb ed="#B"/>ignis et suae caliditas et subito generabitur 
-          aqua et sua frigiditatis etc 
-          <lb ed="#B"/>salvat quod est accipere primum instans rei <unclear>perura?tis</unclear> 
-          in esset et ita ultimum et qualitas motus 
-          <lb ed="#B"/>denotatur a posteriori pationem secundum 
-          <lb ed="#B"/>ymaginationem conceditur 8 <title>physicorum</title> commento 69 
-          <lb ed="#B"/>quod caliditas in aqua sic frigiditur 
+          aqua et sua frigiditas et sic 
+          <lb ed="#B"/>salvat quod est accipere primum instans rei permanentis 
+          in esse et ita ultimum et qualitas motus 
+          <lb ed="#B"/>denotatur a posteriori <sic>pationem</sic> secundum 
+          <lb ed="#B"/>ymaginationem <name>commentatoris</name> 8 <title>physicorum</title> commento 69 
+          <lb ed="#B"/>quod caliditas in aqua sit frigiditas  
           <lb ed="#B"/>probat sic per signum quia caliditas in 
-          <lb ed="#B"/>aqua remittat caliditatem <unclear>inferio<!--??--></unclear> 
-          <lb ed="#B"/>aeque <unclear>calidendo</unclear> cum aqua inconveniens est 
+          <lb ed="#B"/>aqua remittat caliditatem <unclear>inferno</unclear> 
+          <lb ed="#B"/>aeque <unclear>causando</unclear> cum aqua inconveniens est 
           <lb ed="#B"/>antecedens quod <choice><orig>alica</orig><reg>aliqua</reg></choice> caliditas remittat 
-          <lb ed="#B"/>caliditatem eiusdem speciei si dicatur 
-          <lb ed="#B"/>quod calitatis in aqua est essentialiter frigiditas 
+          <lb ed="#B"/>caliditatem eiusdem speciei
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4440">
+          si dicatur 
+          <lb ed="#B"/>quod caliditas in aqua est essentialiter frigiditas 
           <lb ed="#B"/>quare non repraesentat sensum frigiditatem 
-          <lb ed="#B"/>secundum qualiditatem Respondet quod sicut album 
+          <lb ed="#B"/><sic>secundum qualiditatem</sic> Respondet quod sicut album 
           <lb ed="#B"/>positum a remotis per intentionem re<lb ed="#B"/>missam 
           reputat visui ita frigiditas 
           <lb ed="#B"/>aquae multum remissa repraesentat 
@@ -185,13 +188,13 @@
         </p>
         <p xml:id="beq3sc-d1e521-d1e4451">
           <pc type="virgula">//</pc>hic est notandum quod idem 
-          <lb ed="#B"/>calor potest esse intentior quam eam est 
+          <lb ed="#B"/>calor potest esse <sic>intentior</sic> quam iam est 
           <lb ed="#B"/>sine additione alicuius quia faciat deus 
-          <lb ed="#B"/>duas mediates calorum simul vel coexten<lb ed="#B"/>di 
-          in eodem statu igitur est intentior in 2lo 
-          <lb ed="#B"/>quam prius sed conventi hoc arguitur sic quia sit 
+          <lb ed="#B"/>duas medietates caloris simul vel coexten<lb ed="#B"/>di 
+          in eodem scitu igitur est intentior in 2lo 
+          <lb ed="#B"/>quam prius sed contra hoc arguitur sic quia sic 
           <lb ed="#B"/>calor christi format intentior quam calor 
-          <lb ed="#B"/>alicuius alterius quia mediatas est in eodem 
+          <lb ed="#B"/>alicuius alterius quia medietas est in eodem 
           <lb ed="#B"/>statu et medietas illarum et sic in infinitum dicitur quod 
           <lb ed="#B"/>non est ad propositum quia calor christi in sacramento non
           <pb ed="#B" n="204-v"/>

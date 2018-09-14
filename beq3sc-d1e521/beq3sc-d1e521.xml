@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 23</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 23 </title>
+          <date when="2018-09-14">September 14, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-07" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="154-v"/><cb ed="#P" n="b"/>
+        <pb ed="#B" n="203-v"/><cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e521">
+        <head xml:id="beq3sc-d1e521-Hd1e4126">Quaestio 23</head>
+        <head xml:id="beq3sc-d1e521-Hd1e4129" type="question-title">
+          <supplied>Utrum qualitas suscipiat magis aut minus</supplied>
+        </head>
+        <p xml:id="beq3sc-d1e521-d1e4132">
+          Utrum qualitas suscipiat magis aut minus? 
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4141">
+          Respondeo propositio
+          <app>
+            <lem n="propositio"/>
+            <rdg wit="#B" type="variation-present">
+              et dico quod ista propositio 
+              qualitas suscipit magis et minus
+            </rdg>
+          </app> 
+          est 
+          <app>
+            <lem>distinguenda</lem>
+            <rdg wit="#B">distinguendum</rdg>
+          </app> 
+          secundum 
+          <app>
+            <lem>compositum</lem>
+            <rdg wit="#B">sensum compositum</rdg>
+          </app> 
+          et 
+          <app>
+            <lem>divisum</lem>
+            <rdg wit="#B">sensum divisum</rdg>
+          </app>. 
+          Sensus compositus est impossibilis 
+          <app>
+            <lem>quia nulla qualitas suscipit magis et minus simul</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>.  
+          Sensus divisus 
+          est verus
+          <app>
+            <lem n="verus"/>
+            <rdg wit="#B" type="variation-present">et</rdg>
+          </app>  
+          hoc quantum ad logicam 
+          <app>
+            <lem>quaestionis</lem>
+            <rdg wit="#B">conclusionis</rdg>
+          </app>  
+          quantum ad rem ponit quod calor habet quandam latitudinem. 
+          Tamen 
+          <mentioned>calorem habere latitudinem</mentioned> 
+          potest intelligi dupliciter. 
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e139">
+          Uno modo sic 
+          <app>
+            <lem>quia</lem>
+            <rdg wit="#B">quod</rdg>
+          </app> 
+          non habet mediatates distinctas 
+          realiter sicut est de tempore et motu 
+          quia hora et annus non distinguuntur realiter sicut nec Sortes in foro et Sortes in 
+          theatro. 
+          Sed cum dicitur quod 
+          <app>
+            <lem>tempus</lem>
+            <rdg wit="#B">duas</rdg>
+          </app> 
+          habet partes quarum una est dies et alia est annus 
+          <app>
+            <lem>vel hora, propositiones</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>  
+          <app>
+            <lem>debent</lem>
+            <rdg wit="#P">debet</rdg>
+          </app> 
+          sic intelligi, 
+          hora est pars diei et 
+          haec res, 
+          ut est 
+          <app>
+            <lem>hora</lem>
+            <rdg wit="#B">horam</rdg>
+          </app>, 
+          minus durat quam ut 
+          <app>
+            <lem n="ut"/>
+            <rdg wit="#P" type="variation-present" cause="repetion">ut</rdg>
+          </app> 
+          est dies 
+          <app>
+            <lem>aut</lem>
+            <rdg wit="#B">vel</rdg>
+          </app> 
+          annus. 
+          Vel potest sic exponi, 
+          diutius est haec 
+          <pb ed="#B" n="204-r"/>
+          <cb ed="#B" n="a"/> 
+          propositio vera 
+          <mentioned>in ista regione caelum est dies</mentioned> 
+          quam ista propositio 
+          <mentioned>in eadem caelum est hora nona</mentioned>, 
+          et sic concedendum est quod tempus habet medietates. 
+          Et tunc non est alius sensus nisi iste: 
+          <mentioned>caelum ut est hora non ita diu durat</mentioned> 
+          sicut 
+          <mentioned>caelum ut est annus vel tempus duplum ad annum vel 
+            <app>
+              <lem n="vel"/>
+              <rdg wit="#B" type="variation-present">ad</rdg>
+            </app>  
+            horam
+          </mentioned>. 
+          Et eodem modo est de 
+          latitudine 
+          <app>
+            <lem>caliditatis et caliditas</lem>
+            <rdg wit="#B">caritas</rdg>
+          </app>, 
+          nam eadem res 
+          <app>
+            <lem n="res"/>
+            <rdg wit="#B">realiter</rdg>
+          </app> 
+          est latitudo 
+          <app>
+            <lem>
+              caliditatis et caliditas. 
+              Et latitudo caliditatis
+            </lem>
+            <rdg wit="#B">caritas</rdg>
+          </app>
+          habet 
+          <app>
+            <lem>partes</lem>
+            <rdg wit="#B">pars</rdg>
+          </app> 
+          sicut tempus quia eadem 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">caritas</rdg>
+          </app> 
+          ut est in transmutari 
+          dicitur latitudo 
+          et quando transmutatur 
+          dicitur 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app> 
+          et non latitudo.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e200">
+          Alio modo, posset 
+          <app>
+            <lem>concedi vel intelligi</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          habere 
+          <app>
+            <lem>medietates</lem>
+            <rdg wit="#B">mentis</rdg>
+          </app> 
+          <app>
+            <lem>distinctas</lem>
+            <rdg wit="#B">distinctam</rdg>
+          </app> 
+          realiter intensive, 
+          et istum sensum innuit et negat.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4237">
+          Tertio modo, 
+          potest intelligi habere 
+          <app>
+            <lem>medietates</lem>
+            <rdg wit="#B">mentis</rdg>
+          </app> 
+          distinctas realiter extensive secundum 
+          <app>
+            <lem>medietates</lem>
+            <rdg wit="#B">mentis</rdg>
+          </app> 
+          subiecti, 
+          et sic concedit quod habet 
+          <app>
+            <lem>medietates</lem>
+            <rdg wit="#B">mentis</rdg>
+          </app> 
+          realiter distinctas et tempus 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#B">est</rdg>
+          </app> 
+          motus, sicut habet ipsum caelum 
+          quia latitudo non est nisi ipsamet 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4255">
+          <app>
+            <lem>Respondeo</lem>
+            <rdg wit="#P">In respondendo</rdg>
+          </app> 
+          ad primum argumentum 
+          <app>
+            <lem n="argumentum"/>
+            <rdg wit="#B" type="variation-present">dicit</rdg>
+          </app> 
+          quod, 
+          si ignis in summo debeat de aqua generare ignem in summo, 
+          non est imaginandum quod continue in principio actionis 
+          ignis latitudo 
+          <app>
+            <lem>caliditatis</lem>
+            <rdg wit="#B">qualitatis</rdg>
+          </app> 
+          inducatur in 
+          <app>
+            <lem>aquam</lem>
+            <rdg wit="#B">aliquam</rdg>
+          </app>. 
+          Sed est ibi una successiva corruptio aquae 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#P">sed</rdg>
+          </app> 
+          non inducitur aliqua 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app> 
+          ignis 
+          <app>
+            <lem>neque</lem>
+            <rdg wit="#B">nec</rdg>
+          </app>
+          <app>
+            <lem n="neque"/>
+            <rdg wit="#B" type="variation-present">aliqua</rdg>
+          </app>
+          forma ignis ante ultimum instans corruptionis aquae 
+          et tunc subito inducetur summus ignis et summus calor 
+          <app>
+            <lem n="calor"/>
+            <rdg wit="#B" type="variation-present">ignis</rdg>
+          </app>. 
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4294">
+          <pb ed="#P" n="155-r"/>
+          <cb ed="#P" n="a"/>
+          Item, 
+          in solvendo secundum principale, 
+          ubi inquirit, 
+          utrum contraria simul 
+          <app>
+            <lem>coextendantur</lem>
+            <rdg wit="#B">quo extendantur</rdg>
+          </app> 
+          in eodem subiecto, 
+          tenet quod non propter multas rationes dicens quod, 
+          quando ex aqua generatur ignis, 
+          non est imaginandum quod subito corrumpatur 
+          et deinde generetur ignis et intendatur successive, 
+          nec quod per 
+          <app>
+            <lem>medietatem</lem>
+            <rdg wit="#B">medietate</rdg>
+          </app> 
+          temporis in quo transmutabitur materia aquae 
+          corrumpatur tota aqua successive, 
+          et in alia medietate intendatur forma ignis successive. 
+          Sed successive corrumpetur aqua 
+          et subito generabitur forma ignis 
+          et eius 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app> 
+          ita quod non 
+          <app>
+            <lem>generatur</lem>
+            <rdg wit="#B">generabitur</rdg>
+          </app> 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app> 
+          <app>
+            <lem n="caliditas"/>
+            <rdg wit="#B" type="variation-present">ignis</rdg>
+          </app>
+          antequam tota frigiditas corrumpatur. 
+          Illa tamen 
+          <app>
+            <lem>caliditas</lem>
+            <rdg wit="#B">qualitas</rdg>
+          </app> 
+          per quam aqua dicitur 
+          calida est eadem res cum frigiditate aquae, 
+          et frigiditas 
+          <app>
+            <lem>remissa aquae</lem>
+            <rdg wit="#B">aquae et simul</rdg>
+          </app> 
+          est caliditas accidentalis. 
+          <app>
+            <lem>
+              Unde non sunt calores eiusdem speciei 
+              quia caliditas accidentalis aquae 
+              est alterius speciei quam calor ignis et
+            </lem>
+            <rdg wit="#B">Unde non omnes caliditas sunt</rdg>
+          </app> 
+          eiusdem 
+          <app>
+            <lem n="eiusdem"/>
+            <rdg wit="#B" type="variation-present">speciei</rdg>
+          </app> 
+          cum frigiditate aquae, 
+          et ideo aqua calefacta redit ad frigiditatem sine agente extrinseco. 
+          Unde proprie non 
+          <app>
+            <lem>alterat</lem>
+            <rdg wit="#B" type="correction-substitution">
+              <subst>
+                <del>alteras</del>
+                <add>alterat</add>
+              </subst>
+            </rdg>
+          </app> 
+          se quia alteratio est proprie 
+          remissio formae contrariae formae agentis. 
+          Unde illa caliditas, 
+          quando fit debilior caliditas non remittitur 
+          sed intenditur, 
+          et causa est 
+          quia illa caliditas est essentialiter 
+          frigiditas et accidentaliter calor.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4377">
+          Item, 
+          secundum eundem corruptio rei naturales 
+          non est contraria generationi suae per eosdem gradus, 
+          sed generatio ignis ex aqua erit ex contraria corruptione 
+          formae aquae et suae frigiditate et generatio aquae 
+          ex 
+          <app>
+            <lem>illa</lem>
+            <rdg wit="#B">illo</rdg>
+          </app> 
+          erit ex successiva corruptione 
+          <app>
+            <lem n="corruptione"/>
+            <rdg wit="#B">aquae</rdg>
+          </app>
+          in latitudine ignis et suae caliditas, 
+          et subito generabitur aqua et sua frigiditas, 
+          et sic salvat quod est accipere 
+          primum instans rei permanentis in esse et ita ultimum, 
+          et qualitas motus denotatur a posteriori 
+          <app>
+            <lem>passione</lem>
+            <rdg wit="#B">pationem</rdg>
+          </app> 
+          secundum imaginationem 
+          <ref>
+            <name ref="#Averroes">Commentatoris</name> 
+            8 <title>Physicorum</title>, 
+            commento 69
+          </ref>. 
+          Quod caliditas in aqua sit 
+          <app>
+            <lem>essentialiter</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          frigiditas, 
+          probat sic per signum, 
+          quia caliditas in aqua remittat caliditatem 
+          <app>
+            <lem n="caliditatem"/>
+            <rdg wit="#B" type="variation-present"><unclear>inferno</unclear></rdg>
+          </app> 
+          aeque causando cum aqua. 
+         <app>
+           <lem>Sed consequentia non est</lem>
+           <rdg wit="#B">inconveniens est antecedens</rdg>
+         </app> 
+          quod 
+          <app>
+            <lem>aliqua</lem>
+            <rdg wit="#P">alia</rdg>
+          </app> 
+          caliditas 
+          <app>
+            <lem>remittat</lem>
+            <rdg wit="#P">remittit</rdg>
+          </app> 
+          caliditatem eiusdem speciei.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4440">
+          Si 
+          <app>
+            <lem>autem</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          <app>
+            <lem>dicatur</lem>
+            <rdg wit="#P">dicitur</rdg>
+          </app> 
+          quod, 
+          <app>
+            <lem>si</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          caliditas in aqua est essentialiter frigiditas, 
+          quare non repraesentat sensum frigiditatem 
+          <app>
+            <lem>sed caliditatem</lem>
+            <rdg wit="#B">secundum <sic>qualiditatem</sic></rdg>
+          </app>? 
+          Respondet quod, 
+          sicut album positum a remotis per intensionem remissam 
+          repraesentat visui 
+          <app>
+            <lem>nigredinem vel corporale medium</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>, 
+          ita frigiditas aquae multum 
+          remissa repraesentat caliditatem.
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4451">
+          <app>
+            <lem>Nota</lem>
+            <rdg wit="#B">Hic est notandum</rdg>
+          </app> 
+          quod idem calor potest esse intensior 
+          quam iam est sine additione alicuius 
+          quia faciat Deus duas medietates caloris simul 
+          <app>
+            <lem n="simul"/>
+            <rdg wit="#B" type="variation-present">vel</rdg>
+          </app>coextendi in eodem 
+          <app>
+            <lem>situ</lem>
+            <rdg wit="#B">scitu</rdg>
+          </app>, 
+          igitur est in duplo intentior quam prius. 
+          Sed contra, 
+          <app>
+            <lem>hoc non accipit quia sic</lem>
+            <rdg wit="#B">hoc arguitur sic quia sic</rdg>
+          </app>, 
+          calor Christi 
+          <app>
+            <lem>foret</lem>
+            <rdg wit="#B">format</rdg>
+          </app> 
+          intentior quam calor alicuius alterius quia 
+          <app>
+            <lem>eius</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          medietas est in eodem 
+          <app>
+            <lem>situ</lem>
+            <rdg wit="#B">scitu</rdg>
+          </app> 
+          et medietas illarum 
+          et sic in infinitum. 
+          Dicitur quod non est ad propositum 
+          quia calor Christi in sacramento non
+          <pb ed="#B" n="204-v"/>
+          <cb ed="#B" n="a"/> 
+          est ibi localiter nec situaliter, 
+          <app>
+            <lem>ideo etc.</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

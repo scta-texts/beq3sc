@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,10 +44,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#P" n="154-v"/><cb ed="#P" n="b"/>
       </div>
@@ -93,7 +87,7 @@
           <lb ed="#P"/>latitudine caliditatis et <unclear>caliditas</unclear> nam eadem res est 
           <lb ed="#P"/>latitudo caliditatis et <unclear>caliditas</unclear> et latitudo caliditatis 
           <lb ed="#P"/>habet partes sicut tempus quia eadem caliditas 
-          <lb ed="#P"/>ut est in <unclear>transmutari <!-- looks like transmitari --></unclear> dicitur latitudo et quando 
+          <lb ed="#P"/>ut est in transmutari dicitur latitudo et quando 
           <lb ed="#P"/>transmutatur dicitur caliditas et non latitudo
         </p>
         <p xml:id="beq3sc-d1e521-d1e200">
@@ -126,52 +120,54 @@
           <lb ed="#P"/>Item in solvendo 2m principale ubi inquirit 
           <lb ed="#P"/>utrum contraria simul coextendantur in eodem 
           <lb ed="#P"/>subiecto tenet quod non propter multas rationes dicens 
-          <lb ed="#P"/>quod quando ex aliqua generatur ignis non est ymaginandum 
+          <lb ed="#P"/>quod quando ex aqua generatur ignis non est ymaginandum 
           <lb ed="#P"/>quod subito <sic>corumpatur</sic> et deinde generetur ignis 
-          <lb ed="#P"/>et intendatur successive nec quod per <unclear>medem</unclear> 
-          <lb ed="#P"/>tempus in quo transmutabitur <unclear>n?ra</unclear> aliquae corrum<lb ed="#P"/>patur 
-          tota aliqua successive et in alia mediate inten<lb ed="#P"/>datur 
+          <lb ed="#P"/>et intendatur successive nec quod per medietatem 
+          <lb ed="#P"/>temporis in quo transmutabitur materia aquae corrum<lb ed="#P"/>patur 
+          tota aqua successive et in alia medietate inten<lb ed="#P"/>datur 
           forma ignis successive <sic>set</sic> successive 
-          <lb ed="#P"/>corrumpetur aqua et subito generabitur forma 
+          <lb ed="#P"/><sic>corrupetur</sic> aqua et subito generabitur forma 
           <lb ed="#P"/>ignis et eius caliditas ita quod non generatur 
           <lb ed="#P"/>caliditas antequam tota frigiditas corrumpatur 
           <lb ed="#P"/>illa tamen caliditas per quam aqua dicitur calida est 
           <lb ed="#P"/>eadem res cum frigiditate aquae et frigiditas 
-          <lb ed="#P"/>remissa aquae est caliditas accidentalis unde non 
+          <lb ed="#P"/>remissa aquae est caliditas accidentalis unde non
           <lb ed="#P"/>sunt calores eiusdem speciei quia caliditas 
-          <lb ed="#P"/>accidentalis aquae est alterius speciei quam calor 
-          <lb ed="#P"/>ignis et eiusdem cum frigide aquae et ideo 
+          <lb ed="#P"/>accidentalis aquae est alterius speciei quam calor
+          <lb ed="#P"/>ignis et eiusdem cum frigiditate aquae et ideo
           <lb ed="#P"/>aqua calefacta redit ad frigiditatem sine agen<lb ed="#P"/>te 
           extrinseco unde proprie non alterat se quia 
           <lb ed="#P"/>alteratio est proprie remissio formae contrariae 
-          <lb ed="#P"/>formae agentis unde illa qualitas quando fit 
-          <lb ed="#P"/>debelior causalitas nonremittitur <sic>set</sic> neccesse 
-          <lb ed="#P"/>dicitur et causa est quia illa caliditas est essentialiter fri<lb ed="#P"/>giditas 
+          <lb ed="#P"/>formae agentis unde illa caliditas quando fit 
+          <lb ed="#P"/>debilior caliditas non remittitur <sic>set</sic> inten<lb ed="#P"/>ditur et causa est quia illa caliditas est essentialiter fri<lb ed="#P"/>giditas 
           et accidentaliter calor
         </p>
         <p xml:id="beq3sc-d1e521-d1e4377">
           <pc type="#pilcrow"/>Item secundum
-          <lb ed="#P"/>eundem corruptio rei naturales non est contraria ge<lb ed="#P"/>nerationi 
+          <lb ed="#P"/>eundem corruptio rei naturalis non est contraria ge<lb ed="#P"/>nerationi 
           suae per eosdem gradus <sic>set</sic> ge<lb ed="#P"/>neratio 
           ignis ex aqua erit ex contraria 
           <lb ed="#P"/>corruptione formae aquae et suae frigiditate 
           <lb ed="#P"/>et generatio aquae ex illa erit ex successiva 
           <lb ed="#P"/>corruptione in latitudine ignis et suae caliditas 
-          <lb ed="#P"/>et subito generabitur aqua et sua frigiditatis 
-          <lb ed="#P"/>et sic salvat quod est accipere primum instans rei per<lb ed="#P"/>maneret 
+          <lb ed="#P"/>et subito generabitur aqua et sua frigiditas
+          <lb ed="#P"/>et sic salvat quod est accipere primum instans rei per<lb ed="#P"/>manentis
           in esse et ita ultimum et qualitas mo<lb ed="#P"/>tus 
           denotatur a posteriori passione secundum 
-          <lb ed="#P"/>ymaginationem conceditur 8 <title>physicorum</title> commento 69 
+          <lb ed="#P"/>ymaginationem <name>commentatoris</name> 8 <title>physicorum</title> commento 69 
           <lb ed="#P"/><pc type="#pilcrow"/>quod caliditas in aqua sit essentialiter frigiditas 
           <lb ed="#P"/>probat sic per signum quia caliditas in aqua remit<lb ed="#P"/>tat 
-          <lb ed="#P"/>caliditatem aeque calido cum aqua <sic>set</sic> consequentia 
-          <lb ed="#P"/>non est quod <unclear>alia</unclear> caliditas remittit caliditatem
-          <lb ed="#P"/>eiusdem speciei <pc type="#punctus"/> <pc type="#pilcrow"/> Si autem dicitur quod si caliditas 
+          <lb ed="#P"/>caliditatem aeque <unclear>causando</unclear> cum aqua <sic>set</sic> consequentia 
+          <lb ed="#P"/>non est quod <sic>alia</sic> caliditas remittit caliditatem
+          <lb ed="#P"/>eiusdem speciei <pc type="#punctus"/>
+        </p>
+        <p xml:id="beq3sc-d1e521-d1e4440">
+          <pc type="#pilcrow"/> Si autem dicitur quod si caliditas 
           <lb ed="#P"/>in aqua est essentialiter frigiditas quare 
           <lb ed="#P"/>non repraesentat sensum frigiditatem <sic>set</sic> ca<lb ed="#P"/>liditatem 
-          respondet quod sicut album <unclear>positum</unclear> a remotis 
+          respondet quod sicut album positum a remotis 
           <lb ed="#P"/>per intensionem remissam repraesentat vi<lb ed="#P"/>sui 
-          nigredinem vel <unclear>co?ie</unclear> medium ita fri<lb ed="#P"/>giditas 
+          nigredinem vel corporale medium ita fri<lb ed="#P"/>giditas 
           aquae multum remissa repraesentat 
           <lb ed="#P"/>caliditatem
         </p>
@@ -179,8 +175,8 @@
           <pc type="#pilcrow"/>Nota quod idem calor potest esse in<lb ed="#P"/>tentior 
           quam iam est sine additione alicuius 
           <lb ed="#P"/>quia faciat deus duas medietates calorum 
-          <lb ed="#P"/>simul coextendi in eodem situ <pc type="#punctus"/> igitur est duplo 
-          <lb ed="#P"/>intentior quam prius <pc type="#pilcrow"/><sic>Set</sic> contra hoc non arguit 
+          <lb ed="#P"/>simul coextendi in eodem situ <pc type="#punctus"/> igitur est in duplo 
+          <lb ed="#P"/>intentior quam prius <pc type="#pilcrow"/><sic>Set</sic> contra hoc non accipit 
           <lb ed="#P"/>quia sic calor christi foret intentior quam 
           <lb ed="#P"/>calor alicuius alterius quia eius medietas est 
           <lb ed="#P"/>in eodem situ et medietas illarum et sic in 
