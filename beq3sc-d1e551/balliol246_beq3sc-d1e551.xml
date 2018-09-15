@@ -54,48 +54,56 @@
         <head xml:id="beq3sc-d1e551-Hd1e4126">Quaestio 24 [Balliol 246 Transcription]</head>
         <head xml:id="beq3sc-d1e551-Hd1e4129" type="question-title">Utrum contraria possunt esse in eodem subiecto coextensa</head>
         <p xml:id="beq3sc-d1e551-d1e4132">
-          <lb ed="#B"/>Utrum contra pos<lb ed="#B"/>sunt 
+          <lb ed="#B"/>Utrum contraria pos<lb ed="#B"/>sunt 
           esse in eodem 
           <lb ed="#B"/>subiecto <sic>coextenssa</sic>
         </p>
         <p xml:id="beq3sc-d1e551-d1e4144">
           quod sic 
-          <lb ed="#B"/>aliquod contrarium potest remitti 
-          <lb ed="#B"/>valet unum non remittitur 
-          <lb ed="#B"/>nisi propter intentionem alterius in eodem 
+          <lb ed="#B"/>aliquod contraria potest remitti 
+          <lb ed="#B"/>sed unum non remittitur 
+          <lb ed="#B"/>nisi propter <sic>intentionem</sic> alterius in eodem 
           <lb ed="#B"/>subiecto igitur minor probatur per <name>commentatorem</name> 9 physicorum commento 
-          <sic>4iio <!-- 42?? combintation of arabaic and roman numbers--></sic> ubi dicit quod <unclear>diminutio</unclear> in omni est propter ad 
+          45o ubi dicit quod <unclear>diminutum</unclear> in omni est propter ad 
           <lb ed="#B"/>intentionem sui contrarii et idem commento 19 eiusdem 
           <lb ed="#B"/>et multis aliis commentis eiusdem et sic in 
-          <lb ed="#B"/>omni mixto est unum elementarium praedominans 
+          <lb ed="#B"/>omni mixto est unum elementum praedominans 
           <lb ed="#B"/>cui attribuitur forma et aliud cui prae<lb ed="#B"/>dominatur 
-          sicud 10 <title>metaphysciae</title> commento 33 et 1o de caelo 
-          <lb ed="#B"/>commento 1o ubi frequentis habetur quod omne mixtum 
+          sicud 10 <title>metaphysciae</title> commento 23 et 1o de caelo 
+          <lb ed="#B"/>commento 1o ubi frequenter habetur quod omne mixtum 
           <lb ed="#B"/>moritur ad modum elementi dominantis 
           <lb ed="#B"/>igitur in omne mixto sunt elementa contraria et 
-          <lb ed="#B"/>duae qualitatis contrariae quia nisi qualitatis 
+          <lb ed="#B"/>duae qualitates contrariae quia nisi qualitatis 
           <lb ed="#B"/><sic>fforent</sic> contrariae ibi elementa contraria non forent 
           <lb ed="#B"/>ibi consequens est falsum
         </p>
         <p xml:id="beq3sc-d1e551-d1e4195">
-          <pc type="virgula">//</pc>Respondendum ad hoc quod 
-          <lb ed="#B"/>remitti per ad mixtionem contrarii potest etc 
+          <pc type="virgula">//</pc> Respondendum ad hoc quod 
+          <lb ed="#B"/>remitti per ad mixtionem contrarii potest dupliciter 
           <lb ed="#B"/>intelligi vel quod suum contrarium secum coexten<lb ed="#B"/>datur 
-          in eadem materia et hoc est in possibile vle 
+          in eadem materia et hoc est inpossibile vel 
           <lb ed="#B"/>quod sit mixtio contrarii agentis in passum 
-          <lb ed="#B"/>et sic concedo quod omne quod fit minus sic 
+          <lb ed="#B"/>et sic concedo quod omne quod fit minus fit
           <lb ed="#B"/>minus per ad mixtionem sui contrarii per quod 
-          <lb ed="#B"/>patet ad primum ad 2m dicitur quod nullum <unclear>electum</unclear> est 
-          <lb ed="#B"/>pars qualitativa mixti valet solum quantitativa et quodlibet 
-          <lb ed="#B"/><unclear>ellectum</unclear> sic remissum per mixtionem sui 
-          <lb ed="#B"/>contrarii In corpus mixtum et ideo quaelibet 
-          <lb ed="#B"/>pars mixti eset mixta unde quando aliquid componitur 
-          <lb ed="#B"/>ex duobus contrariis <unclear>transi?</unclear> secundum se totum 
-          <lb ed="#B"/>tunc quaelibet pars est remissa et mixta 
-          <lb ed="#B"/>ad intellectum <name ref="#Aristotle">aristotelis</name> nec ex possibilis aliquid mixtum 
-          <lb ed="#B"/>componi ex contrariis aequalitatis et ad 
+          <lb ed="#B"/>patet ad primum
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e173">
+          ad 2m dicitur quod nullum <sic>electum</sic> est 
+          <lb ed="#B"/>pars qualitativa mixti sed solum quantitativa et quodlibet 
+          <lb ed="#B"/><sic>electum</sic> sic remissum per mixtionem sui 
+          <lb ed="#B"/>contrarii est corpus mixtum et ideo quaelibet 
+          <lb ed="#B"/>pars mixti est mixta unde quando aliquid componitur 
+          <lb ed="#B"/>ex duobus contrariis <unclear>transitoriis</unclear> secundum se totum 
+          <lb ed="#B"/>tunc quaelibet pars est remissa et mixta
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e214">
+          <lb ed="#B"/>ad intellectum <name ref="#Aristotle">aristotelis</name> nec est possibilis aliquid mixtum 
+          <lb ed="#B"/>componi ex contrariis aequaliter
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e230">
+          et ad 
           <lb ed="#B"/>commentatorem commento 23 dico quod intelligit per 
-          <lb ed="#B"/>inpossibile difficile valde et <name ref="#Galen">galienus</name> in cael<lb ed="#B"/>lexit 
+          <lb ed="#B"/>inpossibile difficile valde et <name ref="#Galen">galienus</name> intel<lb ed="#B"/>lexit 
           per possibile facile
         </p>
         

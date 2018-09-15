@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 24</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 24</title>
+          <date when="2018-09-15">September 15, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-09-15" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="155-r"/><cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e551">
+        <head xml:id="beq3sc-d1e551-Hd1e4126">Quaestio 24</head>
+        <head xml:id="beq3sc-d1e551-Hd1e4129" type="question-title">
+          Utrum contraria possunt esse in eodem subiecto coextensa?
+        </head>
+        <p xml:id="beq3sc-d1e551-d1e4132">
+          <cb ed="#P" n="b"/>
+          Utrum contraria possunt esse 
+          in eodem subiecto coextensa?
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e4144">
+          Quod sic 
+          aliquod contrarium potest remitti. 
+          Sed unum non remittitur nisi propter intensionem 
+          alterius in eodem subiecto, igitur. 
+          Minor probatur per 
+          <ref xml:id="beq3sc-d1e551-Rd1e115">
+            <name ref="#Averroes">Commentatorem</name> 
+            9 
+            <title>Physicorum</title>, 
+            commento 
+            45
+          </ref>, 
+          ubi dicit 
+          quod <unclear>diminutum</unclear> in omni 
+          est propter admixtionem sui contrarii 
+          et 
+          <ref xml:id="beq3sc-d1e551-Rd1e127">idem commento 19 eiusdem</ref> 
+          et multis 
+          <app>
+            <lem>aliis</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          commentis eiusdem. 
+          Et sic in omni mixto est unum 
+          elementum praedominans 
+          cui attribuitur forma 
+          et aliud cui praedominatur, 
+          sicut 
+          <app>
+            <lem>patet</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          <ref xml:id="beq3sc-d1e551-Rd1e147">
+            10 
+            <title>Metaphysciae</title>,
+            commento 23
+          </ref>, 
+          et 
+          <ref xml:id="beq3sc-d1e551-Rd1e153">
+            primo 
+            <title>De caelo</title> 
+            commento 
+            <app>
+              <lem>7</lem>
+              <rdg wit="#B">1</rdg>
+            </app>
+          </ref>, 
+          ubi frequenter habetur 
+          quod omne mixtum moritur 
+          ad modum elementi dominantis, 
+          igitur in omne mixto sunt elementa contraria 
+          et duae qualitates contrariae 
+          quia, 
+          nisi qualitates contrariae forent ibi, 
+          elementa contraria non forent ibi. 
+          Consequens est falsum.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e4195">
+          Respondendum ad hoc quod 
+          remitti per admixtionem contrarii 
+          potest dupliciter intelligi. 
+          Vel quod suum 
+          contrarium secum coextendatur in eadem materia, 
+          et hoc est impossibile. 
+          Vel quod sit mixtio contrarii agentis 
+          in passum, et sic concedo 
+          quod omne quod fit minus, 
+          fit minus per admixtionem sui contrarii, 
+          per quod patet ad primum
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e173">
+          Ad secundum dicitur quod nullum 
+          <app>
+            <lem>elementum</lem>
+            <rdg wit="#B">ellectum</rdg>
+          </app> 
+          est pars 
+          qualitativa mixti sed solum quantitativa. 
+          Et quodlibet 
+          <app>
+            <lem>elementum</lem>
+            <rdg wit="#B">ellectum</rdg>
+          </app> 
+          sic remissum 
+          per mixtionem sui contrarii est corpus mixtum, 
+          et ideo quaelibet pars mixti est mixta. 
+          Unde quando aliquid componitur ex duobus contrariis 
+          <unclear>transitoriis</unclear> secundum se 
+          <app>
+            <lem>sola</lem>
+            <rdg wit="#B">totum</rdg>
+          </app> 
+          tunc quaelibet pars est 
+          remissa et 
+          <app>
+            <lem>mixta</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e214">
+          Ad intellectum <ref xml:id="beq3sc-d1e551-Rd1e216"><name ref="#Aristotle">Aristotelis</name></ref> 
+          nec ex possibile aliquid 
+          mixtum componi ex contrariis 
+          <app>
+            <lem>essentialiter</lem>
+            <rdg wit="#B">aequaliter</rdg>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e230">
+          Et ad 
+          <ref xml:id="beq3sc-d1e551-Rd1e232">
+            <name ref="#Averroes">commentatorem</name> 
+            commento 23
+          </ref> 
+          <app>
+            <lem>dico</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          quod intelligit per impossibile difficile valde 
+          et <name ref="#Galen">Galienus</name> 
+          intellexit per possibile facile, 
+          <app>
+            <lem>etc</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

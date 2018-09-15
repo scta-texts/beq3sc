@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quesetion 24</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 24</title>
+          <date when="2018-09-15">September 15, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-21" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="155-r"/><cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e551">
+        <head xml:id="beq3sc-d1e551-Hd1e4126">Question 24</head>
+        <head xml:id="beq3sc-d1e551-Hd1e4129" type="question-title">
+          Whether contraries are able to be coextended in the same subject?
+        </head>
+        <p xml:id="beq3sc-d1e551-d1e4132">
+          <cb ed="#P" n="b"/>
+          Whether contraries are able 
+          to be coextended in the same subject?
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e4144">
+          That they are, 
+          some contrary is able to be remitted. 
+          But one thing is remitted 
+          unless account of the intension of another. 
+          The minor is proved through 
+          the <name>Commentator</name> 9 <title>Physics</title>, in comment 45, 
+          where he says that a decrease in anything is 
+          on account of the mixture of its contrary, 
+          and the same in comment 19 of the same book, 
+          and in many other places of the same book. 
+          And thus in every mixed thing there is one 
+          element predominating to which the form is attributed 
+          and another which is predominated, 
+          just as is clear in <ref>book 10 of the <title>metaphysics</title>, in comment 23</ref>
+          and in book 1 <title>de caelo</title>, in comment 7, 
+          where it is frequently held 
+          that every mixed thing dies according to the mode of the dominating element, 
+          therefore in every mixed thing there are contrary elements 
+          and two contrary qualities 
+          because unless the qualities will be contrary there, 
+          the contrary elements will not be there.
+          the consequent is false.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e4195">
+          It should be responded to this 
+          that the remission through admixture 
+          is able to be understood in two ways.
+          Either that its contrary coextends with it in the same matter 
+          and this is impossible. 
+          Or that the mixture is of a contrary agent 
+          into a passive, 
+          and thus I concede that every that becomes less, 
+          becomes less through the admixture of its contrary 
+          through which <supplied>the response</supplied> to the first is clear.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e173">
+          To the second it is said that 
+          no element is a qualitative part of the mixed, 
+          but only qualitative,
+          and any element thus remitted 
+          through the mixture of its contrary 
+          is a mixed body, 
+          and therefore some part of the mixed 
+          is mixed. 
+          Whence when something is composed from two <unclear>transitory</unclear> contraries 
+          according to itself alone, 
+          then some part is remitted and mixed.
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e214">
+          To the understanding of 
+          <name ref="#Aristotle">Aristotle</name>, 
+          it is not possible that something mixed 
+          is essentially composed from contraries. 
+        </p>
+        <p xml:id="beq3sc-d1e551-d1e230">
+          And to the <name ref="#Averroes">Commentator</name>
+          in comment 23, 
+          I say that he understands through the impossible what is difficult 
+          and <name ref="#Galen">Galen</name> understood through the possible what is easy, 
+          etc. <!-- translation difficult here -->
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
