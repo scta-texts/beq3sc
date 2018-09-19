@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 31 [Pembroke 236 Transcription]</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 31 [Pembroke 236 Transcription]</title>
+          <date when="2018-07-21">June 21, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-21" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#B" n="210-v"/><cb ed="#B" n="a"/>
+        <pb ed="#P" n="156-v"/><cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e698">
+        <head xml:id="beq3sc-d1e698-Hd1e4126">Quaestio 31 [Pembroke 236 Transcription]</head>
+        <head xml:id="beq3sc-d1e698-Hd1e4129" type="question-title">
+          <supplied>Utrum gratuite diligens deum plus se possit pro eadem mensura mereri et demereri?</supplied>
+        </head>
+        <p xml:id="beq3sc-d1e698-d1e4132">
+          Utrum gratuite diligens Deum plus 
+          se possit pro eadem mensura mereri 
+          et demereri?
+        </p>
+        <p xml:id="beq3sc-d1e698-d1e4143">
+          Quod non 
+          <app>
+            <lem n="non"/>
+            <rdg wit="#B" type="variation-present">arguitur sic</rdg>
+          </app> 
+          quia opposita 
+          non 
+          <app>
+            <lem>insunt</lem>
+            <rdg wit="#B">sunt</rdg>
+          </app> 
+          eidem, 
+          <app>
+            <lem>ergo</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e698-d1e4148">
+          Ad oppositum,
+          <app>
+            <lem n="oppositum"/>
+            <rdg wit="#B" type="variation-present">arguitur sic quia</rdg>
+          </app>
+          qui meretur 
+          vitam aeternam meretur 
+          et quicumque venialiter 
+          peccat demeretur. 
+          Sed simul potest aliquis 
+          mereri vitam aeternam et peccare venialis 
+          ergo, 
+          <app>
+            <lem>etc.</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+        </p>
+        <p>
+          Ideo dico quod sic, 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          ad argumentum in 
+          oppositum, 
+          dico quod mereri 
+          et demereri respectu eiusdem 
+          <app>
+            <lem>praemii</lem>
+            <rdg wit="#B">primi</rdg>
+          </app> 
+          sunt opposita, aliter non, 
+          <app>
+            <lem>ergo conclusio vera</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
