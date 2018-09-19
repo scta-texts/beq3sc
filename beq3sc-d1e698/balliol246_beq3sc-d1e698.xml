@@ -68,7 +68,9 @@
           <lb ed="#B"/>oppositum arguitur sic quia qui meretur vitam aeternam 
           <lb ed="#B"/>meretur et quicumque venialiter peccat de<lb ed="#B"/>meretur 
           sed simul potest aliquis mereri vitam aeternam 
-          <lb ed="#B"/>et peccare venialis ergo ideo dic quod sic ad argumentum 
+          <lb ed="#B"/>et peccare venialis ergo
+        </p>
+        <p xml:id="beq3sc-d1e698-d1e168">ideo dic quod sic ad argumentum 
           <lb ed="#B"/>in oppositum dico quod mereri et demereri respectu eiusdem 
           <lb ed="#B"/>primi sunt opposita aliter non ergo conclusio vera
         </p>

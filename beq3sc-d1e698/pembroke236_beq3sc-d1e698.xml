@@ -67,7 +67,10 @@
           <lb ed="#P"/>vitam aeternam meretur et quicumque venialiter 
           <lb ed="#P"/>peccat demeretur <sic>set</sic> simul potest aliquis 
           <lb ed="#P"/>mereri vitam aeternam et peccare venialis 
-          <lb ed="#P"/>ergo etc <pc type="#pilcrow"/>Ideo dico quod sic et ad argumentum in 
+          <lb ed="#P"/>ergo etc
+        </p>
+        <p xml:id="beq3sc-d1e698-d1e168">
+          <pc type="#pilcrow"/>Ideo dico quod sic et ad argumentum in 
           <lb ed="#P"/>oppositum dico quod mereri et demereri respectu eiusdem 
           <lb ed="#P"/>praemii sunt opposita aliter non <pc type="#punctus"/>
         </p>
