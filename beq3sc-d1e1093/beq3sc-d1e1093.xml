@@ -211,49 +211,152 @@
           definitur nomen et verbum in voce tantum.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e237">
-          <pc type="#pilcrow"/> Contra ad logicam 
-          pertinet determinare de propositione etc termino mentali 
-          quia illa quae pertinent ad logicam istis attribuit et haec 
+          Contra: ad logicam pertinet 
+          determinare de propositione et termino mentali 
+          quia illa quae 
+          <app>
+            <lem>pertinet</lem>
+            <rdg wit="#P">pertinent</rdg>
+          </app> 
+          ad logicam istis attribuit et haec 
           non facit alibi ergo ibi 
-          <!-- possible break point -->
-          <pc type="#pilcrow"/>praeterea licet diffiniens 
-          hominem intendat deffinire hominem 
-          verum et non pictum tamen sicut homo pictus dicitur 
-          homo improprie tamen ita dicitur animal rationale improprie
-        </p>
-        <p xml:id="beq3sc-d1e1093-d1e259">
-          <pc type="#pilcrow"/>Similiter 
-          intendat ibi deffinire talia in voce tamen 
-          si diffinita inveniantur in intellectu et diffinitiones 
-          eis <unclear>convenient</unclear> ergo omne <unclear>nulla</unclear> mentale significat ad placitum <!-- gelber has plurimum, but I'm pretty sure placitum is correct -->
+          Praeterea, licet definiens 
+          hominem intendat definire hominem 
+          verum et non pictum, 
+          tamen sicut homo pictus dicitur 
+          homo improprie
+          <app>
+            <lem n="improprie"/>
+            <rdg wit="#P" type="variation-present">tamen</rdg>
+          </app>
+          ita dicitur animal rationale improprie. 
+          Similiter, 
+          <app>
+            <lem>licet</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          intendat ibi definire talia in voce, 
+          tamen, 
+          si definita inveniantur in intellectu 
+          <app>
+            <lem n="intellectu"/>
+            <rdg wit="#P" type="variation-present">et</rdg>
+          </app>, 
+          definitiones eis convenient, 
+          igitur 
+          <app>
+            <lem>omne</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          <app>
+            <lem>nomen</lem>
+            <rdg wit="#P">nulla</rdg>
+          </app> 
+          mentale significat ad placitum.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e272">
-          <pc type="#pilcrow"/>Item quilibet experitur in se ipso quod potest formare antequam 
-          loquatur tales propositiones et terminos significantes 
-          ad placitum unde qui novet latinum format 
-          propositiones latinas
+          Item, 
+          quilibet experitur in se ipso 
+          quod potest formare antequam 
+          loquatur tales propositiones 
+          <app>
+            <lem>et terminos significantes</lem>
+            <rdg wit="#B">etc significant</rdg>
+          </app> 
+          ad placitum, 
+          unde qui novit Latinum 
+          format propositiones Latinas.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e290">
-          <pc type="#pilcrow"/>Item omni vocabuli correspondet 
-          aliqua mentalis ergo isti ens est unum igitur subiecto 
-          correspondet terminus mentalis qui naturaliter significat omnes 
-          res consequens falsum quia quod aliquid sit alicuius signum 
-          naturale tantum tripliciter contingit quia vel est ipsius 
-          causa vel effectus vel eius naturalis similitudo quorum 
-          nullum competere termino mentali respectu omnium 
-          rerum
+          Item, omni vocabuli correspondet 
+          aliqua mentalis, igitur isti 
+          <app>
+            <lem>termini <mentioned>ens</mentioned></lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>, 
+          <mentioned>ens est unum</mentioned>, 
+          igitur 
+          <app>
+            <lem>subiecto</lem>
+            <rdg wit="#B">isti</rdg>
+          </app> 
+          correspondet terminus mentalis 
+          qui naturaliter significat omnes res. 
+          Consequens falsum 
+          quia quod aliquid sit alicuius signum 
+          naturale tantum tripliciter 
+          <app>
+            <lem>contingit</lem>
+            <rdg wit="#B">convenit</rdg>
+          </app> 
+          quia 
+          <app>
+            <lem>vel</lem>
+            <rdg wit="#B">nihil</rdg>
+          </app> 
+          est ipsius causa 
+          vel effectus 
+          <pb ed="#B" n="217-r"/>
+          <cb ed="#B" n="a"/>
+          vel eius naturalis similitudo, 
+          quorum nullum 
+          <app>
+            <lem>potest competere</lem>
+            <rdg wit="#P">competere potest</rdg>
+          </app> 
+          termino mentali 
+          respectu omnium rerum.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e325">
-          <pc type="#pilcrow"/>Item viator format istas <mentioned>deus est 
-          trinus et unus</mentioned> ergo trinus mentalis correspondens subiecto foret 
-          signum naturale dei
+          Item, viator format 
+          <app>
+            <lem>istam</lem>
+            <rdg wit="#B">illam</rdg>
+          </app> 
+          <mentioned>Deus est trinus et unus</mentioned>, 
+          ergo 
+          <app>
+            <lem>terminus</lem>
+            <rdg wit="#B">trinus</rdg>
+          </app> 
+          <app>
+            <lem>mentalis</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          correspondens 
+          <app>
+            <lem>subiecto</lem>
+            <rdg wit="#B">isto</rdg>
+          </app> 
+          foret signum 
+          <app>
+            <lem>naturale</lem>
+            <rdg wit="#B">naturalis</rdg>
+          </app> 
+          Dei.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e338">
-          <pc type="#pilcrow"/>Item tunc subiectum illius 
-          propositionis in mente omnis qualitas inhaereret substantiae foret 
-          naturalis similitudo omnis qualitas quod est inpossibilis quia eo 
-          ipso quod est naturalis similitudo unius est naturalis dissimilitudo 
-          alterius <pc type="#punctus"/>
+          Item, 
+          tunc <supplied>circa</supplied> subiectum illius 
+          propositionis in mente, 
+          omnis qualitas <supplied>quae</supplied> 
+          <app>
+            <lem>inhaereret</lem>
+            <rdg wit="#P">inhaeret</rdg>
+          </app> 
+          <app>
+            <lem>subiecto</lem>
+            <rdg wit="#P">subiective</rdg>
+          </app> 
+          foret naturalis similitudo omnis qualitatis, 
+          quod est impossibilis 
+          quia eo ipso quod est naturalis similitudo unius 
+          est naturalis 
+          <app>
+            <lem>dissimilitudo</lem>
+            <rdg wit="#B">similitudo</rdg>
+          </app> 
+          alterius.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e352">
           <pc type="#pilcrow"/>Item de ratione verbi est quod intelligitur 

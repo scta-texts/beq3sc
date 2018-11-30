@@ -104,46 +104,42 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e237">
           <pc type="#pilcrow"/> Contra ad logicam 
-          <lb ed="#P"/>pertinet determinare de propositione etc termino mentali 
-          <lb ed="#P"/>quia illa quae pertinent ad logicam istis attribuit et haec 
-          <lb ed="#P"/>non facit alibi ergo ibi 
-          <!-- possible break point -->
+          <lb ed="#P"/>pertinet determinare de propositione termino mentali 
+          <lb ed="#P"/>quia illa quae pertinent ad logicam istis attribuit et <unclear>haec <!-- Gelber reads hoc here --></unclear> 
+          <lb ed="#P"/>non facit alibi igitur ibi 
           <pc type="#pilcrow"/>praeterea licet diffi<lb ed="#P"/>niens 
           hominem intendat deffinire hominem 
           <lb ed="#P"/>verum et non pictum tamen sicut homo pictus dicitur 
-          <lb ed="#P"/>homo improprie tamen ita dicitur animal rationale improprie
-        </p>
-        <p xml:id="beq3sc-d1e1093-d1e259">
-          <pc type="#pilcrow"/>Similiter 
-          <lb ed="#P"/>intendat ibi deffinire talia in voce tamen 
+          <lb ed="#P"/>homo improprie <sic>tamen</sic> ita dicitur animal rationale improprie Similiter 
+          <lb ed="#P"/>intendat ibi <sic>deffinire</sic> talia in voce tamen 
           <lb ed="#P"/>si diffinita inveniantur in intellectu et diffinitiones 
-          <lb ed="#P"/>eis <unclear>convenient</unclear> ergo omne <unclear>nulla</unclear> mentale significat ad placitum <!-- gelber has plurimum, but I'm pretty sure placitum is correct -->
+          <lb ed="#P"/>eis convenient igitur omne <sic>nulla</sic> mentale significat ad placitum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e272">
           <lb ed="#P"/><pc type="#pilcrow"/>Item quilibet experitur in se ipso quod potest formare ante<lb ed="#P"/>quam 
           loquatur tales propositiones et terminos significan<lb ed="#P"/>tes 
-          ad placitum unde qui novet latinum format 
+          ad placitum unde qui novit latinum format 
           <lb ed="#P"/>propositiones latinas
         </p>
         <p xml:id="beq3sc-d1e1093-d1e290">
           <pc type="#pilcrow"/>Item omni vocabuli correspondet 
-          <lb ed="#P"/>aliqua mentalis ergo isti ens est unum igitur subiecto 
+          <lb ed="#P"/>aliqua mentalis ergo isti ens est unum ergo subiecto 
           correspondet terminus mentalis qui naturaliter significat omnes 
           <lb ed="#P"/>res consequens falsum quia quod aliquid sit alicuius signum 
           <lb ed="#P"/>naturale tantum tripliciter contingit quia vel est ipsius 
           <lb ed="#P"/>causa vel effectus vel eius naturalis similitudo quorum 
-          <lb ed="#P"/>nullum competere termino mentali respectu omnium 
+          <lb ed="#P"/>nullum competere potest termino mentali respectu omnium 
           <lb ed="#P"/>rerum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e325">
-          <pc type="#pilcrow"/>Item viator format istas <mentioned>deus est 
+          <pc type="#pilcrow"/>Item viator format istam <mentioned>deus est 
           <lb ed="#P"/>trinus et unus</mentioned> ergo trinus mentalis correspondens subiecto fo<lb ed="#P"/>ret 
           signum naturale dei
         </p>
         <p xml:id="beq3sc-d1e1093-d1e338">
           <pc type="#pilcrow"/>Item tunc subiectum illius 
-          <lb ed="#P"/>propositionis in mente omnis qualitas inhaereret substantiae fo<lb ed="#P"/>ret 
-          naturalis similitudo omnis qualitas quod est inpossibilis quia eo 
+          <lb ed="#P"/>propositionis in mente omnis qualitas inhaereret subiective fo<lb ed="#P"/>ret 
+          naturalis similitudo omnis qualitatis quod est inpossibilis quia eo 
           <lb ed="#P"/>ipso quod est naturalis similitudo unius est naturalis dissimilitudo 
           <lb ed="#P"/>alterius <pc type="#punctus"/>
         </p>

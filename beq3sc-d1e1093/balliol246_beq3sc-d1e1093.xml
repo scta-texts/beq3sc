@@ -102,49 +102,46 @@
           <lb ed="#B"/>in voce tantum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e237">
-          <pc type="virgula">/</pc> contra ad <unclear>logicam</unclear> pertinet determinare 
-          <lb ed="#B"/>de propositione etc numero mentalis quia illa quae 
+          <pc type="virgula">/</pc> contra ad logicam pertinet determinare 
+          <lb ed="#B"/>de propositione et <unclear>termino <!-- "ter" is significantly seperated from "mino" --></unclear> mentali quia illa quae 
           <lb ed="#B"/>pertinet ad logicam istis attribuit 
-          <lb ed="#B"/>et haec non facis alibi ergo ibi praeterea licet difi<lb ed="#B"/>niens 
+          <lb ed="#B"/>et haec non facit alibi igitur ibi praeterea licet difi<lb ed="#B"/>niens 
           hominem intendat definire hominem 
           <lb ed="#B"/>verum et non pictum tamen sicut homo pictus dicitur 
-          <lb ed="#B"/>homo improprie ita dicitur animal rationale improprie
-        </p>
-        <p xml:id="beq3sc-d1e1093-d1e259">
-          similiter 
+          <lb ed="#B"/>homo improprie ita dicitur animal rationale improprie similiter 
           <lb ed="#B"/>licet intendat ibi definire talia in voce 
           <lb ed="#B"/>tamen si diffinita inveniantur in intellectu 
-          <lb ed="#B"/>diffinitiones eis conveniet ergo nomen mentale 
-          <lb ed="#B"/>significat ad placitum <!-- gelber has plurimum, but I'm pretty sure placitum is correct -->
+          <lb ed="#B"/>diffinitiones eis convenient igitur nomen mentale 
+          <lb ed="#B"/>significat ad placitum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e272">
           <pc type="virgula">//</pc> Item quilibet experitur 
           <lb ed="#B"/>in se ipso quod potest formare antequam 
-          <lb ed="#B"/>loquatur tales propositiones etc significant ad 
+          <lb ed="#B"/>loquatur tales propositiones <sic>etc significant <!-- dbcheck: gelber reads as et termini significant --></sic> ad 
           <lb ed="#B"/>placitum unde qui novit latinum <sic>fformat</sic> 
           <lb ed="#B"/>propositiones latinas
         </p>
         <p xml:id="beq3sc-d1e1093-d1e290">
           <pc type="virgula">/</pc> Item omni vocabuli cor<lb ed="#B"/>respondet 
-          aliqua mentalis ergo isti termini ens 
-          <lb ed="#B"/><sic>ens</sic> est unum <pc type="virgula">/</pc> igitur respectu correspondet terminus mentalis 
+          aliqua mentalis igitur isti termini ens 
+          <lb ed="#B"/><sic>ens</sic> est unum <pc type="virgula">/</pc> igitur isti correspondet terminus mentalis 
           <lb ed="#B"/>qui naturaliter significat omnes res consequens falsum 
-          <lb ed="#B"/>quia quod aliquid sit alicuius <unclear>signum <!-- significatum --></unclear> naturale tantum tri<lb ed="#B"/>pliciter 
-          convenit quia naturalis est ipsius causa vel effectus 
+          <lb ed="#B"/>quia quod aliquid sit alicuius signum naturale tantum tri<lb ed="#B"/>pliciter 
+          convenit quia <sic>nihil</sic> est ipsius causa vel effectus 
           <pb ed="#B" n="217-r"/>
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>vel eius naturalis similitudo quorum nullum potest com<lb ed="#B"/>petere 
-          termino naturali respectu omnium rerum
+          termino mentali respectu omnium rerum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e325">
           Item viator 
           <lb ed="#B"/><sic>fformat</sic> illam <mentioned>deus est trinus et unus</mentioned> ergo 
-          <lb ed="#B"/>trinus correspondens isto formet signum naturalis dei
+          <lb ed="#B"/><sic>trinus</sic> correspondens isto foret signum naturalis dei
         </p>
         <p xml:id="beq3sc-d1e1093-d1e338">
           <lb ed="#B"/>Item tunc subiectum illius propositionis in mente omnis 
-          <lb ed="#B"/>qualitas <sic>in haereret</sic> subiecto formet naturalis similitudo 
-          <lb ed="#B"/>omnis qualitas quod est inpossibilis quia eo ipso quod est 
+          <lb ed="#B"/>qualitas <sic>in haereret</sic> subiecto foret naturalis similitudo 
+          <lb ed="#B"/>omnis qualitatis quod est inpossibilis quia eo ipso quod est 
           <lb ed="#B"/>naturalis similitudo unius est naturalis similitudo alterius
         </p>
         <p xml:id="beq3sc-d1e1093-d1e352">
