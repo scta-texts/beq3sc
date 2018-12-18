@@ -156,13 +156,13 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e377">
           <pc type="#pilcrow"/>Sed 
-          <lb ed="#P"/>contra istam opinionem est <ref xml:id="beq3sc-d1e1093-Rd1e384"><name ref="#Anselm">anselmus</name> <title>monologion</title> 31o</ref> et sic 
-          <lb ed="#P"/><quote xml:id="beq3sc-d1e1093-Qd1e392" source="http://scta.info/resource/adcmon-c31">nulla ratione <unclear>nageri</unclear> potest cum mens rationalis seipsam 
+          <lb ed="#P"/>contra istam opinionem est <ref xml:id="beq3sc-d1e1093-Rd1e384"><name ref="#Anselm">anselmus</name> <title>monologion</title> 31o</ref> ubi sic 
+          <lb ed="#P"/><quote xml:id="beq3sc-d1e1093-Qd1e392" source="http://scta.info/resource/adcmon-c31">nulla ratione negari potest cum mens rationalis seipsam 
           <lb ed="#P"/>intelligat ymaginem ipsius nasci in 
           <lb ed="#P"/>eius cogitatione ymmo ipsam cogitationem sui 
           <pb ed="#P" n="159-v"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P"/>esse suam ymaginem ad eius similitudinem tamquam 
+          <lb ed="#P"/>esse sui ymaginem ad eius similitudinem tamquam 
           <lb ed="#P"/>ex eius inpressione factam</quote> haec ille
         </p>
         <p xml:id="beq3sc-d1e1093-d1e415">
@@ -178,17 +178,17 @@
           <lb ed="#P"/>homo ergo
         </p>
         <p xml:id="beq3sc-d1e1093-d1e439">
-          <pc type="#pilcrow"/>Item multi homines fuerit qui nec 
+          <pc type="#pilcrow"/>Item multi homines fuerunt qui nec 
           <lb ed="#P"/>habuerunt patrem nec matrem nec unquam com<lb ed="#P"/>ederunt 
           nec unquam biberunt et tamen du<lb ed="#P"/>raverunt 
           ab initio mundi nec illi homines possunt 
-          <lb ed="#P"/>ridere et per consequens non sunt <unclear>risibiles</unclear> nec unquam 
+          <lb ed="#P"/>ridere et per consequens non sunt risibiles nec unquam 
           <lb ed="#P"/>deus illos iudicabit nec tales unquam mo<lb ed="#P"/>rientur 
           nec sunt mortales
         </p>
         <p xml:id="beq3sc-d1e1093-d1e463">
           <pc type="#pilcrow"/>Item angelus inferior 
-          <lb ed="#P"/>intelligit superiorem ergo habet in se angelum no<lb ed="#P"/>bilior 
+          <lb ed="#P"/>intelligit superiorem ergo habet in se angelum no<lb ed="#P"/>biliorem 
           se quia illam speciem
         </p>
         <p xml:id="beq3sc-d1e1093-d1e470">
@@ -202,17 +202,16 @@
           <lb ed="#P"/>homines et multa leones in mente angelorum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e506">
-          <pc type="virgula">//</pc> <unclear>Item</unclear> 
-          <lb ed="#P"/>multi homines erant creata ante <name>adam</name> quia in angelis 
+          <pc type="virgula">//</pc> Item 
+          <lb ed="#P"/>multi homines erant creati ante <name>adam</name> quia in angelis 
           <lb ed="#P"/>fuerunt species hominis concreatae ante <name>adam</name>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e522">
           Item 
           <lb ed="#P"/>color est extremitas perspicui in corpore terminato
           <lb ed="#P"/><ref xml:id="beq3sc-d1e1093-Rd1e530"><title>de sensu et sensato</title> capitulo 6</ref> et <ref xml:id="beq3sc-d1e1093-Rd1e537">2o <title>de anima</title></ref>
-          <!-- possible break point -->
           <pc type="#pilcrow"/>Dicitur quod co<lb ed="#P"/>lor 
-          est motius lucidi si actum igitur color in ce<lb ed="#P"/>rebro 
+          est <sic>motius</sic> lucidi secundum actum igitur color in ce<lb ed="#P"/>rebro 
           vere videtur
         </p>
         <p xml:id="beq3sc-d1e1093-d1e549">
@@ -223,8 +222,8 @@
         <p xml:id="beq3sc-d1e1093-d1e560">
           <pc type="#pilcrow"/>Item 
           <lb ed="#P"/>vel species lapidis in anima vel in angelo est substantia 
-          <lb ed="#P"/>corporea vel in corporea si incorporea ergo non est corpus 
-          <lb ed="#P"/>si corporea ergo lapis est maximus est naturaliter in loco <unclear>parta<lb ed="#P"/>li</unclear> 
+          <lb ed="#P"/>corporea vel incorporea si incorporea ergo non est corpus 
+          <lb ed="#P"/>si corporea ergo lapis maximus est naturaliter in loco <unclear>parta<lb ed="#P"/>li</unclear> 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e572">
           <pc type="#pilcrow"/>Item <name ref="#Aristotle">aristoteles</name> dicit quod <quote xml:id="beq3sc-d1e1093-Qd1e579" ana="#Aristotle_DeAnima_III_8_a">lapis non est in anima</quote> 
@@ -248,20 +247,19 @@
         <p xml:id="beq3sc-d1e1093-d1e629">
           <pc type="#pilcrow"/>Item 7 <title>metaphysicae</title> commento 23o <quote xml:id="beq3sc-d1e1093-Qd1e636">sanitas dicitur de 
             <lb ed="#P"/>intellectu sanitatis quae est in anima et de sanitate 
-          <lb ed="#P"/>quae est in corpore</quote> et eodem commento forma <unclear>argumentis</unclear> est
+          <lb ed="#P"/>quae est in corpore</quote> et eodem commento <quote>forma artis est
           <lb ed="#P"/>duplex una quae est in anima et alia quae est extra et sunt 
-          <lb ed="#P"/>idem 
+          <lb ed="#P"/>idem</quote> 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e648">
           <pc type="#pilcrow"/>Item 11o metaphysicae de balneo in anima etc
         </p>
-        <!-- paragraph break here -->
         <p xml:id="beq3sc-d1e1093-d1e658">
-          <pc type="#pilcrow"/>ponit et ille idem quod cognitio est potentia ccogni<lb ed="#P"/>tiva 
+          <pc type="#pilcrow"/>ponit etiam ille idem quod cognitio est potentia cogni<lb ed="#P"/>tiva 
           quae est ipsa anima <pc type="#pilcrow"/>unde cognitio humana non est 
           <lb ed="#P"/>nisi anima cognoscens tamen iste terminus cognitio ut dicit 
           <lb ed="#P"/>quandoque accipitur pro re qua cognoscens formaliter est 
-          <lb ed="#P"/>cognoscens aliquando accipitur pro similitudo rei cogni<lb ed="#P"/>tae 
+          <lb ed="#P"/><sic>est</sic> cognoscens aliquando accipitur pro similitudine rei cogni<lb ed="#P"/>tae 
           aliquando pro re cognita primo modo dicitur cognitio 
           <lb ed="#P"/>formalis 2o modo materialis 3o modo materialis vel obiectiva 
           <lb ed="#P"/>mediata 
@@ -276,19 +274,19 @@
           <pc type="virgula">//</pc> <pc type="#pilcrow"/> Prima ergo conclusio sua est haec omnis 
           <lb ed="#P"/>cognitio humana primo modo accepta est potentia cognitiva 
           <lb ed="#P"/>probatur si cognitio foret qualitas superaddita per divinam 
-          <lb ed="#P"/>potentiam posset poni lapide et sic non cogni<lb ed="#P"/>tivum 
+          <lb ed="#P"/>potentiam posset poni in lapide et sic non cogni<lb ed="#P"/>tivum 
           cognosceret nec valet dicere quod illa qualitas 
           <lb ed="#P"/>non potest esse perfectio formalis lapidis quia natura humana 
-          <lb ed="#P"/>est in persona divina et cum non perficit eam formaliter 
+          <lb ed="#P"/>est in persona divina et tamen non perficit eam formaliter 
           <lb ed="#P"/>et hoc non obstante denominat eam formaliter secundum suas 
           <cb ed="#P" n="b"/>
           <lb ed="#P"/>proprietates <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e730">
           <pc type="#pilcrow"/>Item color formaliter videtur per visionem 
-          igitur conservato <unclear>corpore</unclear> et visione semper erit 
-          <lb ed="#P"/>haec vera color videtur igitur destructa potentia <unclear>visibilia</unclear> heac 
-          <lb ed="#P"/>erit vera color visibilis<!-- big homoteleuton here -->
+          igitur conservato colore et visione semper erit 
+          <lb ed="#P"/>haec vera color videtur igitur destructa potentia visiva haec 
+          <lb ed="#P"/>erit vera color videtur
         </p>
         <p xml:id="beq3sc-d1e1093-d1e744">
           <pc type="#pilcrow"/>Item quando aliquid est aliqua<lb ed="#P"/>le 
