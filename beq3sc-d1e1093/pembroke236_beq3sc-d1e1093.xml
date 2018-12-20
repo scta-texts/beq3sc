@@ -290,27 +290,27 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e744">
           <pc type="#pilcrow"/>Item quando aliquid est aliqua<lb ed="#P"/>le 
-          per aliud illud aliud est per se tale <sic>set</sic>potentia cognitiva 
+          per aliud illud aliud est per se tale <sic>set</sic> potentia cognitiva 
           <lb ed="#P"/>est formaliter cognoscens per cognitionem ergo cognitio 
-          <lb ed="#P"/>formaliter seipsa cognoscit igitur destincta potentia 
+          <lb ed="#P"/>formaliter seipsa cognoscit igitur destructa potentia 
           <lb ed="#P"/>cognitiva sive intellectiva intellectio intelligeret
         </p>
         <p xml:id="beq3sc-d1e1093-d1e751">
-          <lb ed="#P"/><pc type="#pilcrow"/>Item impossibile est praedicamenta contradictoria respectiva <unclear>verificari</unclear> 
+          <lb ed="#P"/><pc type="#pilcrow"/>Item impossibile est praedicata contradictoria respectiva <unclear>verificari</unclear> 
           successive de aliqua re nulla facta mutatione circa 
-          <lb ed="#P"/>rem de qua verificantur nec circa rem cuius 
+          <lb ed="#P"/>rem de qua verificantur nec circa rem respectu cuius 
           <lb ed="#P"/>verificatur <sic>set</sic> ista praedicata intellectio non intellectio 
           <lb ed="#P"/>sunt praedicata contradictoria respectiva ergo impossibile est illa verficari 
-          <lb ed="#P"/>de qualitate quae dicitur intellectio nulla facta etc etc igitur si destruatur 
-          <lb ed="#P"/>potentia intellectiva et conservetur obiectum et qualitas habent 
-          <lb ed="#P"/>vera si foretur haec qualitas est <unclear>intellectio</unclear>
+          <lb ed="#P"/>de qualitate quae dicitur intellectio nulla facta etc igitur si destruatur 
+          <lb ed="#P"/>potentia intellectiva et conservetur obiectum et qualitas haec erit 
+          <lb ed="#P"/>vera si formet haec qualitas est <unclear>intellectio</unclear>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e796">
           <pc type="#pilcrow"/>Item impossibile 
           <lb ed="#P"/>est effectum esse perfectiorem sua causa efficiente <sic>set</sic> 
-          <lb ed="#P"/>cognitio est quandoque perfectior obiecto cognito et potentia cogni<lb ed="#P"/>tiva 
+          <lb ed="#P"/>cognitio quandoque est perfectior obiecto cognito et potentia cogni<lb ed="#P"/>tiva 
           si est res distincta a potentia cognitiva igitur nec potest causa<lb ed="#P"/>ri 
-          ab obiecto nec ab obiecto
+          a potentia nec ab obiecto
         </p>
         <!-- why break ?? -->
         <p xml:id="beq3sc-d1e1093-d1e809">
@@ -321,57 +321,59 @@
         <p xml:id="beq3sc-d1e1093-d1e817">
           contra illa cognitio est divisibilis vel indivisibilis 
           <lb ed="#P"/>si indivisibilis igitur a quocumque producitur totaliter producitur 
-          <lb ed="#P"/>alioquin idem <unclear>vis <!-- bis ?? --></unclear> produceretur et una causa super<lb ed="#P"/>flueret 
+          <lb ed="#P"/>alioquin idem bis produceretur et una causa super<lb ed="#P"/>flueret 
           ex quo producitur totaliter ab altera si 
           <lb ed="#P"/>divisibilis ergo cum nullum divisibile sit in infinitum divisibile 
           <lb ed="#P"/>ut dicit ille sic opinans sequitur quod est devenire 
-          <lb ed="#P"/>ad cognitionem indivisibile et de illa quaerendum est 
+          <lb ed="#P"/>ad cognitionem indivisibilem et de illa quaerendum est 
           <lb ed="#P"/>aut causatur totaliter ab obiecto vel non etc
         </p>
         <p xml:id="beq3sc-d1e1093-d1e837">
           <pc type="#pilcrow"/>Item 
           si omne cognitivum in homine sit potentia cognitiva 
-          <lb ed="#P"/><unclear>set</unclear> alia cognitio hominis est cognitiva ergo alia cognitio 
+          <lb ed="#P"/>set alia cognitio hominis est cognitiva ergo alia cognitio 
           <lb ed="#P"/>hominis est potentia cognitiva
         </p>
         <p xml:id="beq3sc-d1e1093-d1e850">
           <pc type="#pilcrow"/>Item iste terminus cognitivum 
           <lb ed="#P"/>vel dicit causam effectivam materialem vel formalem 
-          <lb ed="#P"/>vel finalem non primum quia sic vel foret cogni<lb ed="#P"/>tivum 
+          <lb ed="#P"/>vel finalem non primum quia sic nihil foret cogni<lb ed="#P"/>tivum 
           nisi quod actualiter cognosceret nec 2o nec 4o modo 
           ut patet ergo 3o modo et per consequens idem quod est cognitivum 
-          <lb ed="#P"/>est cognitio quando actu aliquis cognoscitur ergo intellectio 
+          <lb ed="#P"/>est cognitio quando actu aliquid cognoscitur ergo intellectio 
           <lb ed="#P"/>est potentia intellectiva
         </p>
         <p xml:id="beq3sc-d1e1093-d1e871">
           <pc type="#pilcrow"/>Item si aliquid sit causatum 
           <lb ed="#P"/>a re visa vel igitur agit aequivoce vel univoce 
           <lb ed="#P"/>si univoce igitur sunt eiusdem rationis et sic pari<lb ed="#P"/>es 
-          alba videret sua albedine et sic falsum 
+          albus videret sua albedine et sic falsum 
           <lb ed="#P"/>repraesentaretur quia quando duae qualitates sunt eiusdem 
-          <lb ed="#P"/>speciei et alia res fuerit aliqualis per unam reliquam 
-          <lb ed="#P"/>erit talis per reliquam <!-- possible break --> <pc type="#pilcrow"/>si agens est aequivocum 
-          <lb ed="#P"/>aut visio est perfectior vel inperfectior si perfectior 
+          <lb ed="#P"/>speciei et alia res fuerit aliqualis per unam reliqua 
+          <lb ed="#P"/>erit talis per reliquam  <pc type="#pilcrow"/>si agens est aequivocum 
+          <lb ed="#P"/>aut visio est perfectior aut inperfectior si perfectior 
           <lb ed="#P"/>igitur effectus foret perfectior sua causa efectiva
-          <!-- possible break -->
           <lb ed="#P"/><pc type="#pilcrow"/>si imperfectior igitur foret visio imperfectior albedine 
-          <lb ed="#P"/>consequens falsum <pc type="#pilcrow"/>dicitur quod causatur ab obiecto et potentia re<lb ed="#P"/>ceptiva
+          <lb ed="#P"/>consequens falsum 
+        </p>
+        <p xml:id="beq3sc-d1e1093-d1e1479">
+          <pc type="#pilcrow"/>dicitur quod causatur ab obiecto et potentia re<lb ed="#P"/>ceptiva
         </p>
         <p xml:id="beq3sc-d1e1093-d1e909">
           <pc type="#pilcrow"/>contra sic possem ego fingere 
-          <lb ed="#P"/>quod nulla qualitas causatur ab obiecto extrinseca <pc type="#pilcrow"/><sic>set</sic> contra 
-          <lb ed="#P"/>est commentator 2o <title>de anima</title> commento 140 <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio passio 
+          <lb ed="#P"/>quod nulla qualitas causatur ab obiecto extrinseco <pc type="#pilcrow"/><sic>set</sic> contra 
+          <lb ed="#P"/>commentator 2o <title>de anima</title> commento 140 <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio et passio 
           <lb ed="#P"/>sunt in patiente non in agente ita actio 
-          <lb ed="#P"/>sensum et sensibilium sunt in sensibilitate</quote> ex quo patet intentio
+          <lb ed="#P"/>sensuum et sensibilium sunt in sentiente</quote> ex quo patet intentio
         </p>
         <p xml:id="beq3sc-d1e1093-d1e935">
-          <lb ed="#P"/> <pc type="#pilcrow"/> Item si intentio sit qualitas superaddita sit 
+          <lb ed="#P"/> <pc type="#pilcrow"/> Item si intellectio sit qualitas superaddita sit 
           <lb ed="#P"/>illa <c>a</c> volo igitur quod cognoscens cognoscat 
           <lb ed="#P"/><c>a</c> aut igitur ipso <c>a</c> aut alia intellectione cognoscit 
           <lb ed="#P"/><c>a</c> si alia erit processus in infinitum si seipsa 
           <lb ed="#P"/>igitur eadem ratione etc <pc type="#pilcrow"/>confirmatur per <name ref="#Augustine">augustinum</name> 2 
           <lb ed="#P"/><title>de trinitate</title> capitulo 4 <quote xml:id="beq3sc-d1e1093-Qd1e973" source="http://scta.info/resource/adt-l4">ipsa visio non est aliud quam sensus qui 
-          <lb ed="#P"/>videt esse videtur hoc est visio non est aliud esse videtur 
+          <lb ed="#P"/>videt esse videtur hoc est visio non aliud esse videtur 
           <lb ed="#P"/>quam sensus informatus specie</quote> <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e982">

@@ -201,7 +201,7 @@
           quia in diffinitione nominis et verbi 
           cadit significare ad placitum, 
           <cit>
-            <ref>primo <title>Perihermenias</title></ref>
+            <ref xml:id="beq3sc-d1e1093-Rd1e290">primo <title>Perihermenias</title></ref>
             <bibl>
               <name>Aristoteles</name>, 
               <title>Perihermenias</title>
@@ -562,7 +562,7 @@
         <p xml:id="beq3sc-d1e1093-d1e522">
           Item,
           <cit>
-            <quote ana="#Aristotle_DeSen_a">
+            <quote xml:id="beq3sc-d1e1093-Qd1e773" ana="#Aristotle_DeSen_a">
               color est extremitas perspicui 
               in corpore terminato
             </quote>
@@ -586,7 +586,7 @@
           </ref>
           dicitur quod 
           <cit>
-            <quote source="http://scta.info/resource/aristda-l12">
+            <quote xml:id="beq3sc-d1e1093-Qd1e808" source="http://scta.info/resource/aristda-l12">
               color est 
               <app>
                 <lem>motivus</lem>
@@ -656,13 +656,13 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e585">
           <pc type="#pilcrow"/>Item,
-          <ref>
+          <ref xml:id="beq3sc-d1e1093-Rd1e900">
             II 
             <title>De anima</title>, 
             commento 104
           </ref> 
           <cit>
-            <quote source="http://scta.info/resource/iu7r3b-d1e54">
+            <quote xml:id="beq3sc-d1e1093-Qd1e908" source="http://scta.info/resource/iu7r3b-d1e54">
               si visus haberet colorem 
               in actu non reciperet alios colores
             </quote>
@@ -670,14 +670,14 @@
               <name>Averroes</name>, 
               <title>In de anima</title>, 
               II, commento 104 
-              (Juntina, vol. XI, Venice 1562, 105r  A)
+              (Juntina, vol. XI, Venice 1562, 105r A)
             </bibl>
           </cit>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e595">
           Item 
           <cit>
-            <ref>
+            <ref xml:id="beq3sc-d1e1093-Rd1e926">
               <name>Augustinus</name>, 
               10 <title>Confessionum</title>, 
               capitulo 15 et 16
@@ -702,7 +702,7 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e612">
           Pro ista tamen opinione ponit multas auctoritates, 
-          <ref corresp="#beq3sc-d1e1093-Qd1e620">
+          <ref xml:id="beq3sc-d1e1093-Rd1e966" corresp="#beq3sc-d1e1093-Qd1e620">
             II <title>De anima</title>, 
             commento <unclear>57</unclear>
           </ref>, 
@@ -731,7 +731,7 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e629">
           Item, 
-          <ref corresp="#beq3sc-d1e1093-Qd1e636">
+          <ref xml:id="beq3sc-d1e1093-Rd1e1002" corresp="#beq3sc-d1e1093-Qd1e636">
             7 <title>Metaphysicae</title>, commento 23
           </ref>, 
           <cit>
@@ -757,13 +757,13 @@
             </bibl>
           </cit> 
           et 
-          <ref>eodem commento</ref> 
+          <ref xml:id="beq3sc-d1e1093-Rd1e1034">eodem commento</ref> 
           <app>
             <lem>dicit</lem>
             <rdg wit="#P" type="variation-absent"/>
           </app>,
           <cit>
-            <quote source="http://scta.info/resource/xch7dn-d1e102">
+            <quote xml:id="beq3sc-d1e1093-Qd1e1047" source="http://scta.info/resource/xch7dn-d1e102">
               forma artis est duplex, 
               una quae est in anima, 
               et alia quae est extra, 
@@ -780,7 +780,7 @@
         <p xml:id="beq3sc-d1e1093-d1e648">
           Item, 
           <cit>
-            <ref target="http://scta.info/resource/xch7dn-d1e143"><sic>11</sic> <title>Metaphysicae</title></ref>
+            <ref xml:id="beq3sc-d1e1093-Rd1e1066" target="http://scta.info/resource/xch7dn-d1e143"><sic>11</sic> <title>Metaphysicae</title></ref>
             <bibl>
               <name>Averroes</name>
               <title>In metaphysica</title>
@@ -911,97 +911,366 @@
         <p xml:id="beq3sc-d1e1093-d1e744">
           <app xml:id="beq3sc-d1e1093-Ansn7dd" prev="#beq3sc-d1e1093-Adfnv3s">
             <lem>
-              Item quando aliquid est aliquale 
-              per aliud illud aliud est per se tale <sic>set</sic>potentia cognitiva 
-              est formaliter cognoscens per cognitionem ergo cognitio 
-              formaliter seipsa cognoscit igitur destincta potentia 
-              cognitiva sive
+              Item, 
+              quando aliquid est aliquale per aliud, 
+              illud aliud est per se tale. 
+              Sed potentia cognitiva est formaliter cognoscens 
+              per cognitionem, 
+              ergo cognitio formaliter seipsa cognoscit. 
+              Igitur destructa potentia cognitiva sive
             </lem>
             <rdg wit="#B" type="variation-absent" cause="homoteleuton"/>
           </app> 
-          intellectiva intellectio intelligeret
+          intellectiva intellectio 
+          <app>
+            <lem>intelligeret</lem>
+            <rdg wit="#B">intelligere</rdg>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e751">
-          <pc type="#pilcrow"/>Item impossibile est praedicamenta contradictoria respectiva <unclear>verificari</unclear> 
-          successive de aliqua re nulla facta mutatione circa 
-          rem de qua verificantur nec circa rem cuius 
-          verificatur <sic>set</sic> ista praedicata intellectio non intellectio 
-          sunt praedicata contradictoria respectiva ergo impossibile est illa verficari 
-          de qualitate quae dicitur intellectio nulla facta etc etc igitur si destruatur 
-          potentia intellectiva et conservetur obiectum et qualitas habent 
-          vera si foretur haec qualitas est <unclear>intellectio</unclear>
+          Item, 
+          impossibile est 
+          <app>
+            <lem>praedicata</lem>
+            <rdg wit="#B">praedicamenta</rdg>
+          </app> 
+          contradictoria respectiva verificari 
+          successive de aliqua re nulla facta mutatione 
+          <app>
+            <lem>circa</lem>
+            <rdg wit="#B">cir qua</rdg>
+          </app> 
+          rem de qua 
+          <app>
+            <lem>verificantur</lem>
+            <rdg wit="#B">videtur</rdg>
+          </app> 
+          nec 
+          <app>
+            <lem>circa</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          rem respectu cuius 
+          <app>
+            <lem>verificatur</lem>
+            <rdg wit="#B">videtur</rdg>
+          </app>. 
+          Sed ista praedicata 
+          <mentioned>intellectio</mentioned>, <mentioned>non-intellectio</mentioned> 
+          sunt praedicata contradictoria respectiva, 
+          ergo impossibile est illa verficari de qualitate 
+          quae dicitur <mentioned>intellectio</mentioned> 
+          nulla facta <supplied>mutatione</supplied>, etc. 
+          Igitur, 
+          si destruatur 
+          potentia intellectiva,
+          et conservetur obiectum et qualitas, 
+          haec 
+          <app>
+            <lem>erit</lem>
+            <rdg wit="#B">est</rdg>
+          </app> 
+          vera: 
+          si 
+          <app>
+            <lem>formetur</lem>
+            <rdg wit="#P">formet</rdg>
+          </app>, 
+          haec qualitas est 
+          <app>
+            <lem>intellectio</lem>
+            <rdg wit="#B" type="variation-choice">
+              <choice>
+                <seg>intensio</seg>
+                <seg>intellectio</seg>
+              </choice>
+            </rdg>
+            <note xml:lang="en">Ms. B has "intensio vel intellectio" 
+              which we read as scribal uncertainty about which is correct word in this case, 
+              and not as a suggestion that Holcot meant literally to write "intension vel intellectio".</note>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e796">
-          <pc type="#pilcrow"/>Item impossibile 
-          est effectum esse perfectiorem sua causa efficiente <sic>set</sic> 
-          cognitio est quandoque perfectior obiecto cognito et potentia cognitiva 
-          si est res distincta a potentia cognitiva igitur nec potest causari 
-          ab obiecto nec ab obiecto
+          Item, 
+          impossibile est effectum esse 
+          perfectiorem sua causa efficiente.
+          Sed cognitio 
+          <app>
+            <lem>quandoque est</lem>
+            <rdg wit="#B" type="variation-inversion">est quandoque</rdg>
+          </app> 
+          perfectior 
+          obiecto cognito et potentia cognitiva 
+          si est res distincta a potentia cognitiva, 
+          igitur nec potest causari 
+          a potentia nec ab obiecto
         </p>
         <!-- why break ?? -->
         <p xml:id="beq3sc-d1e1093-d1e809">
-          <pc type="#pilcrow"/>Dicitur quod causatur ab 
-          utroque et non ab altero ut a causa totali <sic>sed</sic> partiali 
-          tantum <pc type="#punctus"/>
+          Dicitur quod causatur ab 
+          utroque, 
+          et non ab altero, 
+          ut a causa totali, 
+          sed partiali tantum.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e817">
-          contra illa cognitio est divisibilis vel indivisibilis 
-          si indivisibilis igitur a quocumque producitur totaliter producitur 
-          alioquin idem <unclear>vis <!-- bis ?? --></unclear> produceretur et una causa superflueret 
-          ex quo producitur totaliter ab altera si 
-          divisibilis ergo cum nullum divisibile sit in infinitum divisibile 
-          ut dicit ille sic opinans sequitur quod est devenire 
-          ad cognitionem indivisibile et de illa quaerendum est 
-          aut causatur totaliter ab obiecto vel non etc
+          Contra illa, 
+          cognitio est divisibilis vel indivisibilis. 
+          Si indivisibilis, 
+          igitur a quocumque producitur totaliter producitur, 
+          <app>
+            <lem>alioquin</lem>
+            <rdg wit="#B">aliqui</rdg>
+          </app> 
+          idem 
+          <app>
+            <lem>bis</lem>
+            <rdg wit="#B">vis</rdg>
+          </app> 
+          produceretur 
+          et 
+          <app>
+            <lem>una</lem>
+            <rdg wit="#B" type="correction-substitution">
+              <subst>
+                <del>prima</del>
+                <add>una</add>
+              </subst>
+            </rdg>
+          </app> 
+          causa superflueret 
+          ex quo producitur totaliter ab altera. 
+          Si divisibilis, 
+          ergo, 
+          cum nullum divisibile sit in infinitum divisibile, 
+          ut 
+          <app>
+            <lem>dicit ille</lem>
+            <rdg wit="#B">divisibile</rdg>
+          </app> 
+          sic opinans, 
+          sequitur quod est devenire 
+          ad cognitionem 
+          <app>
+            <lem>indivisibilem</lem>
+            <rdg wit="#B">indivisibile</rdg>
+          </app>, 
+          et de illa quaerendum est 
+          aut causatur totaliter 
+          ab obiecto vel non, 
+          <app>
+            <lem>etc.</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e837">
-          <pc type="#pilcrow"/>Item 
-          si omne cognitivum in homine sit potentia cognitiva 
-          <unclear>set</unclear> alia cognitio hominis est cognitiva ergo alia cognitio 
-          hominis est potentia cognitiva
+          Item, 
+          si omne cognitivum in homine 
+          sit potentia cognitiva, 
+          sed 
+          <app>
+            <lem>alia</lem>
+            <rdg wit="#B">aliqua</rdg>
+          </app> 
+          cognitio hominis est cognitiva,
+          <app>
+            <lem>
+              ergo alia cognitio hominis 
+              est potentia cognitiva
+            </lem>
+            <rdg wit="#B">potentia</rdg>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e850">
-          <pc type="#pilcrow"/>Item iste terminus cognitivum 
-          vel dicit causam effectivam materialem vel formalem 
-          vel finalem non primum quia sic vel foret cognitivum 
-          nisi quod actualiter cognosceret nec 2o nec 4o modo 
-          ut patet ergo 3o modo et per consequens idem quod est cognitivum 
-          est cognitio quando actu aliquis cognoscitur ergo intellectio 
-          est potentia intellectiva
+          Item, 
+          iste terminus <mentioned>cognitivum</mentioned> 
+          vel dicit causam 
+          effectivam, materialem, vel formalem vel finalem. 
+          Non primum 
+          quia sic nihil foret cognitivum 
+          nisi quod actualiter cognosceret. 
+          Nec secundo, nec quarto modo, 
+          ut 
+          <app>
+            <lem>patet</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>, 
+          ergo tertio modo. 
+          Et per consequens 
+          idem quod est cognitivum, 
+          est cognitio quando 
+          <app>
+            <lem>actu aliquid</lem>
+            <rdg wit="#B" type="variation-inversion">aliquid actu</rdg>
+          </app> 
+          cognoscitur, 
+          ergo intellectio est 
+          potentia intellectiva.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e871">
-          <pc type="#pilcrow"/>Item si aliquid sit causatum 
-          a re visa vel igitur agit aequivoce vel univoce 
-          si univoce igitur sunt eiusdem rationis et sic paries 
-          alba videret sua albedine et sic falsum 
-          repraesentaretur quia quando duae qualitates sunt eiusdem 
-          speciei et alia res fuerit aliqualis per unam reliquam 
-          erit talis per reliquam <!-- possible break --> <pc type="#pilcrow"/>si agens est aequivocum 
-          aut visio est perfectior vel inperfectior si perfectior 
-          igitur effectus foret perfectior sua causa efectiva
-          <!-- possible break -->
-          <pc type="#pilcrow"/>si imperfectior igitur foret visio imperfectior albedine 
-          consequens falsum <pc type="#pilcrow"/>dicitur quod causatur ab obiecto et potentia receptiva
+          Item, 
+          si aliquid sit causatum 
+          a re visa, 
+          vel igitur agit 
+          <app>
+            <lem>aequivoce vel univoce</lem>
+            <rdg wit="#B">
+              univoce vel aequivoce
+            </rdg>
+          </app>. 
+          Si univoce igitur sunt eiusdem rationis, 
+          et sic paries 
+          <app>
+            <lem>albus</lem>
+            <rdg wit="#B">alba</rdg>
+          </app> 
+          <app>
+            <lem>videretur</lem>
+            <rdg wit="#P">videret</rdg>
+          </app> 
+          sua albedine, 
+          et sic falsum repraesentaretur 
+          quia quando duae qualitates 
+          sunt eiusdem speciei et 
+          <app>
+            <lem>aliqua</lem>
+            <rdg wit="#P">alia</rdg>
+          </app> 
+          res fuerit 
+          <app>
+            <lem>aliqualis</lem>
+            <rdg wit="#B">aliis</rdg>
+          </app> 
+          per unam, 
+          reliqua erit talis per reliquam. 
+          Si agens est 
+          <app>
+            <lem>aequivocum</lem>
+            <rdg wit="#B">aequivoce</rdg>
+          </app>, 
+          aut visio est perfectior 
+          <app>
+            <lem>aut</lem>
+            <rdg wit="#B">vel</rdg>
+          </app> 
+          imperfectior. 
+          Si perfectior, 
+          igitur effectus foret perfectior 
+          sua causa effectiva.
+          Si imperfectior, 
+          igitur foret visio imperfectior albedine. 
+          Consequens falsum.
+        </p>
+        <p xml:id="beq3sc-d1e1093-d1e1479">
+          Dicitur quod causatur ab obiecto et 
+          <app>
+            <lem>a</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          potentia receptiva.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e909">
-          <pc type="#pilcrow"/>contra sic possem ego fingere 
-          quod nulla qualitas causatur ab obiecto extrinseca <pc type="#pilcrow"/><sic>set</sic> contra 
-          est commentator 2o <title>de anima</title> commento 140 <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio passio 
-          sunt in patiente non in agente ita actio 
-          sensum et sensibilium sunt in sensibilitate</quote> ex quo patet intentio
+          Contra sic, 
+          possem ego fingere 
+          quod nulla qualitas causatur 
+          ab 
+          <app>
+            <lem>obiecto</lem>
+            <rdg wit="#B">agente</rdg>
+          </app> 
+          extrinseco. 
+          Sed contra 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          <ref corresp="#beq3sc-d1e1093-Qd1e924">
+            <name>Commentator</name> 
+            II 
+            <title>De anima</title>, 
+            <app>
+              <lem>commento</lem>
+              <rdg wit="#B" type="variation-absent"/>
+            </app> 
+            140
+          </ref> 
+          <cit>
+            <quote xml:id="beq3sc-d1e1093-Qd1e924" source="http://scta.info/resource/iu7r3b-d1e54">
+              sicut actio 
+              <app>
+                <lem>et</lem>
+                <rdg wit="#B" type="variation-absent"/>
+              </app> 
+              passio 
+              sunt in patiente non in agente, ita actio 
+              sensuum 
+              <app>
+                <lem>et</lem>
+                <rdg wit="#B" type="variation-absent"/>
+              </app> 
+              sensibilium sunt in sentiente
+            </quote>
+            <bibl>
+              <name>Averroes</name>,
+              <title>In de anima</title>,
+              II, commento 140
+              (Juntina, vol. XI, Venice 1562, 123v D)
+              <!-- [note: it is ambiguous whether it is comment 140 or 139] -->
+            </bibl>
+          </cit>,
+          ex quo patet 
+          <app>
+            <lem>intentio</lem>
+            <rdg wit="#B">intellectum</rdg>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e935">
-           <pc type="#pilcrow"/> Item si intentio sit qualitas superaddita sit 
-          illa <c>a</c> volo igitur quod cognoscens cognoscat 
-          <c>a</c> aut igitur ipso <c>a</c> aut alia intellectione cognoscit 
-          <c>a</c> si alia erit processus in infinitum si seipsa 
-          igitur eadem ratione etc <pc type="#pilcrow"/>confirmatur per <name ref="#Augustine">augustinum</name> 2 
-          <title>de trinitate</title> capitulo 4 <quote xml:id="beq3sc-d1e1093-Qd1e973" source="http://scta.info/resource/adt-l4">ipsa visio non est aliud quam sensus qui 
-          videt esse videtur hoc est visio non est aliud esse videtur 
-          quam sensus informatus specie</quote> <pc type="#punctus"/>
+          Item, 
+          si 
+          <app>
+            <lem>intellectio</lem>
+            <rdg wit="#B">intensio</rdg>
+          </app> 
+          sit qualitas superaddita, 
+          sit illa <c>a</c> volo, 
+          igitur quod cognoscens cognoscat 
+          <app>
+            <lem><c>a</c></lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>, 
+          aut igitur ipso 
+          <app>
+            <lem><c>a</c></lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          aut alia intellectione cognoscit <c>a</c>. 
+          Si alia,
+          erit processus in infinitum. 
+          Si seipsa, 
+          igitur eadem ratione, etc. 
+          Confirmatur per 
+          <ref>
+            <name ref="#Augustine">Augustinum</name>,
+            II 
+            <title>De Trinitate</title>,
+            capitulo 4
+          </ref> 
+          <cit>
+            <quote xml:id="beq3sc-d1e1093-Qd1e973" source="http://scta.info/resource/adt-l4">
+              ipsa visio non est aliud quam sensus qui 
+              videt esse videtur hoc est visio non aliud esse videtur 
+              quam sensus informatus specie
+            </quote>
+            <bibl>
+              <name>Augustinus</name>,
+              <title>De Trinitate</title>, 
+              II, c. 4
+            </bibl>
+            <!-- I can't actually find this quote in auguatine -->
+          </cit>. 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e982">
-          <pc type="#pilcrow"/> ad ista tamen Respondetur 
+          Ad ista tamen Respondetur 
           ad primum conceditur totum usque ibi cognitivum intelligit 
           quod <unclear>nemo</unclear> quia non <unclear>cognitivum</unclear> non est cognitio nec 
           denominat aliquid cognoscens nisi quando est in natura cognitiva 
@@ -1094,7 +1363,7 @@
           <pc type="#pilcrow"/>Alia conclusio est haec 
           Similitudo naturalis Rei cognitae est eiusdem speciei cum 
           re illa cuius est et haec est opinio <name ref="#RogerBacon">Rogeri bakum</name> 
-          in sua <ref><title>perspectiva</title> distinctione 6 capitulo 3o</ref> probatur haec sic 
+          in sua <ref xml:id="beq3sc-d1e1093-Rd1e1646"><title>perspectiva</title> distinctione 6 capitulo 3o</ref> probatur haec sic 
           <quote xml:id="beq3sc-d1e1093-Qd1e1220">impossibile est una qualitatem esse naturalem similitudinem alterius 
           a differt specie quia non habemus aliud medium 
           pro statu isto ad probandum quod duae res sunt 

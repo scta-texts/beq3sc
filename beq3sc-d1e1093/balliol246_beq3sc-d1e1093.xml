@@ -304,17 +304,17 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e751">
           Item inpossibile est prae<lb ed="#B"/>dicamenta 
-          consequentia dicitur respectiva <unclear>verificari</unclear> 
-          <lb ed="#B"/>successie de aliqua re nulla facta muta<lb ed="#B"/>tione 
-          <sic>cir qua</sic> rem de qua <unclear>videtur</unclear> nec rem 
+          contradictoria respectiva verificari 
+          <lb ed="#B"/>successive de aliqua re nulla facta muta<lb ed="#B"/>tione 
+          <sic>cir qua</sic> rem de qua videtur nec rem 
           <lb ed="#B"/>respectu cuius videtur sed ista praedicata intellectio 
           <pb ed="#B" n="217-v"/>
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>non intellectio sunt praedicata contradictoria res<lb ed="#B"/>pectiva 
           igitur inpossibile est illa verficari de qua<lb ed="#B"/>litate 
-          quae dicitur intellectio nulla facta <unclear>ar<lb ed="#B"/>ca</unclear> 
+          quae dicitur intellectio nulla facta <unclear>cir<lb ed="#B"/>ca</unclear> 
           etc igitur si destruatur potentia intellectiva 
-          <lb ed="#B"/>et conservetur obiectum et qualitas haec est vera si foremetur 
+          <lb ed="#B"/>et conservetur obiectum et qualitas haec est vera si formetur 
           <lb ed="#B"/>haec qualitas est <unclear>intensio vel intellectio <!-- is this scirbal indication of choice/confusion--></unclear>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e796">
@@ -322,7 +322,8 @@
           est effectum esse perfectiorem sua causa 
           <lb ed="#B"/>efficiente sed cognitio est quandoque perfectior obiecto 
           <lb ed="#B"/>cognito et potentia cognitiva si est res distinc<lb ed="#B"/>ta
-          a potentia nec ab obiecto
+          a potentia cognitiva igitur nec potest causari 
+          <lb ed="#B"/>a potentia nec ab obiecto
         </p>
         <!-- why break ?? -->
         <p xml:id="beq3sc-d1e1093-d1e809">
@@ -333,12 +334,12 @@
         <p xml:id="beq3sc-d1e1093-d1e817">
           contra illa cognitio est divisibilis vel 
           <lb ed="#B"/>indivisibilis si indivisibilis igitur a quocumque 
-          <lb ed="#B"/>producitur totaliter producitur aliqui idem vis 
-          <lb ed="#B"/>produceretur et prima causa superflueret ex quo 
+          <lb ed="#B"/>producitur totaliter producitur <sic>aliqui</sic> idem <sic>vis</sic> 
+          <lb ed="#B"/>produceretur et <seg type="correction"><del rend="erasure">p</del>una</seg> causa superflueret ex quo 
           <lb ed="#B"/>producitur totaliter ab altera si divisibilis ergo cum 
           <lb ed="#B"/>nullum divisibile sit in infinitum divisibile ut divisibile sic 
           <lb ed="#B"/>oppinans sequitur quod est devenire ad cognitionem 
-          <lb ed="#B"/>indivisible et de illa quaerendum est aut causatur 
+          <lb ed="#B"/><sic>indivisibile</sic> et de illa quaerendum est aut causatur 
           <lb ed="#B"/>totaliter ab obiecto vel non
         </p>
         <p xml:id="beq3sc-d1e1093-d1e837">
@@ -348,47 +349,50 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e850">
           item iste 
-          <lb ed="#B"/>terminus cognitivum vel dicit causam effectivam materialis 
-          <lb ed="#B"/>vel formalis vel finalis non primum quia sic 
-          <lb ed="#B"/>vel foret cognitivum nisi quod actualiter co<lb ed="#B"/>gnosceret 
+          <lb ed="#B"/>terminus cognitivum vel dicit causam effectivam materialem 
+          <lb ed="#B"/>vel formalem vel finalem non primum quia sic 
+          <lb ed="#B"/>nihil foret cognitivum nisi quod actualiter co<lb ed="#B"/>gnosceret 
           nec 2o nec 4o modo ut ergo 
           <lb ed="#B"/>3o modo et per consequens idem quod est cognitivum est 
-          <lb ed="#B"/>cognitio quando ad actu <sic>cognocitur</sic> igitur 
+          <lb ed="#B"/>cognitio quando aliquid actu <sic>cognocitur</sic> igitur 
           <lb ed="#B"/>intellectio est potentia intellectiva
         </p>
         <p xml:id="beq3sc-d1e1093-d1e871">
           Item si aliquid 
           <lb ed="#B"/>sit causatum a re visa vel ergo agit 
-          <lb ed="#B"/>univoce vel aequivoce si uniquivoce igitur sunt eiusdem 
+          <lb ed="#B"/>univoce vel aequivoce si univoce igitur sunt eiusdem 
           <lb ed="#B"/>rationis et sic paries alba videretur sua 
           <lb ed="#B"/>albedine et sic falsum repraesentaretur quia quando duae 
-          <lb ed="#B"/>qualitatis sunt eiusdem speciei et <choice><orig>alica</orig><reg>aliqua</reg></choice> 
-          <lb ed="#B"/>res fuerit <unclear>alias</unclear> per unam reliquam erit talis 
+          <lb ed="#B"/>qualitates sunt eiusdem speciei et <choice><orig>alica</orig><reg>aliqua</reg></choice> 
+          <lb ed="#B"/>res fuerit <unclear>aliis</unclear> per unam reliqua erit talis 
           <lb ed="#B"/>per reliquam si agens est aequivoce aut 
           <lb ed="#B"/>visio est perfectior vel inperfectior si perfectior 
           <lb ed="#B"/>igitur effectus foret perfectior sua causa efe<lb ed="#B"/>ctiva 
           si imperfectior igitur foret visio imperfectior 
-          <lb ed="#B"/>albedine consequens falsum dicitur quod causatur ab o<lb ed="#B"/>biecto 
+          <lb ed="#B"/>albedine consequens falsum
+        </p>
+        <p xml:id="beq3sc-d1e1093-d1e1479">
+          dicitur quod causatur ab o<lb ed="#B"/>biecto 
           et a potentia receptiva
         </p>
         <p xml:id="beq3sc-d1e1093-d1e909">
           contra sic possem 
           <lb ed="#B"/>ego fingere quod nulla qualitas causatur 
-          <lb ed="#B"/>ab agento extrinsece sed contra est commentator 
-          <lb ed="#B"/>2o <title>de anima</title> <unclear>res</unclear> <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio passio sunt in 
-          <lb ed="#B"/>patiente non in agente ita actio sensum 
-          <lb ed="#B"/>sensibilium sunt in sensibilitate</quote> ex quo patet <unclear>intellectum</unclear>
+          <lb ed="#B"/>ab <sic>agento</sic> extrinseco sed contra est commentator 
+          <lb ed="#B"/>2o <title>de anima</title> 140 <quote xml:id="beq3sc-d1e1093-Qd1e924">sicut actio passio sunt in 
+          <lb ed="#B"/>patiente non in agente ita actio sensuum 
+          <lb ed="#B"/>sensibilium sunt in <unclear>sentiente</unclear></quote> ex quo patet intellectum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e935">
           <lb ed="#B"/><pc type="virgula">//</pc>Item si intentio sit qualitas super add<lb ed="#B"/>ita 
-          sit illa <c>a</c> nolo igitur quod cognoscens 
+          sit illa <c>a</c> volo igitur quod cognoscens 
           <lb ed="#B"/>cognoscat aut igitur ipso aut alia 
           <lb ed="#B"/>intellectione <seg type="correction">cognoscit <!--possible correction from s to c --></seg> <c>a</c> si alia erit pro<lb ed="#B"/>cessus 
           in infinitum si se ipsa igitur eadem ratione 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>etc confirmatur per <name ref="#Augustine">augustinum</name> 2o <title>de trinitate</title> capitulo 
           <lb ed="#B"/>4o <quote xml:id="beq3sc-d1e1093-Qd1e973" source="http://scta.info/resource/adt-l4">ipsa visio non est aliud quam sensus qui videt 
-          <lb ed="#B"/>esse videtur hoc est visio non est aliud esse vietur 
+          <lb ed="#B"/>esse videtur hoc est visio non est aliud esse videtur 
           <lb ed="#B"/>quam sensus informatus specie</quote>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e982">
