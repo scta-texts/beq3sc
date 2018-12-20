@@ -1184,7 +1184,7 @@
             <lem>est</lem>
             <rdg wit="#P" type="variation-absent"/>
           </app> 
-          <ref corresp="#beq3sc-d1e1093-Qd1e924">
+          <ref xml:id="beq3sc-d1e1093-Rd1e1563" corresp="#beq3sc-d1e1093-Qd1e924">
             <name>Commentator</name> 
             II 
             <title>De anima</title>, 
@@ -1249,7 +1249,7 @@
           Si seipsa, 
           igitur eadem ratione, etc. 
           Confirmatur per 
-          <ref>
+          <ref xml:id="beq3sc-d1e1093-Rd1e1659">
             <name ref="#Augustine">Augustinum</name>,
             II 
             <title>De Trinitate</title>,
@@ -1270,135 +1270,517 @@
           </cit>. 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e982">
-          Ad ista tamen Respondetur 
-          ad primum conceditur totum usque ibi cognitivum intelligit 
-          quod <unclear>nemo</unclear> quia non <unclear>cognitivum</unclear> non est cognitio nec 
+          Ad ista tamen respondetur, 
+          ad primum conceditur totum usque ibi, 
+          <app>
+            <lem>non-cognitivum</lem>
+            <rdg wit="#B">notum cognitum</rdg>
+          </app> 
+          intelligit 
+          quod 
+          <app>
+            <lem>nego</lem>
+            <rdg wit="#B">nemo</rdg>
+          </app> 
+          quia non-cognitivum non est cognitio nec 
           denominat aliquid cognoscens nisi quando est in natura cognitiva 
-          etiam eodem modo 
-          <!-- break -->
-          pono contra eum pono quod deus ponat animam informatam 
-          specie in lapide et tunc habet ille conclusionem concedere 
-          quia non plus requiritur per eum ad hoc quod una res 
-          denominet aliam nisi quod sit in distans ab ea
+          <pb ed="#P" n="160-r"/>
+          <cb ed="#P" n="a"/>
+          <app>
+            <lem>Etiam</lem>
+            <rdg wit="#B">et</rdg>
+          </app> 
+          eodem modo 
+          <app>
+            <lem>pono contra eum</lem>
+            <rdg wit="#B" type="variation-inversion">
+              <seg>contra eum</seg>
+              <seg>pono</seg>
+            </rdg>
+          </app> 
+          quod Deus ponat animam informatam 
+          <app>
+            <lem n="informatam"/>
+            <rdg wit="#B" type="variation-present">in</rdg>
+          </app>
+          specie in lapide, 
+          et tunc habet 
+          <app>
+            <lem>ille</lem>
+            <rdg wit="#B">ipse</rdg>
+          </app> 
+          <app>
+            <lem>conclusionem concedere</lem>
+            <rdg wit="#B" type="variation-inversion">concedere conclusionem</rdg>
+          </app> 
+          quia non plus requiritur per eum ad hoc 
+          quod una res denominet aliam 
+          nisi quod sit indistans ab ea.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1017">
-          <pc type="#pilcrow"/> Item deus est in lapide et deus est intellectio igitur etc 
-          et tamen falsum est dicere quod lapis intelligit igitur
+          Item, Deus est in lapide 
+          et Deus est intellectio, 
+          igitur etc. 
+          et tamen falsum est 
+          <app>
+            <lem>dicere</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          quod lapis intelligit, 
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1024">
           <pc type="#pilcrow"/>Item 
-          intellectio est in pede quia anima et tamen pes non intelligit
+          intellectio est 
+          <app>
+            <lem>in</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          pede quia anima et tamen pes non 
+          <app>
+            <lem n="non"/>
+            <rdg wit="#B" type="correction-deletion">
+              <del rend="strikethrough">il</del>
+            </rdg>
+          </app> 
+          intelligit
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1032">
-           <pc type="#pilcrow"/> Item haec consequentia non est formalis lapis intelligit igitur non 
-          cognitum intelligit quia tantum est consequentia ut nunc quia 
-          si deus assumeret lapidem antecedens esset verum 
-          et consequens falsum
+          Item, 
+          haec consequentia non est formalis, 
+          lapis intelligit, 
+          igitur 
+          <app>
+            <lem>non-cognitivum</lem>
+            <rdg wit="#B">non est cognitum</rdg>
+          </app> 
+          intelligit, 
+          quia tantum est consequentia ut nunc 
+          quia, 
+          si Deus assumeret lapidem, 
+          antecedens esset verum 
+          et consequens falsum.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1046">
-          <pc type="virgula">//</pc> <pc type="#pilcrow"/> ad 2m dico eodem modo quia illo 
+          <app>
+            <lem>Ad</lem>
+            <rdg wit="#B">a</rdg>
+          </app> 
+          secundum, 
+          <app>
+            <lem>dico</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          eodem modo quia 
+          <app>
+            <lem>illo</lem>
+            <rdg wit="#B">isto</rdg>
+          </app> 
           casu posito illa qualitas non foret visio quia 
-          iste terminus visio supponit pro una quantitate 
-          connotans eam esse in certo subiecto
+          iste terminus <mentioned>visio</mentioned> 
+          supponit pro una qualitate 
+          connotans eam esse in certo subiecto.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1058">
-          <pc type="#pilcrow"/> ad 3m dico 
-          quod una causa non denominat aliam nisi forte denominatione 
-          extrinseca nihil enim est dictum actio formalis 
-          vel materia finalis
+          Ad tertium, 
+          dico quod una causa non denominat aliam 
+          nisi forte denominatione extrinseca, 
+          nihil enim est 
+          <app>
+            <lem>dictu</lem>
+            <rdg wit="#B">dictum</rdg>
+          </app> 
+          actio formalis 
+          vel materia finalis.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1070">
-          <pc type="#pilcrow"/>ad 4m dico quod stante 
-          illa specie in anima anima quandoque est intellecto quando non <pc type="virgula">/</pc> 
-          <pc type="#pilcrow"/>Similiter assumit falsum quia volo quod circulus significet 
-          ibi esse <unclear>vinum</unclear> ab hora prima usque ad horma 9am 
-          et non ultra tunc signum et non signum sunt praedicata 
-          respectiva contradictoria <pc type="#pilcrow"/>Similiter rex facit 
-          quod denarius est nunc praetium panis et prius non 
-          fuit et tamen nec panis mutatur nec 
-          denarius sicut deus creat animam <name>platonis</name> in <c>a</c> 
-          et tunc nec deus mutatur nec anima
+          Ad quartum, 
+          dico quod stante 
+          illa specie in anima, 
+          anima quandoque est intellectio 
+          <app>
+            <lem>quandoque</lem>
+            <rdg wit="#B">quando</rdg>
+          </app> 
+          non.  
+          Similiter assumit falsum 
+          quia volo quod circulus significet 
+          ibi esse vinum ab hora prima 
+          usque ad horam nonam et non ultra, 
+          tunc signum et non-signum sunt praedicata 
+          respectiva contradictoria, 
+          <app>
+            <lem>etc.</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          Similiter, 
+          rex facit 
+          quod denarius est nunc praetium panis 
+          et prius non fuit, 
+          et tamen nec panis mutatur nec 
+          denarius. 
+          Similiter, 
+          Deus creat animam 
+          <name>Platonis</name> in <c>a</c>, 
+          et 
+          <app>
+            <lem>tamen</lem>
+            <rdg wit="#B">tunc</rdg>
+          </app> 
+          <app>
+            <lem>nec</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          Deus 
+          <app>
+            <lem n="Deus"/>
+            <rdg wit="#B" type="variation-present">non</rdg>
+          </app> 
+          mutatur nec anima.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1110">
-          <pc type="#pilcrow"/>ad aliud dico 
-          quod dicimus hanc conclusionem esse demonstrativam non quia 
-          demonstrat nec habitum electivum quia elegit <sic>set</sic> quia 
-          homo eligit per illum
+          Ad aliud, 
+          dico quod dicimus 
+          hanc conclusionem esse demonstrativam 
+          non quia demonstrat, 
+          nec habitum electivum quia 
+          <app>
+            <lem>eligit</lem>
+            <rdg wit="#B">elegit</rdg>
+          </app>, 
+          sed quia 
+          homo eligit per 
+          <app>
+            <lem>illum</lem>
+            <rdg wit="#B">illos</rdg>
+          </app>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1119">
-          <pc type="#pilcrow"/>ad aliud dico quod anima secundum 
-          eum est cognitiva et anima est cognitio nam iste 
-          terminus cognitivum dicit causam formalis cognitionis 
-          quaero de illa causa vel est cognitio vel alia 
-          res si alia cognitio est opposita <pc type="#punctus"/>
+          Ad aliud dico quod 
+          <app>
+            <lem>anima secundum eum</lem>
+            <rdg wit="#B">
+              <seg>secundum eum</seg>
+              <seg>anima</seg>
+            </rdg>
+          </app> 
+          est cognitiva et anima est cognitio nam iste 
+          terminus 
+          <mentioned>
+            <app>
+              <lem>cognitivum</lem>
+              <rdg wit="#B">cognitum</rdg>
+            </app>
+          </mentioned>
+          dicit causam formalis cognitionis.
+          Quaero de illa causa, 
+          vel est cognitio 
+          vel alia res.
+          Si alia, 
+          cognitio est opposita. <!-- Dbcheck: Gelber editorally corrects opposita to composita -->
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1130">
-          <pc type="#pilcrow"/>alia conclusio eius 
-          est  haec <pc type="#punctus"/> Similitudo cognoscentis quae est naturalis similitudo 
-          qualitatis sensibilis extra cognoscitur et <unclear>senseritur</unclear> non cognita 
-          re cuius est similitudo patet per motionem circularem 
+          Alia conclusio 
+          <app>
+            <lem>eius</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          est 
+          <app>
+            <lem>haec</lem>
+            <rdg wit="B">ista</rdg>
+          </app>, 
+          similitudo cognoscentis, 
+          quae est naturalis similitudo 
+          qualitatis sensibilis extra, 
+          cognoscitur et 
+          <app>
+            <lem>sentitur</lem>
+            <rdg wit="#B">assentitur</rdg>
+          </app> 
+          non cognita 
+          re cuius est similitudo. 
+          Patet per motionem circularem 
           virgae ignitae in cuius extremitate videtur circulus 
-          igneus <sic>set</sic> nullus talis circulus est extra videntem 
-          cuius causa naturalis ut dicit est illa quia color unius 
-          partis virgae existens in uno situ causat similitudinem 
-          suam in capite videntis et in alio 
-          situ existens causat aliam quae conterminatur similitudinem praecedenti 
-          in capite et in 3o loco 3am quibus sic <unclear>conterminatis</unclear> 
-          fit unus color circularis qui manet in capite videntis 
-          toto tempore mensuratae circulationem praedictam et ideo 
-          apparet videnti quod pars illa sit similis in quocumque situ 
-          circulationis ideo in casu illo nullum circulum ignitum videt 
-          <sic>set</sic> tantum similitudinem 
-          <!-- possible break -->
-          <pc type="#pilcrow"/><sic>Set</sic> contra tunc 
+          igneus <sic>sed</sic> nullus talis circulus est extra videntem 
+          cuius causa naturalis ut dicit est 
+          <app>
+            <lem>ille</lem>
+            <rdg wit="#P">illa</rdg>
+          </app> 
+          quia color unius 
+          partis virgae existens in uno 
+          <app>
+            <lem>situ</lem>
+            <rdg wit="#B">scitu</rdg>
+          </app> 
+          causat similitudinem 
+          suam in capite videntis, 
+          et in alio 
+          <app>
+            <lem>situ</lem>
+            <rdg wit="#B">scitu</rdg>
+          </app> 
+          existens 
+          <pb ed="#B" n="218-r"/>
+          <cb ed="#B" n="a"/>
+          causat aliam 
+          quae conterminatur similitudinem praecedenti in capite, 
+          et in tertio loco tertiam, 
+          quibus sic conterminatis 
+          fit unus color circularis 
+          qui manet in capite videntis 
+          toto tempore mensurante circulationem 
+          <app>
+            <lem>unam</lem>
+            <rdg wit="#B">praedictam</rdg>
+          </app>, 
+          et ideo 
+          <app>
+            <lem>apparet</lem>
+            <rdg wit="#B">oportet</rdg>
+          </app> 
+          videnti 
+          quod pars illa sit similis 
+          in quocumque situ circulationis. 
+          Ideo in casu 
+          <app>
+            <lem>illo</lem>
+            <rdg wit="#B">isto</rdg>
+          </app> 
+          nullum circulum ignitum videt,
+          sed tantum similitudinem. 
+        </p>
+        <p xml:id="beq3sc-d1e1093-d1e1988">
+          Sed contra tunc 
           oportet quod talis similitudo in visu foret tantae quantitatis 
           quantae videtur sibi quod est unus circulus extra 
-          <unclear>videre</unclear> negatur consequentia cuius causa est quia videns colorem 
-          extrinsecum per eius speciem sub eodem angelo videt 
-          speciem et colorem cuius est et ideo species et color 
-          apparent videnti eiusdem quantitatis quia videntur sub 
-          eisdem agnulis scilicet aequalibus
+          <app><!-- this variant remains unclear -->
+            <lem>videntis</lem>
+            <rdg wit="#P">videre</rdg>
+          </app> 
+          negatur consequentia, 
+          cuius causa est 
+          quia videns colorem extrinsecum 
+          per eius speciem sub eodem angulo 
+          videt speciem et colorem cuius est, 
+          et ideo species et color 
+          apparent videnti eiusdem quantitatis 
+          quia videntur sub 
+          <app>
+            <lem>eisdem</lem>
+            <rdg wit="#B">aequalibus</rdg>
+          </app> 
+          angulis, 
+          <app>
+            <lem>scilicet aequalibus</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1200">
-          <pc type="#pilcrow"/>Alia conclusio est haec 
-          Similitudo naturalis Rei cognitae est eiusdem speciei cum 
-          re illa cuius est et haec est opinio <name ref="#RogerBacon">Rogeri bakum</name> 
-          in sua <ref xml:id="beq3sc-d1e1093-Rd1e1646"><title>perspectiva</title> distinctione 6 capitulo 3o</ref> probatur haec sic 
-          <quote xml:id="beq3sc-d1e1093-Qd1e1220">impossibile est una qualitatem esse naturalem similitudinem alterius 
-          a differt specie quia non habemus aliud medium 
-          pro statu isto ad probandum quod duae res sunt 
-          eiusdem speciei nisi quod una est naturalis similitudo respectu 
-          alterius</quote> igitur etc
+          Alia conclusio est 
+          <app>
+            <lem>haec</lem>
+            <rdg wit="#B">ista</rdg>
+          </app>,
+          similitudo naturalis rei cognitae est eiusdem speciei cum 
+          re illa cuius est et haec est opinio 
+          <ref xml:id="beq3sc-d1e1093-Rd1e1646">
+            <name ref="#RogerBacon">Rogeri Bacon</name> 
+            in sua 
+            <title>perspectiva</title>, 
+            distinctione 6, 
+            capitulo 3
+          </ref>, 
+          probatur haec sic, 
+          <cit>
+            <quote xml:id="beq3sc-d1e1093-Qd1e1220">
+              impossibile est 
+              <app>
+                <lem>unam qualitatem</lem>
+                <rdg wit="#B">una qualitas</rdg>
+              </app> 
+              esse naturalem similitudinem alterius 
+              a qua differt specie quia non habemus aliud medium 
+              pro statu isto ad probandum quod duae res sunt 
+              eiusdem speciei nisi quod una est naturalis similitudo 
+              <app>
+                <lem>respectu</lem>
+                <rdg wit="#B" type="variation-absent"/>
+              </app> 
+              alterius
+            </quote>
+            <bibl>
+              <name>Roger Bacon</name>,
+              xxx
+            </bibl>
+          </cit>,
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          etc.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1235">
-          <pc type="#pilcrow"/>2o sic albedo visa causat 
-          speciem vel igitur est agens univocum et habetur propositum 
-          vel aequivoce quod est falsum quia in generatione aequivoca effectus 
-          est dissimilis agenti
+          Secundo sic, 
+          albedo visa causat speciem, 
+          <app>
+            <lem>vel</lem>
+            <rdg wit="#B">nihil</rdg>
+          </app> 
+          igitur est agens 
+          <app>
+            <lem>univocum</lem>
+            <rdg wit="#B">univoce</rdg>
+          </app> 
+          et habetur propositum, 
+          vel 
+          <app>
+            <lem>aequivocum</lem>
+            <rdg wit="#B">aequivoce</rdg>
+          </app> 
+          quod est falsum 
+          quia in generatione aequivoca effectus 
+          est dissimilis agenti.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1247">
-          <pc type="#pilcrow"/>Item omne visibile est 
-          lux vel color <sic>set</sic> illa species est visibili quia sic 
-          videtur ergo est lux vel color non lux quia illa non naturalis 
-          similitudo colorum est igitur est colore
+          Item, 
+          omne visibile est 
+          lux vel color, 
+          sed illa 
+          <app>
+            <lem>species</lem>
+            <rdg wit="#B">specie</rdg>
+          </app> 
+          est visibilis 
+          quia sic 
+          <app>
+            <lem>videtur</lem>
+            <rdg wit="#B">vocatur</rdg>
+          </app>, 
+          ergo est lux vel color. 
+          non lux 
+          quia illa non 
+          <app>
+            <lem n="non"/>
+            <rdg wit="#B" type="variation-present">est</rdg>
+          </app> 
+          naturalis 
+          similitudo colorum 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>, 
+          igitur 
+          <app>
+            <lem>est color</lem>
+            <rdg wit="#B" type="variation-inversion">color est</rdg>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1261">
-          <pc type="#pilcrow"/>Item respiciens 
-          attente colorem viridem et subito se vertens 
+          Item, 
+          respiciens attente colorem viridem 
+          et subito 
+          <app>
+            <lem>se vertens</lem>
+            <rdg wit="#B">convertens se</rdg>
+          </app> 
           ad obscurum adhuc videt colorem viridem 
-          <sic>set</sic> nullum extra igitur ille color est in vidente et eiusdem 
-          speciei cum colore prius viso <pc type="#punctus"/> et idem sentiendum est de 
-          specie intelligibile et de re a qua generatur
+          sed nullum extra, 
+          igitur ille color est in vidente 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          eiusdem 
+          speciei cum 
+          <app>
+            <lem>colore</lem>
+            <rdg wit="#B">colorem</rdg>
+          </app> 
+          prius viso. 
+          Et idem sentiendum est de 
+          <app>
+            <lem n="de"/>
+            <rdg wit="#P" type="variation-present" cause="repetitio">de</rdg>
+          </app> 
+          specie intelligibili 
+          et de re a qua generatur.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1284">
-          <pc type="#pilcrow"/> Item 
-          2o <title>de anima</title> si visus haberet colorem in actu non reciperet 
-          colores quia igitur <del rend="expunctuation">non</del> recipit colores 
-          non habet colores in actu non tamen negat quin 
-          habet in potentia <pc type="#pilcrow"/>propter istas rationes concedit opinans 
-          quod tam angelus quam anima est aliquando frigidus aliquando 
-          calidus et lapis est cum angelo in caelo et in anima quando 
-          cum intelligit lapidem
+          Item, 
+          <ref xml:id="beq3sc-d1e1093-Rd1e2256" corresp="#beq3sc-d1e1093-Qd1e2263">
+            II <title>De anima</title>
+          </ref> 
+          <cit>
+            <quote xml:id="beq3sc-d1e1093-Qd1e2263" source="http://scta.info/resource/iu7r3b-d1e54">
+              si visus haberet colorem in actu non reciperet 
+              <app>
+                <lem>colores</lem>
+                <rdg wit="#B">colorem</rdg>
+              </app>
+            </quote>
+            <bibl>
+              <bibl>
+                <name>Averroes</name>, 
+                <title>In de anima</title>, 
+                II, commento 104 
+                (Juntina, vol. XI, Venice 1562, 105r A)
+              </bibl>
+            </bibl>
+          </cit> 
+          quia igitur 
+          <app>
+            <lem n="igitur"/>
+            <rdg wit="#P" type="correction-deletion">
+              <del rend="expunctuation">non</del>
+            </rdg>
+          </app> 
+          recipit 
+          <app>
+            <lem>colores</lem>
+            <rdg wit="#B">colorem</rdg>
+          </app> 
+          non habet 
+          <app>
+            <lem>colores</lem>
+            <rdg wit="#B">colorem</rdg>
+          </app> 
+          in actu, 
+          non 
+          <app>
+            <lem>tamen negat</lem>
+            <rdg wit="#B" type="variation-inversion">
+              <sic>negnat</sic>
+              tamen
+            </rdg>
+          </app> quin 
+          habet in potentia.
+          Propter istas rationes concedit opinans 
+          quod tam angelus quam anima est 
+          aliquando 
+          <app>
+            <lem>frigidus aliquando calidus</lem>
+            <rdg wit="#B">calidus frigidus</rdg>
+          </app>, 
+          et 
+          <app>
+            <lem>quod</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          lapis est cum angelo in caelo 
+          et in anima 
+          <app>
+            <lem>quandocumque</lem>
+            <rdg wit="#B">quando</rdg>
+          </app> 
+          <app>
+            <lem>intelligit lapidem</lem>
+            <rdg wit="#B">intelligunt lapides</rdg>
+          </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1310">
           <pc type="#pilcrow"/>Et si arguitur contra impossibile 

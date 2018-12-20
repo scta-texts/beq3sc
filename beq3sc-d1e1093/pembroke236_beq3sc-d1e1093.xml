@@ -378,15 +378,15 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e982">
           <pc type="#pilcrow"/> ad ista tamen Respondetur 
-          <lb ed="#P"/>ad primum conceditur totum usque ibi cognitivum intelligit 
-          <lb ed="#P"/>quod <unclear>nemo</unclear> quia non <unclear>cognitivum</unclear> non est cognitio nec 
+          <lb ed="#P"/>ad primum conceditur totum usque ibi non cognitivum intelligit 
+          <lb ed="#P"/>quod nego quia non cognitivum non est cognitio nec 
           <lb ed="#P"/>denominat aliquid cognoscens nisi quando est in natura cognitiva 
-          <lb ed="#P"/>etiam eodem modo 
-          <!-- break -->
-          pono contra eum pono quod deus ponat animam in<lb ed="#P"/>formatam 
+          <pb ed="#P" n="160-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>etiam eodem modo pono contra eum quod deus ponat animam in<lb ed="#P"/>formatam 
           specie in lapide et tunc habet ille conclusionem concedere 
           <lb ed="#P"/>quia non plus requiritur per eum ad hoc quod una res 
-          <lb ed="#P"/>denominet aliam nisi quod sit in distans ab ea
+          <lb ed="#P"/>denominet aliam nisi quod sit indistans ab ea
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1017">
           <lb ed="#P"/><pc type="#pilcrow"/> Item deus est in lapide et deus est intellectio igitur etc 
@@ -394,18 +394,18 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1024">
           <pc type="#pilcrow"/>Item 
-          <lb ed="#P"/>intellectio est in pede quia anima et tamen pes non intelligit
+          <lb ed="#P"/>intellectio est pede quia anima et tamen pes non intelligit
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1032">
           <lb ed="#P"/> <pc type="#pilcrow"/> Item haec consequentia non est formalis lapis intelligit igitur non 
-          <lb ed="#P"/>cognitum intelligit quia tantum est consequentia ut nunc quia 
+          <lb ed="#P"/>cognitivum intelligit quia tantum est consequentia ut nunc quia 
           <lb ed="#P"/>si deus assumeret lapidem antecedens esset verum 
           <lb ed="#P"/>et consequens falsum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1046">
           <pc type="virgula">//</pc> <pc type="#pilcrow"/> ad 2m dico eodem modo quia illo 
           <lb ed="#P"/>casu posito illa qualitas non foret visio quia 
-          <lb ed="#P"/>iste terminus visio supponit pro una quantitate 
+          <lb ed="#P"/>iste terminus visio supponit pro una qualitate 
           <lb ed="#P"/>connotans eam esse in certo subiecto
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1058">
@@ -416,33 +416,33 @@
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1070">
           <pc type="#pilcrow"/>ad 4m dico quod stante 
-          <lb ed="#P"/>illa specie in anima anima quandoque est intellecto quando non <pc type="virgula">/</pc> 
+          <lb ed="#P"/>illa specie in anima <sic>anima</sic> quandoque est intellectio quandoque non <pc type="virgula">/</pc> 
           <lb ed="#P"/><pc type="#pilcrow"/>Similiter assumit falsum quia volo quod circulus signi<lb ed="#P"/>ficet 
-          ibi esse <unclear>vinum</unclear> ab hora prima usque ad horma 9am 
+          ibi esse vinum ab hora prima usque ad horam 9am 
           <lb ed="#P"/>et non ultra tunc signum et non signum sunt prae<lb ed="#P"/>dicata 
           respectiva contradictoria <pc type="#pilcrow"/>Similiter rex facit 
           <lb ed="#P"/>quod denarius est nunc praetium panis et prius non 
           <lb ed="#P"/>fuit et tamen nec panis mutatur nec 
-          <lb ed="#P"/>denarius sicut deus creat animam <name>platonis</name> in <c>a</c> 
-          <lb ed="#P"/>et tunc nec deus mutatur nec anima
+          <lb ed="#P"/>denarius similiter deus creat animam <name>platonis</name> in <c>a</c> 
+          <lb ed="#P"/>et tamen nec deus mutatur nec anima
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1110">
           <pc type="#pilcrow"/>ad aliud dico 
           <lb ed="#P"/>quod dicimus hanc conclusionem esse demonstrativam non quia 
-          <lb ed="#P"/>demonstrat nec habitum electivum quia elegit <sic>set</sic> quia 
+          <lb ed="#P"/>demonstrat nec habitum electivum quia eligit <sic>set</sic> quia 
           <lb ed="#P"/>homo eligit per illum
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1119">
           <pc type="#pilcrow"/>ad aliud dico quod anima secundum 
           <lb ed="#P"/>eum est cognitiva et anima est cognitio nam iste 
-          <lb ed="#P"/>terminus cognitivum dicit causam formalis cogni<lb ed="#P"/>tionis 
+          <lb ed="#P"/>terminus cognitivum dicit causam formalem cogni<lb ed="#P"/>tionis 
           quaero de illa causa vel est cognitio vel alia 
           <lb ed="#P"/>res si alia cognitio est opposita <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1130">
           <pc type="#pilcrow"/>alia conclusio eius 
           <lb ed="#P"/>est  haec <pc type="#punctus"/> Similitudo cognoscentis quae est naturalis similitudo 
-          <lb ed="#P"/>qualitatis sensibilis extra cognoscitur et <unclear>senseritur</unclear> non cogni<lb ed="#P"/>ta 
+          <lb ed="#P"/>qualitatis sensibilis extra cognoscitur et sentitur non cogni<lb ed="#P"/>ta 
           re cuius est similitudo patet per motionem circularem 
           <lb ed="#P"/>virgae ignitae in cuius extremitate videtur circulus 
           <lb ed="#P"/>igneus <sic>set</sic> nullus talis circulus est extra videntem 
@@ -450,29 +450,30 @@
           <lb ed="#P"/>partis virgae existens in uno situ causat simili<lb ed="#P"/>tudinem 
           suam in capite videntis et in alio 
           <lb ed="#P"/>situ existens causat aliam quae conterminatur similitudinem praecedenti 
-          <lb ed="#P"/>in capite et in 3o loco 3am quibus sic <unclear>conterminatis</unclear> 
+          <lb ed="#P"/>in capite et in 3o loco 3am quibus sic conterminatis 
           <lb ed="#P"/>fit unus color circularis qui manet in capite videntis 
-          <lb ed="#P"/>toto tempore mensuratae circulationem praedictam et ideo 
+          <lb ed="#P"/>toto tempore <sic>mensurante</sic> circulationem praedictam et ideo 
           <lb ed="#P"/>apparet videnti quod pars illa sit similis in quocumque situ 
           <lb ed="#P"/>circulationis ideo in casu illo nullum circulum ignitum vi<lb ed="#P"/>det 
           <sic>set</sic> tantum similitudinem 
-          <!-- possible break -->
+        </p>
+        <p xml:id="beq3sc-d1e1093-d1e1988">
           <pc type="#pilcrow"/><sic>Set</sic> contra tunc 
           <lb ed="#P"/>oportet quod talis similitudo in visu foret tantae quan<lb ed="#P"/>titatis 
           quantae videtur sibi quod est unus circulus extra 
           <lb ed="#P"/><unclear>videre</unclear> negatur consequentia cuius causa est quia videns colorem 
-          <lb ed="#P"/>extrinsecum per eius speciem sub eodem angelo videt 
+          <lb ed="#P"/>extrinsecum per eius speciem sub eodem angulo videt 
           <lb ed="#P"/>speciem et colorem cuius est et ideo species et color 
           <lb ed="#P"/>apparent videnti eiusdem quantitatis quia videntur sub 
-          <lb ed="#P"/>eisdem agnulis scilicet aequalibus
+          <lb ed="#P"/>eisdem angulis scilicet aequalibus
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1200">
           <pc type="#pilcrow"/>Alia conclusio est haec 
           <lb ed="#P"/>Similitudo naturalis Rei cognitae est eiusdem speciei cum 
           <lb ed="#P"/>re illa cuius est et haec est opinio <name ref="#RogerBacon">Rogeri ba<lb ed="#P"/>kum</name> 
           in sua <ref><title>perspectiva</title> distinctione 6 capitulo 3o</ref> probatur haec sic 
-          <lb ed="#P"/><quote xml:id="beq3sc-d1e1093-Qd1e1220">impossibile est una qualitatem esse naturalem similitudinem al<lb ed="#P"/>terius 
-          a differt specie quia non habemus aliud medium 
+          <lb ed="#P"/><quote xml:id="beq3sc-d1e1093-Qd1e1220">impossibile est unam qualitatem esse naturalem similitudinem al<lb ed="#P"/>terius 
+          a qua differt specie quia non habemus aliud medium 
           <lb ed="#P"/>pro statu isto ad probandum quod duae res sunt 
           <lb ed="#P"/>eiusdem speciei nisi quod una est naturalis similitudo respectu 
           <lb ed="#P"/>alterius</quote> igitur etc
@@ -480,14 +481,14 @@
         <p xml:id="beq3sc-d1e1093-d1e1235">
           <pc type="#pilcrow"/>2o sic albedo visa causat 
           <lb ed="#P"/>speciem vel igitur est agens univocum et habetur propositum 
-          <lb ed="#P"/>vel aequivoce quod est falsum quia in generatione aequivoca effec<lb ed="#P"/>tus 
+          <lb ed="#P"/>vel aequivocum quod est falsum quia in generatione aequivoca effec<lb ed="#P"/>tus 
           est dissimilis agenti
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1247">
           <pc type="#pilcrow"/>Item omne visibile est 
-          <lb ed="#P"/>lux vel color <sic>set</sic> illa species est visibili quia sic 
+          <lb ed="#P"/>lux vel color <sic>set</sic> illa species est visibilis quia sic 
           <lb ed="#P"/>videtur ergo est lux vel color non lux quia illa non naturalis 
-          <lb ed="#P"/>similitudo colorum est igitur est colore
+          <lb ed="#P"/>similitudo colorum est igitur est color
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1261">
           <pc type="#pilcrow"/>Item respiciens 
@@ -495,17 +496,17 @@
           <lb ed="#P"/>ad obscurum adhuc videt colorem viridem 
           <lb ed="#P"/><sic>set</sic> nullum extra igitur ille color est in vidente et eiusdem 
           <lb ed="#P"/>speciei cum colore prius viso <pc type="#punctus"/> et idem sentiendum est de 
-          <lb ed="#P"/>specie intelligibile et de re a qua generatur
+          <lb ed="#P"/>de specie intelligibili et de re a qua generatur
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1284">
           <pc type="#pilcrow"/> Item 
-          <lb ed="#P"/>2o <title>de anima</title> si visus haberet colorem in actu non re<lb ed="#P"/>ciperet 
-          colores quia igitur <del rend="expunctuation">non</del> recipit colores 
+          <lb ed="#P"/>2o <title>de anima</title> <quote xml:id="beq3sc-d1e1093-Qd1e2263">si visus haberet colorem in actu non re<lb ed="#P"/>ciperet 
+          colores</quote> quia igitur <del rend="expunctuation">non</del> recipit colores 
           <lb ed="#P"/>non habet colores in actu non tamen negat quin 
           <lb ed="#P"/>habet in potentia <pc type="#pilcrow"/>propter istas rationes concedit opinans 
           <lb ed="#P"/>quod tam angelus quam anima est aliquando frigidus aliquando 
-          <lb ed="#P"/>calidus et lapis est cum angelo in caelo et in anima quando 
-          <lb ed="#P"/>cum intelligit lapidem
+          <lb ed="#P"/>calidus et lapis est cum angelo in caelo et in anima quando<lb ed="#P"/>cumque 
+          intelligit lapidem
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1310">
           <pc type="#pilcrow"/>Et si arguitur contra impossibile 
