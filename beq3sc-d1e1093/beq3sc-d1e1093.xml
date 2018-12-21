@@ -1783,71 +1783,268 @@
           </app>.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1310">
-          <pc type="#pilcrow"/>Et si arguitur contra impossibile 
-          est duas formas materiales esse eiusdem speciei cum forma 
-          materiali
+          <app>
+            <lem>Et</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> si arguitur 
+          <app>
+            <lem>sic</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          contra impossibile 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          duas formas materiales esse 
+          eiusdem speciei 
+          cum forma immateriali.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1323">
-          Item impossibile est duas formas eiusdem speciei 
-          simul esse in eodem subiecto sed duae similitudines quarum 
-          una causatur ab una albedine et alia ab alia in 
-          eodem occulo sunt etc
+          Item, 
+          impossibile est duas formas eiusdem 
+          <app>
+            <lem>speciei</lem>
+            <rdg wit="#B">specie</rdg>
+          </app> 
+          simul esse in eodem subiecto. 
+          Sed duae 
+          <app>
+            <lem>similitudines</lem>
+            <rdg wit="#B">similes</rdg>
+          </app>, 
+          quarum una causatur 
+          ab una albedine 
+          et alia ab alia in 
+          eodem occulo, 
+          sunt 
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          etc.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1337">
-          <pc type="#pilcrow"/>Item <quote xml:id="beq3sc-d1e1093-Qd1e1340" ana="#Aristotle_DeAnima_III_8_a">lapis non est 
-          in anima <sic>set</sic> species lapidis</quote>
+          Item, 
+          <cit>
+            <quote xml:id="beq3sc-d1e1093-Qd1e1340" ana="#Aristotle_DeAnima_III_8_a">
+              lapis non est in anima, sed species lapidis
+            </quote>
+            <bibl>
+              <bibl>
+                <name>Aristoteles</name>,
+                <title>De anima</title>
+                III, c. 8 (XXX)
+              </bibl>
+            </bibl>
+          </cit>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1345">
-          <pc type="#pilcrow"/>Item si beatus videret 
-          deum mediate specie produceret aliquid eiusdem speciei cum 
-          deo 
+          Item, 
+          si beatus 
+          <app>
+            <lem>videret</lem>
+            <rdg wit="#B">videt</rdg>
+          </app> 
+          Deum mediate specie produceret aliquid eiusdem 
+          <app>
+            <lem>speciei</lem>
+            <rdg wit="#B">apeii</rdg>
+          </app> 
+          cum 
+          Deo. 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1357">
-          <pc type="#pilcrow"/>ad primum dicitur quod forma dicitur in materia tripliciter 
-          vel quia illud est indivisibile et per oppositum forma materialis 
-          est divisibilis et quaelibet forma divisibilis <pc type="#pilcrow"/> Alio modo quia est in subiecto 
-          materiali et per oppositum materiale dicitur quaelibet perfectio sibi 
-          materialis <pc type="#pilcrow"/> 3o modo dicitur forma in materialis quae naturaliter separatur 
-          a naturalia et materiale per oppositum primo modo et 2o 
-          forma materialis et immateriali sunt eiusdem speciei <pc type="virgula">/</pc><pc type="virgula">/</pc> 
-          <pc type="#pilcrow"/>3o modo vel loquimur de forma substantiali vel accidentali 
-          primo modo non sunt eiusdem speciei 2o modo sunt quia color 
-          in mente angeli etc
+          Ad primum, 
+          dicitur quod forma dicitur 
+          <app>
+            <lem>immaterialis</lem>
+            <rdg wit="#B">in materia</rdg>
+          </app> 
+          tripliciter 
+          vel quia illud est indivisibile, 
+          et per oppositum forma materialis 
+          est divisibilis 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          quaelibet 
+          <app>
+            <lem n="quaelibet"/>
+            <rdg wit="#B" type="variation-present">forma</rdg>
+          </app> 
+          divisibilis.
+          Alio modo,
+          <app>
+            <lem>quia</lem>
+            <rdg wit="#B">quae</rdg>
+          </app> 
+          est in subiecto materiali, 
+          et per oppositum materiale 
+          dicitur quaelibet perfectio 
+          <app>
+            <lem>subiecti</lem>
+            <rdg wit="#B">sibi</rdg>
+          </app> 
+          materialis.
+          Tertio modo, 
+          dicitur forma immaterialis quae naturaliter 
+          <app>
+            <lem>separatur</lem>
+            <rdg wit="#B">semper</rdg>
+          </app> 
+          a 
+          <app>
+            <lem>materia</lem>
+            <rdg wit="#P">naturalia</rdg>
+          </app> 
+          et materiale per oppositum. 
+          Primo modo et secundo 
+          <app>
+            <lem>modo</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>, 
+          forma materialis et immaterialis sunt eiusdem speciei. 
+          Tertio modo, vel loquimur de forma substantiali vel accidentali.
+          Primo modo, 
+          non sunt eiusdem speciei, 
+          secundo modo, 
+          sunt quia color in mente angeli, etc.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1388">
-          <pc type="#pilcrow"/>Ad 2m concedo quod duae formae 
-          possunt simul esse in eodem subiecto
+          <pc type="#pilcrow"/>Ad 2m 
+          <app>
+            <lem>conceditur</lem>
+            <rdg wit="#B">concedo</rdg>
+          </app> 
+          quod duae formae 
+          possunt 
+          <app>
+            <lem>simul</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          esse in eodem subiecto.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1395">
-          <pc type="#pilcrow"/>Ad 3m <name ref="#Aristotle">aristoteles</name> ibi 
-          vocat speciem lapidis similitudinem accidentis 
-          lapidis
+          Ad tertium,
+          <app>
+            <lem>dico quod</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          <name ref="#Aristotle">Aristoteles</name> ibi 
+          vocat speciem lapidis 
+          similitudinem accidentis lapidis.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1408">
-          <pc type="#pilcrow"/>ad 4 impossibile est intellectum creatum formare 
-          verbum de deo
+          Ad quartum, 
+          <app>
+            <lem>dico quod</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          impossibile est intellectum 
+          <app>
+            <lem>creatum</lem>
+            <rdg wit="#B">causatum</rdg>
+          </app> 
+          formare 
+          verbum de Deo.
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1415">
-          <pc type="#pilcrow"/> Contra primam conclusionem et probo 
-          quod non sufficit ad hoc quod anima intelligat solum 
-          anima et species <sic>set</sic> requiritur 3a res quae dicitur 
-          intellectio quia fiat quod <name>sortes</name> non intelligat <name>platonem</name> 
-          et tamen quod species <name>platonis</name> sit in memoria <name>sortes</name> 
-          et per consequens in anima <name>sortes</name> igitur aliqua res requiritur 
+          Contra primam conclusionem, 
+          et probo quod non sufficit ad hoc 
+          quod anima intelligat 
+          <app>
+            <lem>solum</lem>
+            <rdg wit="#B">scilicet</rdg>
+          </app> 
+          <app>
+            <lem type="conjecture-corrected">
+              <corr>animam</corr>
+            </lem>
+            <rdg wit="#B #P">anima</rdg>
+          </app> 
+          et species, 
+          sed requiritur tertia 
+          <app>
+            <lem>res</lem>
+            <rdg wit="#B">species</rdg>
+          </app> 
+          quae dicitur 
+          intellectio 
+          quia stat quod 
+          <name>Sortes</name> non intelligat <name>Platonem</name>,
+          et tamen quod species 
+          <app>
+            <lem><name>Platonis</name></lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          sit in memoria <name>Sortis</name> 
+          et per consequens in anima <name>Sortis</name> 
+          igitur 
+          <app>
+            <lem>alia</lem>
+            <rdg wit="#B">aliqua</rdg>
+          </app> 
+          res requiritur. 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1453">
-          <pc type="#pilcrow"/>Item visu se habente <unclear>universaliter</unclear> ad obiectum in prima parte 
-          temporis in casu videt in 2a non <pc type="#punctus"/> posito quod 
-          in 2a parte anima fuerit multum intenta circa aliquid 
-          cognoscibile ut patet etiam de distractis quaerentibus 
-          quod habent primi occulis 
+          Item, visu se habente universaliter 
+          ad obiectum in prima parte temporis, 
+          in casu videt 
+          <app>
+            <lem>et</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          in secunda non. 
+          Posito quod 
+          in secunda parte anima fuerit multum intenta 
+          circa aliquod cognoscibile, 
+          ut patet 
+          <app>
+            <lem>etiam</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          de distractis quaerentibus 
+          <app>
+            <lem>quod</lem>
+            <rdg wit="#B">quae</rdg>
+          </app> 
+          habent 
+          <app>
+            <lem>primi</lem>
+            <rdg wit="#P">post</rdg>
+          </app> occulis 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1470">
-          <pc type="#pilcrow"/>contra ultimam conclusionem 
-          sic quando duae qualitates sunt eiusdem speciei et 
-          aeque intensae si sunt activae possunt esse inaequalem 
-          et aeque intensas operationem <sic>set</sic> calor in igne 
-          et eius species sunt huius igitur etc
+          Contra ultimam conclusionem 
+          <app>
+            <lem>arguitur</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          sic, 
+          quando duae qualitates sunt eiusdem speciei 
+          et aeque intensae, 
+          si sint activae, 
+          possunt 
+          <app>
+            <lem>esse</lem>
+            <rdg wit="#P">in</rdg>
+          </app> 
+          aequalem 
+          et aeque 
+          <app>
+            <lem>intensam</lem>
+            <rdg wit="#P">intensas</rdg>
+          </app> 
+          operationem, 
+          sed calor in igne 
+          et eius species sunt 
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#P">huius</rdg>
+          </app>,
+          igitur etc.
         </p>
       </div>
     </body>

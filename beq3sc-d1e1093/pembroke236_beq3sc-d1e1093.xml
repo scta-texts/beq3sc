@@ -511,13 +511,13 @@
         <p xml:id="beq3sc-d1e1093-d1e1310">
           <pc type="#pilcrow"/>Et si arguitur contra impossibile 
           <lb ed="#P"/>est duas formas materiales esse eiusdem speciei cum forma 
-          <lb ed="#P"/>materiali
+          <lb ed="#P"/>immateriali
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1323">
           Item impossibile est duas formas eiusdem speciei 
           <lb ed="#P"/>simul esse in eodem subiecto sed duae similitudines quarum 
           <lb ed="#P"/>una causatur ab una albedine et alia ab alia in 
-          <lb ed="#P"/>eodem occulo sunt etc
+          <lb ed="#P"/>eodem occulo sunt igitur etc
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1337">
           <pc type="#pilcrow"/>Item <quote xml:id="beq3sc-d1e1093-Qd1e1340" ana="#Aristotle_DeAnima_III_8_a">lapis non est 
@@ -529,19 +529,19 @@
           <lb ed="#P"/>deo 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1357">
-          <pc type="#pilcrow"/>ad primum dicitur quod forma dicitur in materia tripliciter 
+          <pc type="#pilcrow"/>ad primum dicitur quod forma dicitur immaterialis tripliciter 
           <lb ed="#P"/>vel quia illud est indivisibile et per oppositum forma materialis 
-          <lb ed="#P"/>est divisibilis et quaelibet forma divisibilis <pc type="#pilcrow"/> Alio modo quia est in subiecto 
-          materiali et per oppositum materiale dicitur quaelibet perfectio sibi 
-          <lb ed="#P"/>materialis <pc type="#pilcrow"/> 3o modo dicitur forma in materialis quae naturaliter se<lb ed="#P"/>paratur 
+          <lb ed="#P"/>est divisibilis et quaelibet divisibilis <pc type="#pilcrow"/> Alio modo quia est in subiecto 
+          materiali et per oppositum materiale dicitur quaelibet perfectio subiecti 
+          <lb ed="#P"/>materialis <pc type="#pilcrow"/> 3o modo dicitur forma immaterialis quae naturaliter se<lb ed="#P"/>paratur 
           a naturalia et materiale per oppositum primo modo et 2o 
-          <lb ed="#P"/>forma materialis et immateriali sunt eiusdem speciei <pc type="virgula">/</pc><pc type="virgula">/</pc> 
+          <lb ed="#P"/>forma materialis et immaterialis sunt eiusdem speciei <pc type="virgula">/</pc><pc type="virgula">/</pc> 
           <lb ed="#P"/><pc type="#pilcrow"/>3o modo vel loquimur de forma substantiali vel accidentali 
           <lb ed="#P"/>primo modo non sunt eiusdem speciei 2o modo sunt quia color 
           <lb ed="#P"/>in mente angeli etc
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1388">
-          <pc type="#pilcrow"/>Ad 2m concedo quod duae formae 
+          <pc type="#pilcrow"/>Ad 2m conceditur quod duae formae 
           <lb ed="#P"/>possunt simul esse in eodem subiecto
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1395">
@@ -557,22 +557,22 @@
           <pc type="#pilcrow"/> Contra primam conclusionem et probo 
           <lb ed="#P"/>quod non sufficit ad hoc quod anima intelligat solum 
           <lb ed="#P"/>anima et species <sic>set</sic> requiritur 3a res quae dicitur 
-          intellectio quia fiat quod <name>sortes</name> non intelligat <name>platonem</name> 
-          <lb ed="#P"/>et tamen quod species <name>platonis</name> sit in memoria <name>sortes</name> 
-          <lb ed="#P"/>et per consequens in anima <name>sortes</name> igitur aliqua res requiritur 
+          intellectio quia stat quod <name>sortes</name> non intelligat <name>platonem</name> 
+          <lb ed="#P"/>et tamen quod species <name>platonis</name> sit in memoria <name>sortis</name> 
+          <lb ed="#P"/>et per consequens in anima <name>sortis</name> igitur alia res requiritur 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1453">
-          <pc type="#pilcrow"/>Item visu se habente <unclear>universaliter</unclear> ad obiectum in prima parte 
-          <lb ed="#P"/>temporis in casu videt in 2a non <pc type="#punctus"/> posito quod 
-          <lb ed="#P"/>in 2a parte anima fuerit multum intenta circa aliquid 
+          <pc type="#pilcrow"/>Item visu se habente universaliter ad obiectum in prima parte 
+          <lb ed="#P"/>temporis in casu videt et in 2a non <pc type="#punctus"/> posito quod 
+          <lb ed="#P"/>in 2a parte anima fuerit multum intenta circa aliquod 
           <lb ed="#P"/>cognoscibile ut patet etiam de distractis quaerentibus 
-          <lb ed="#P"/>quod habent primi occulis 
+          <lb ed="#P"/>quod habent post occulis 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1470">
           <pc type="#pilcrow"/>contra ultimam conclusionem 
           <lb ed="#P"/>sic quando duae qualitates sunt eiusdem speciei et 
-          <lb ed="#P"/>aeque intensae si sunt activae possunt esse inaequalem 
-          <lb ed="#P"/>et aeque intensas operationem <sic>set</sic> calor in igne 
+          <lb ed="#P"/>aeque intensae si sint activae possunt <sic>in aequalem</sic> 
+          <lb ed="#P"/>et aeque <sic>intensas</sic> operationem <sic>set</sic> calor in igne 
           <lb ed="#P"/>et eius species sunt huius igitur etc
         </p>
       </div>

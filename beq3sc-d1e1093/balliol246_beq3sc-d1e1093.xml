@@ -539,9 +539,9 @@
           <lb ed="#B"/>quando intelligunt lapides
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1310">
-          Si arguitur sic consequentia impossibile 
+          Si arguitur sic contra impossibile 
           <lb ed="#B"/>duas <sic>fformas</sic> materiales esse eiusdem 
-          <lb ed="#B"/>speciei cum <sic>fforma</sic> in materiali
+          <lb ed="#B"/>speciei cum <sic>fforma</sic> <sic>in materiali</sic>
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1323">
           Item impossibile est 
@@ -560,14 +560,14 @@
           <lb ed="#B"/>aliquid eiusdem <unclear>apeii</unclear> cum deo 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1357">
-          ad primum dicitur quod forma dicitur in materia tripliciter vel quia 
+          ad primum dicitur quod forma dicitur <sic>in materia</sic> tripliciter vel quia 
           <lb ed="#B"/>illud est indivisibile et per oppositum forma materialis est divisibilis 
           <lb ed="#B"/>quaelibet forma divisibilis <pc type="virgula">/</pc> alio modo quae est in 
           <lb ed="#B"/>subiecto materiali et per oppositum materiale dicitur quaelibet perfectio 
           <lb ed="#B"/>sibi materialis
-          <pc type="virgula">//</pc> 3o modo dicitur forma in materilis quae 
+          <pc type="virgula">//</pc> 3o modo dicitur forma <sic>in materialis</sic> quae 
           <lb ed="#B"/>naturaliter semper a materia et materiale per oppositum primo modo 
-          <lb ed="#B"/>et 2o modo forma materialis et in materiali sunt eius<lb ed="#B"/>dem 
+          <lb ed="#B"/>et 2o modo forma materialis et <sic>in materialis</sic> sunt eius<lb ed="#B"/>dem 
           speciei 3o modo vel loquimur de forma 
           <lb ed="#B"/>substantiali vel accidentali primo modo non sunt 
           <lb ed="#B"/>eiusdem speciei 2o modo sunt quia color in 
@@ -588,18 +588,18 @@
           <lb ed="#B"/>verbum de deo
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1415">
-          <pc type="virgula">//</pc> contra prima conclusionem et probo 
+          <pc type="virgula">//</pc> contra primam conclusionem et probo 
           <lb ed="#B"/>quod non sufficit ad hoc quod anima <unclear>intelligat</unclear> 
-          <lb ed="#B"/><unclear>scilicet</unclear> anima et species sed requiritur species quae 
+          <lb ed="#B"/><unclear>scilicet</unclear> anima et species sed requiritur 3a species quae 
           <lb ed="#B"/>dicitur intellectio quia stat quod <name>sortes</name> non in<lb ed="#B"/>telligat 
-          <name>plato</name> et cum quod species sit in me<lb ed="#B"/>moria 
-          <name>sortes</name> et per consequens in anima <name>sortes</name> igitur aliqua 
+          <name>platonem</name> et tamen quod species sit in me<lb ed="#B"/>moria 
+          <name>sortis</name> et per consequens in anima <name>sortis</name> igitur aliqua 
           <lb ed="#B"/>res requiritur 
         </p>
         <p xml:id="beq3sc-d1e1093-d1e1453">
-          item visu se habente <unclear>universaliter</unclear> 
-          <lb ed="#B"/>ad obiectum in prima partis temporis in casu 
-          <lb ed="#B"/>videt in 2a non posito quod in 2a partis anima 
+          item visu se habente universaliter 
+          <lb ed="#B"/>ad obiectum in prima parte temporis in casu 
+          <lb ed="#B"/>videt in 2a non posito quod in 2a parte anima 
           <lb ed="#B"/>fuerit multum intenta circa aliquod cogno<lb ed="#B"/>scibile 
           ut patet de distractis quaerentibus 
           <lb ed="#B"/>quae habent primi occulis 
@@ -607,10 +607,10 @@
         <p xml:id="beq3sc-d1e1093-d1e1470">
           contra ultimam conclusionem 
           <lb ed="#B"/>arguitur sic quando duae qualitates sunt eiusdem 
-          <lb ed="#B"/>speciei et aequae <sic>intenssae</sic> si sunt activae 
-          <lb ed="#B"/>possunt esse aequalem et aequae <sic>intenssam</sic> 
+          <lb ed="#B"/>speciei et aeque <sic>intenssae</sic> si sint activae 
+          <lb ed="#B"/>possunt esse aequalem et aeque <sic>intenssam</sic> 
           <lb ed="#B"/>operationem sed calor in igne et eius species 
-          <lb ed="#B"/>sunt huius igitur etc
+          <lb ed="#B"/>sunt huiusmodi igitur etc
         </p>
       </div>
     </body>
