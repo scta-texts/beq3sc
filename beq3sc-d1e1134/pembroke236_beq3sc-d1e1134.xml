@@ -51,7 +51,7 @@
     </front>
     <body>
       <div xml:id="beq3sc-d1e113">
-        <head xml:id="beq3sc-d1e1134-Hd1e105">Quaestio 51 [Balliol 246 Transcription]</head>
+        <head xml:id="beq3sc-d1e1134-Hd1e105">Quaestio 51 [Pembroke 236 Transcription]</head>
         <head xml:id="beq3sc-d1e1134-Hd1e108" type="question-title">Utrum doctrina venerabilis Anselmi rationabiliter debeat reprobari</head>
         <p xml:id="beq3sc-d1e1134-d1e111">
           <lb ed="#P"/>Utrum doctrina <name ref="#Anselm">venerabilis anselmi</name> 
@@ -64,23 +64,36 @@
           <lb ed="#P"/>deus non potest auferre a voluntate et tamen tenet 
           <lb ed="#P"/>quod illa est alia res a voluntate quod est erroneum 
           <lb ed="#P"/>quia omnem rem distinctam totaliter ab alia potest deus 
-          <lb ed="#P"/>separe ergo etc <pc type="#pilcrow"/>dicitur quod distinguitur a voluntate
+          <lb ed="#P"/>separare ergo etc
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e132">
+          <pc type="#pilcrow"/>dicitur quod distinguitur a voluntate
         </p>
         <p xml:id="beq3sc-d1e1134-d1e138">
-          <lb ed="#P"/><pc type="#pilcrow"/>contra <unclear>arguit <!-- gelber has "aut" --></unclear> ergo est effective a voluntate vel non si sic 
+          <lb ed="#P"/><pc type="#pilcrow"/>contra aut ergo est effective a voluntate vel non si sic 
           <lb ed="#P"/>contra non est in potestate voluntatis causare in se rectitudinem 
           <lb ed="#P"/><sic>set</sic> servare ut dicit <pc type="#pilcrow"/>etiam affectiones 
-          <lb ed="#P"/>creatae sunt a deo <title>de concordia</title> capitulo 17 ergo etc 
+          <lb ed="#P"/>creatae sunt a deo <title>de concordia</title> capitulo 17 ergo etc
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e163">
           <pb ed="#P" n="160-v"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P"/><pc type="#pilcrow"/>Similiter si causat rectitudinem aut volendo aut non si volendo 
           <lb ed="#P"/>et nullus vult rectitudinem nisi habens rectitudinem ergo prius 
           <lb ed="#P"/>habet quam causet et haec est ratio eiusdem <title>de concordia</title> 
-          <lb ed="#P"/>capitulo 13 <pc type="#punctus"/> Si rectitudo non est effective a voluntate 
+          <lb ed="#P"/>capitulo 13
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e211">
+          <pc type="#punctus"/> Si rectitudo non est effective a voluntate 
           <lb ed="#P"/>ergo non est imputandum libero arbitrio quod est contra <name>augustinum <!-- gelber has "augustinus" --></name> primo <title>re<lb ed="#P"/>tractionum <!-- gelber: retractione --></title> 
-          nono capitulo <pc type="#pilcrow"/> Dicitur quod dependet a voluntate 
-          <lb ed="#P"/>quantum conservationem non quantum ad productionem <pc type="virgula">//</pc> 
-          <lb ed="#P"/><pc type="#pilcrow"/>Contra igitur potestate peccatorum est producere contritionem et 
+          nono capitulo
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e223">
+          <pc type="#pilcrow"/> Dicitur quod dependet a voluntate 
+          <lb ed="#P"/>quantum conservationem non quantum ad productionem <pc type="virgula">//</pc>
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e243">
+          <lb ed="#P"/><pc type="#pilcrow"/>Contra in potestate peccatorum est producere contritionem et 
           <lb ed="#P"/>omnis contritio est rectitudo voluntatis ergo etc <pc type="#punctus"/> <pc type="#pilcrow"/>Confirmatur 
           <lb ed="#P"/>quia rectitudo voluntatis est velle quod deus vult eam vel<lb ed="#P"/>le 
           de libero arbitrio capitulo 8 <sic>set</sic> tale velle est effective 
@@ -95,23 +108,32 @@
           <lb ed="#P"/><pc type="#pilcrow"/>Item 2o <title>cur deus homo</title> capitulo 14 ponit 5 propositiones 
           <lb ed="#P"/>prima est facere contra dei voluntatem etiam quod putamus laevis<lb ed="#P"/>simum 
           mortale est tantae gravitatis quod fieri non de<lb ed="#P"/>beret 
-          pro <unclear>infinitis <!-- gelber: visitatis --></unclear> mundis salvandis <pc type="#pilcrow"/>Sed 
-          <lb ed="#P"/>contra tunc quodlibet peccatum est infinite malitiae intentione 
-          <lb ed="#P"/>quia si finite tunc solo aliquorum modorum foret 
-          <lb ed="#P"/>ita bona sicut illud foret malum <!-- gelber: malit ? --> <pc type="#punctus"/>
+          pro infinitis mundis salvandis 
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e344">
+          <pc type="#pilcrow"/>Sed 
+          <lb ed="#P"/>contra tunc quodlibet peccatum est infinitae malitiae intentione 
+          <lb ed="#P"/>quia si finitae tunc salus aliquorum mundorum foret 
+          <lb ed="#P"/>ita bona sicut illud foret malum <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e1134-d1e239">
           <pc type="#pilcrow"/>2a propositio 
           <lb ed="#P"/>quod minima laesio christi esset malum quam omnia peccata 
-          <lb ed="#P"/>extra personam christi contra tunc interfectio christi non fuisset 
+          <lb ed="#P"/>extra personam christi
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e419">
+          contra tunc interfectio christi non fuisset 
           <lb ed="#P"/>magis mala quam minima laesio <pc type="#punctus"/>  
         </p>
         <p xml:id="beq3sc-d1e1134-d1e251">
           <pc type="#pilcrow"/>3a vita 
           <lb ed="#P"/>christi fuit magis bona quam omnia peccata sunt 
-          <lb ed="#P"/>mala <pc type="#punctus"/> <!-- possible break point --> <pc type="#pilcrow"/>contra tunc fuit magis bona quam 
-          <lb ed="#P"/><sic>quam</sic> eius interemptio consequens contra eum quia omne bonum 
-          <lb ed="#P"/>tam bonum est quam mala est destructio <pc type="#punctus"/> 2o 
+          <lb ed="#P"/>mala
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e442">
+          <pc type="#punctus"/> <pc type="#pilcrow"/>contra tunc fuit magis bona quam 
+          <lb ed="#P"/><sic>quam</sic> eius interemptio consequens contra eum quia <quote xml:id="beq3sc-d1e113-Qd1e454">omne bonum 
+          <lb ed="#P"/>tam bonum est quam mala est destructio</quote> <pc type="#punctus"/> 2o 
           <lb ed="#P"/><title>cur deus homo</title> capitulo 14 et tam malum fuit eum occi<lb ed="#P"/>dere 
           quam bonam fuit eius vitam 
         </p>
@@ -119,14 +141,14 @@
           <pc type="#pilcrow"/>Item vi<lb ed="#P"/>ta 
           christi fuit sufficiens satisfactio pro peccato ergo fuit 
           <lb ed="#P"/>bonum infinitum consequentia probatur per illud primo <title>cur deus homo</title> capitulo 21 
-          <lb ed="#P"/>numquam satisfacit nisi <sic>reddas</sic> aliquid maius quam <unclear>sic <!-- gelber: sit --></unclear> 
-          <lb ed="#P"/>illud pro quo peccatum facere non debueras sed 
+          <lb ed="#P"/><quote xml:id="beq3sc-d1e113-Qd1e478">numquam satisfacis nisi <sic>reddas</sic> aliquid maius quam sit 
+          <lb ed="#P"/>illud pro quo peccatum facere non debueras</quote> sed 
           <lb ed="#P"/>pro nullo bono finito deberet homo peccare ut dicit 
           prima propositio ergo etc
         </p>
         <p xml:id="beq3sc-d1e1134-d1e299">
-          4 omne bonum tam bonum 
-          <lb ed="#P"/>est quam mala est eius destructio <pc type="#punctus"/>
+          4 <quote xml:id="beq3sc-d1e113-Qd1e559">omne bonum tam bonum 
+          <lb ed="#P"/>est quam mala est eius destructio</quote> <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e1134-d1e309">
           <pc type="#pilcrow"/>Contra prae<lb ed="#P"/>cipiat 
@@ -155,9 +177,12 @@
         </p>
         <p xml:id="beq3sc-d1e1134-d1e363">
           <pc type="#pilcrow"/>Item dicit de beata virgine quod fuit concepta et 
-          <lb ed="#P"/>nata in originali peccato <pc type="#punctus"/> 2o <title>cur deus homo</title> capitulo 16 <pc type="#pilcrow"/>Item 
+          <lb ed="#P"/>nata in originali peccato <pc type="#punctus"/> 2o <title>cur deus homo</title> capitulo 16
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e712">
+          <pc type="#pilcrow"/>Item 
           <lb ed="#P"/>probat quod deus non potest tollere rectitudinem a voluntate quia 
-          <lb ed="#P"/>vel volendo vel nolendo ut patet nec volendo 
+          <lb ed="#P"/>vel volendo vel nolendo non nolendo ut patet nec volendo 
           <lb ed="#P"/>quia si sic vult quod faciat et a cuius voluntate 
           <lb ed="#P"/>vult auferre rectitudinem non vult eam serva<lb ed="#P"/>re 
           rectitudinem <sic>set</sic> servare rectitudinem est velle sicut 
@@ -185,7 +210,10 @@
           <lb ed="#P"/>vult eum non habere gratiam aut non vult si 
           <lb ed="#P"/>vult eum etc igitur etc pro tunc non est debitor gra<lb ed="#P"/>tiae <pc type="#punctus"/> 
           <pc type="#pilcrow"/>Contra praecipit ei semper habere gratiam 
-          <lb ed="#P"/>Si vult eam habere igitur non aufert <pc type="#punctus"/> <pc type="#pilcrow"/>Ad illam 
+          <lb ed="#P"/>Si vult eam habere igitur non aufert <pc type="#punctus"/>
+        </p>
+        <p>
+          <pc type="#pilcrow"/>Ad illam 
           <lb ed="#P"/>propositionem de rectitudine voluntatis intelligit quod deus non potest 
           <lb ed="#P"/>illam separare a voluntate habente gratiam ipsa in vita 
           <lb ed="#P"/>de potentia ordinata <pc type="virgula">//</pc>

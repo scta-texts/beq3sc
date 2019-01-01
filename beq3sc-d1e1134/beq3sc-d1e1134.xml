@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 51</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 51</title>
+          <date when="2018-12-25">December 25, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-12-25" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="160-r"/><cb ed="#P" n="b"/>
+        <pb ed="#B" n="219-r"/><cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e113">
+        <head xml:id="beq3sc-d1e1134-Hd1e105">Quaestio 51</head>
+        <head xml:id="beq3sc-d1e1134-Hd1e108" type="question-title">
+          <supplied>Utrum doctrina venerabilis Anselmi rationabiliter debeat reprobari?</supplied>
+        </head>
+        <p xml:id="beq3sc-d1e1134-d1e111">
+          Utrum doctrina 
+          <name ref="#Anselm">Venerabilis Anselmi</name> 
+          rationabiliter debeat reprobari?
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e122">
+          Quod sic, 
+          <app>
+            <lem>arguitur</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          quia est erronea, 
+          ut patet 
+          <ref xml:id="beq3sc-d1e113-Rd1e125">
+            8 
+            <title>De libero arbitrio</title>
+          </ref>,
+          ubi docet quod rectitudinem voluntatis 
+          Deus non potest auferre a voluntate, 
+          et tamen tenet 
+          quod illa est alia res a voluntate, 
+          quod est erroneum 
+          quia omnem rem distinctam totaliter 
+          ab alia potest Deus separare, 
+          <app>
+            <lem>ergo</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          etc.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e132">
+          Dicitur quod distinguitur a voluntate.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e138">
+          Contra aut ergo est effective a voluntate vel non, 
+          si sic, 
+          contra, 
+          non est in potestate voluntatis causare 
+          in se rectitudinem sed servare, ut dicit. 
+          <!-- break ?? -->
+          Etiam affectiones creatae sunt 
+          <app>
+            <lem>a</lem>
+            <rdg wit="#B">in</rdg>
+          </app> 
+          Deo 
+          <ref xml:id="beq3sc-d1e113-Rd1e156">
+            <title>De concordia</title>, 
+            capitulo 17
+          </ref>, 
+          ergo etc.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e163">
+          <pb ed="#P" n="160-v"/>
+          <cb ed="#P" n="a"/>
+          <app>
+            <lem>Similiter</lem>
+            <rdg wit="#B">Similificat</rdg>
+          </app> 
+          <app>
+            <lem>si causat</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          rectitudinem aut volendo aut non. 
+          Si volendo 
+          et nullus vult rectitudinem 
+          nisi habens rectitudinem, 
+          ergo prius habet quam causet, 
+          et haec 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          ratio eiusdem 
+          <ref xml:id="beq3sc-d1e113-Rd1e204">
+            <title>de concordia</title> 
+            capitulo 13
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e211">
+          Si rectitudo non est effective a voluntate, 
+          ergo non est imputandum libero arbitrio, 
+          <app>
+            <lem>quod est</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          contra 
+          <ref xml:id="beq3sc-d1e113-Rd1e213">
+            <name>Augustinum</name>, 
+            primo 
+            <title>Retractionum</title>,
+            nono capitulo  
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e223">
+          <app>
+            <lem>Dicitur</lem>
+            <rdg wit="#B">Dicit</rdg>
+          </app> 
+          quod dependet a voluntate 
+          quantum conservationem, 
+          non quantum ad productionem.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e243">
+          Contra, 
+          in potestate peccatorum est producere 
+          <app>
+            <lem n="producere"/>
+            <rdg wit="#B" type="variation-present">
+              contra
+            </rdg>
+          </app>
+          contritionem, 
+          et omnis contritio est rectitudo voluntatis, 
+          ergo etc. 
+          Confirmatur 
+          quia rectitudo voluntatis est 
+          <app>
+            <lem n="est"/>
+            <rdg wit="#B" type="variation-present">
+              eam
+            </rdg>
+          </app>
+          velle 
+          quod Deus vult eam velle 
+          <ref xml:id="beq3sc-d1e113-Rd1e261">
+            <title>De libero arbitrio</title>, 
+            capitulo 8
+            <!--
+              ("velle quod deus vult eam" this phrase is found directly 
+              in Holcot, Sent. I, q. 3, see 
+              http://thesis-project.ro/robertusholcot/files/Circa%201um%20librum%20Sententiarum%2C%20q.%203.pdf, 
+              (folio 185a), 
+              but is also there associated with De libertate arbitrii, c. 8.,
+            --> 
+          </ref>,
+          sed
+          tale velle est effective 
+          a voluntate, ergo etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e195">
+          Item, 
+          omne, 
+          quod homo habet 
+          si 
+          <app>
+            <lem>illud vult</lem>
+            <rdg wit="#B" type="variation-inversion">vult illud</rdg>
+          </app> 
+          habere et non habet nisi velit 
+          <app>
+            <lem>illud</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          habere, 
+          habet a voluntate, 
+          ut videtur. 
+          Rectitudo est 
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#P">huius</rdg>
+          </app>, 
+          igitur
+          etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e207">
+          Item, 
+          <ref xml:id="beq3sc-d1e113-Rd1e302">
+            II <title>Cur Deus homo</title>, 
+            capitulo 14
+          </ref> 
+          ponit 5 propositiones. 
+          Prima est 
+          <app>
+            <lem>quod</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          facere contra Dei voluntatem, 
+          <app>
+            <lem>etiam</lem>
+            <rdg wit="#B">in</rdg>
+          </app> 
+          quod putamus laevissimum mortale, 
+          est tantae gravitatis quod fieri non 
+          <app>
+            <lem>deberet</lem>
+            <rdg wit="#B">deberent</rdg>
+          </app> 
+          pro infinitis mundis 
+          <app>
+            <lem>salvandis</lem>
+            <rdg wit="#B">salandis</rdg>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e344">
+          Sed contra, 
+          tunc quodlibet peccatum est 
+          infinitae malitiae intentione 
+          quia, 
+          si 
+          <app>
+            <lem>finitae</lem>
+            <rdg wit="#B">infinitae</rdg>
+          </app>, 
+          tunc solo 
+          <app>
+            <lem>aliquorum</lem>
+            <rdg wit="#B">aliquod</rdg>
+          </app> 
+          <app>
+            <lem>mundorum</lem>
+            <rdg wit="#B">mondorum</rdg>
+          </app> 
+          <app>
+            <lem>foret</lem>
+            <rdg wit="#B">esset</rdg>
+          </app> 
+          ita bona, 
+          sicut illud foret malum.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e239">
+          Secunda propositio,
+          <app>
+            <lem>quod</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> minima laesio Christi 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#P">esset</rdg>
+          </app> 
+          <app>
+            <lem>maius</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          malum
+          <app>
+            <lem n="malum"/>
+            <rdg wit="#B">infinitum</rdg>
+          </app>
+          quam omnia peccata 
+          extra personam Christi.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e419">
+          Contra, 
+          tunc interfectio Christi non 
+          <app>
+            <lem>fuisset</lem>
+            <rdg wit="#B">fuit</rdg>
+          </app> 
+          magis mala 
+          quam minima laesio 
+          <app>
+            <lem>Christi</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e251">
+          Tertia, 
+          vita Christi fuit magis bona 
+          quam omnia peccata sunt mala.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e442">
+          Contra, 
+          tunc fuit magis bona quam
+          <app>
+            <lem n="quam"/>
+            <rdg wit="#P" type="variation-present" cause="repetitio">quam</rdg>
+          </app>
+          eius interemptio. 
+          Consequens contra eum 
+          quia 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e454" source="http://scta.info/resource/u8ue3d-d1e494">
+              omne bonum 
+              tam bonum est 
+              quam mala est destructio
+            </quote>
+            <bibl>
+              <name>Anselmus</name>
+              <title>Cur Deus Homo</title>
+              II, c. 14
+              (XXX) <!-- schmidt , p. 114 ?? -->
+            </bibl>
+          </cit>,
+          <ref xml:id="beq3sc-d1e113-Rd1e452" corresp="#beq3sc-d1e113-Qd1e454">
+            II 
+            <title>Cur Deus homo</title>, 
+            capitulo 14
+          </ref>,
+          et tam malum fuit eum occidere 
+          quam bonam fuit eius vitam
+          <app>
+            <lem n="vitam"/>
+            <rdg wit="#B" type="variation-present">capitulo iii</rdg>
+          </app>. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e275">
+          Item, 
+          vita Christi fuit sufficiens satisfactio pro peccato, 
+          ergo fuit bonum infinitum. 
+          Consequentia probatur per 
+          <app>
+            <lem>illud</lem>
+            <rdg wit="#B">aliud</rdg>
+          </app> 
+          <ref xml:id="beq3sc-d1e113-Rd1e470" corresp="#beq3sc-d1e113-Qd1e478">
+            I
+            <title>Cur Deus homo</title>, 
+            capitulo 21
+          </ref> 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e478" source="http://scta.info/resource/u8ue3d-d1e287">
+              numquam satisfacis 
+              nisi reddas aliquid 
+              <app>
+                <lem>maius</lem>
+                <rdg wit="#B">magis</rdg>
+              </app> 
+              quam 
+              <app>
+                <lem>sit</lem>
+                <rdg wit="#B">si</rdg>
+              </app> 
+              illud pro quo 
+              <app>
+                <lem>peccatum facere</lem>
+                <rdg wit="#B" type="variation-inversion">
+                  facere peccatum
+                </rdg>
+              </app> 
+              non debueras
+            </quote>
+            <bibl>
+              <name>Anselmus</name>, 
+              <title>Cur Deus Homo</title>,
+              I, c. 21 
+              (XXX) <!-- schmidt, p. 89?? -->
+            </bibl>
+          </cit>. 
+          Sed pro nullo bono finito deberet homo peccare, 
+          ut dicit prima propositio, 
+          ergo 
+          <app>
+            <lem>etc.</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e299">
+          Quarta 
+          <app>
+            <lem>propositio</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e559" source="http://scta.info/resource/u8ue3d-d1e494">
+              omne bonum tam bonum 
+              est quam 
+              <app>
+                <lem>mala</lem>
+                <rdg wit="#B">malum</rdg> <!-- dbcheck -->
+              </app> 
+              est eius destructio
+            </quote>
+            <bibl>
+              <name>Anselmus</name>
+              <title>Cur Deus homo</title>
+              II, c. 14
+              (XXX) <!-- schmidt , p. 114 ?? -->
+            </bibl>
+          </cit>.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e309">
+          Contra, 
+          praecipiat 
+          Deus <name>Sorti</name> 
+          quod non destruat istam festucam 
+          sub pena peccati mortalis, 
+          et quod non occidat 
+          leonem sub pena peccati venialis, 
+          et faciat contra utrumque, 
+          tunc festuca est maioris bonitatis quam leo 
+          quia eius destructio est peior.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e326">
+          Quinta, 
+          vita corporis 
+          Christi est magis amabilis 
+          quam omnia 
+          <app>
+            <lem n="omnia"/>
+            <rdg wit="#B" type="variation-present">eius</rdg>
+          </app>
+          <app>
+            <lem>peccata</lem>
+            <rdg wit="#B">peccato</rdg>
+          </app> sunt odibilia.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e620">
+          Contra, 
+          tantum 
+          <app>
+            <lem>primae</lem>
+            <rdg wit="#B">primo</rdg>
+          </app> 
+          est amabilis, 
+          <app>
+            <lem>est</lem>
+            <rdg wit="#B">et</rdg>
+          </app> 
+          aequa 
+          quia, 
+          amando Deum odit peccatum, 
+          et odiendo peccatum, 
+          amat Deum. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e340">
+          Item, 
+          si sic et constat quod nullus 
+          <app>
+            <lem>debuit</lem>
+            <rdg wit="#B">debuisse</rdg>
+          </app> 
+          eum plus 
+          <app>
+            <lem>
+              amasse 
+              quam ipse se amavit 
+              ergo ille debuit eum plus
+            </lem>
+            <rdg wit="#B" type="variation-absent" cause="homoteleuton"/>
+          </app> 
+          amasse 
+          quam odisse peccatum, 
+          ergo non debuit 
+          <app>
+            <lem>illam vitam</lem>
+            <rdg wit="#B" type="variation-inversion">vitam illam</rdg>
+          </app> 
+          dedisse pro satisfactione peccati.
+        </p> 
+        <p xml:id="beq3sc-d1e1134-d1e354">
+          Item, 
+          <ref xml:id="beq3sc-d1e113-Rd1e673">
+            <title>Proslogion</title>, 
+            capitulo 25
+          </ref> 
+          <app>
+            <lem n="25"/>
+            <rdg wit="#B" type="variation-present">nota</rdg>
+          </app>.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e363">
+          Item, 
+          dicit de beata virgine quod 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e692" source="http://scta.info/resource/u8ue3d-d1e516" type="paraphrase">
+              fuit concepta et nata in originali 
+              <app>
+                <lem>peccato</lem>
+                <rdg wit="#B" type="variation-absent"/>
+              </app>
+            </quote>
+            <bibl>
+              <name>Anselmus</name>,
+              <title>Cur Deus Homo</title>,
+              II, c. 16
+              (XXX) <!-- schmidt, p. 116 ?? -->
+            </bibl>
+          </cit>, 
+          <ref xml:id="beq3sc-d1e113-Rd1e705" corresp="#beq3sc-d1e113-Qd1e692">
+            2o <title>cur deus homo</title> capitulo 16
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e712">
+          Item,
+          probat quod Deus non potest 
+          tollere rectitudinem a voluntate 
+          quia vel volendo vel 
+          <app>
+            <lem>nolendo</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>.
+          Non 
+          <app>
+            <lem>nolendo</lem>
+            <rdg wit="#B">volendo</rdg>
+          </app>, 
+          ut patet. 
+          Nec volendo 
+          quia, 
+          si sic, 
+          <app>
+            <lem>vult</lem>
+            <rdg wit="#B">vel</rdg>
+          </app> 
+          quod 
+          <app>
+            <lem>faciat</lem>
+            <rdg wit="#B">facit</rdg>
+          </app>, 
+          et a cuius voluntate 
+          vult auferre rectitudinem, 
+          non vult eam servare rectitudinem. 
+          Sed servare rectitudinem est velle 
+          <app>
+            <lem>sicut</lem>
+            <rdg wit="#B">quod</rdg>
+          </app> 
+          Deus vult 
+          <app>
+            <lem>eam</lem>
+            <rdg wit="#B">eum</rdg>
+          </app> 
+          velle, 
+          ergo si Deus rectitudinem tollit a voluntate, 
+          non vult 
+          <app>
+            <lem>eam</lem>
+            <rdg wit="#B">eum</rdg>
+          </app> 
+          velle quod vult 
+          <app>
+            <lem>eam</lem>
+            <rdg wit="#B">eum</rdg>
+          </app> 
+          velle. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e387">
+          Sed contra 
+          <app>
+            <lem>hoc</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>, 
+          quia diabolus 
+          <app>
+            <lem>vult</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          sicut Deus vult eum velle 
+          quia Deus 
+          <app>
+            <lem>scit</lem>
+            <rdg wit="#B">sit</rdg>
+          </app> 
+          consequentiam
+          <app>
+            <lem n="consequentiam"/>
+            <rdg wit="#B" type="variation-present">istam</rdg>
+          </app>
+          esse bonam, 
+          diabolus est obstinatus in malo, 
+          igitur vult iniuste, 
+          et Deus vult antecedens, 
+          et consequentiam esse bonam, 
+          igitur 
+          <app>
+            <lem>sequitur quod</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          vult consequens. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e401">
+          Item, 
+          si nulla voluntas foret 
+          <cb ed="#P" n="b"/>
+          recta nisi 
+          quia vellet 
+          sicut Deus vult eam velle, 
+          sequitur quod in Christo fuisset aliqua 
+          <app>
+            <lem>voluntas</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          non recta 
+          <app>
+            <lem>quando</lem>
+            <rdg wit="#B">cum</rdg>
+          </app> 
+          dixit 
+          <ref xml:id="beq3sc-d1e113-Rd1e862" corresp="#beq3sc-d1e1134-Qd1e412">
+            <title>Matthaeo</title> 26
+          </ref> 
+          <cit>
+            <quote xml:id="beq3sc-d1e1134-Qd1e412" ana="#mt26_39">
+              non sicut ego volo, 
+              <app>
+                <lem>sed sicut tu</lem>
+                <rdg wit="#P" type="variation-absent"/>
+              </app>
+            </quote>
+            <bibl>
+              <title>Matthaeus</title>
+              26:39
+            </bibl>
+          </cit> 
+          etc. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e421">
+          Item, 
+          contra illam 
+          formam 
+          <app>
+            <lem>arguendi</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          <name>Anselmi</name> 
+          <app>
+            <lem>arguit sic</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>, 
+          quia quando Deus aufert gratiam, 
+          aut vult eum non habere gratiam aut non vult. 
+          Si vult eum non
+          <app>
+            <lem>non</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>, 
+          <app>
+            <lem>etc.</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          igitur etc., 
+          pro tunc non est debitor gratiae.
+          <app>
+            <lem>Sed</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          contra, praecipit ei semper habere gratiam, 
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+          Si vult eam habere, 
+          igitur 
+          <app>
+            <lem>non</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          aufert.
+        </p>
+        <p>
+          Ad illam 
+          propositionem 
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          de rectitudine voluntatis, 
+          <app>
+            <lem>dico quod</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>
+          intelligit quod Deus 
+          non potest 
+          <app>
+            <lem>illam separare</lem>
+            <rdg wit="#B" type="variation-inversion">separare illam</rdg>
+          </app> 
+          a voluntate habente gratiam <unclear>ipsa invita</unclear> 
+          de potentia ordinata.
+          <app>
+            <lem>Et sic patet finis quaestionis</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

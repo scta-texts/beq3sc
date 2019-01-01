@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Question 51</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Question 51</title>
+          <date when="2018-12-25">December 25, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-12-25" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="160-r"/><cb ed="#P" n="b"/>
+        <pb ed="#B" n="219-r"/><cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e113">
+        <head xml:id="beq3sc-d1e1134-Hd1e105">Question 51</head>
+        <head xml:id="beq3sc-d1e1134-Hd1e108" type="question-title">
+          <supplied>Whether the teaching of the venerable Anselm rationally ought to be condemned?</supplied>
+        </head>
+        <p xml:id="beq3sc-d1e1134-d1e111">
+          Whether the teaching of the
+          <name ref="#Anselm">Venerable Anselm</name>
+          rationally ought to be condemned?
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e122">
+          That yes, 
+          it is argued
+          because it is erroneous, 
+          as is clear in 
+          <ref>
+            8 book of 
+            <title>On the free will</title>
+          </ref>, 
+          where he teaches 
+          that God is not able to remove 
+          the rectitude of the will from the will, 
+          and nevertheless he holds 
+          that this something different from the will, 
+          which is erroneous 
+          because God is able to separate 
+          everything that is totally distinct from something else, 
+          therefore etc.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e132">
+          It is said that it is distinguished from the will
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e138">
+          Against, 
+          therefore either it is effectively 
+          from the will or not. 
+          If thus, 
+          contra, 
+          it is not in the power of the will 
+          to cause rectitude in itself
+          but to preserve, as he says.
+          Again affections are created by God, 
+          <ref>
+            <title>de concordia</title>, capitulo 17
+          </ref>
+          therefore etc.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e163">
+          <pb ed="#P" n="160-v"/>
+          <cb ed="#P" n="a"/>
+          Similarly, 
+          if it causes rectitude, 
+          it does so either by willing or not willing.
+          If by willing, 
+          and no one wishes rectitude 
+          unless having rectitude, 
+          it has before 
+          what it causes, 
+          and this is the argument of the same one 
+          in 
+          <ref>
+            <title>De concordia</title>, 
+            chapter 13
+          </ref>. 
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e211">
+          If rectitude is not effective from the will, 
+          then it should not be thought of us a free will, 
+          which is in opposition to 
+          <ref>
+            <name>Augustine</name>, 
+            in the first book of the 
+            <title>Retractions</title>, 
+            chapter 9
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e223">
+          It is said that 
+          it depends on the will 
+          with respect to conservation, 
+          not with respect to production.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e243">
+          Against this, 
+          it is in the power of sinners to produce contrition,
+          and every contrition is rectitude of the will, 
+          therefore etc. 
+          This is confirmed 
+          because the rectitude of the will 
+          is to will what God wills it to will, 
+          <ref>
+            <title>On free will</title>, 
+            chapter 8
+          </ref>, 
+          but this kind of willing is effectively from the will, 
+          therefore etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e195">
+          Again, 
+          everything which man has
+          if he wishes to have it 
+          and does not have it 
+          unless he wishes to have,
+          he has from the will, 
+          as is seen. 
+          Rectitude belongs to this class of things, 
+          etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e207">
+          Again,
+          in
+          <ref>
+            II
+            <title>Cur Deus homo</title>, 
+            chapter 14
+          </ref>,
+          he puts five propositions. 
+          The first is that 
+          to act against the will of God 
+          even what we think the lightest moral sin 
+          is of so great a weight 
+          that it is not able to happen 
+          that there is salvation in an infinity of worlds. <!-- translations review -->
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e344">
+          But against this, 
+          then any sin is of infinite badness in intention 
+          because if of finite badness, 
+          then the salvation of some worlds 
+          will it be so good, 
+          just as this will be bad.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e239">
+          Second proposition, 
+          that the smallest injury of Christ 
+          is a greater evil than 
+          all sins outside the person of Christ.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e419">
+          Against, 
+          then the killing of Christ would not have been 
+          a greater evil than the small injury of Christ.  
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e251">
+          Third, 
+          the life of Christ was of greater good 
+          than all sins are bad.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e442">
+          Against,
+          then he was a greater good than his murder.
+          The consequent against him 
+          because 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e454">
+              every good is as good as  
+              as its destruction is bad <!-- translation dbcheck -->
+            </quote>
+            <bibl>
+              <name>Anselm</name>
+              <bibl>Cur Deus Homo</bibl>
+              II, c. 14
+            </bibl>
+          </cit>,
+          <ref>
+            II
+            <title>Cur Deus homo</title>, 
+            chapter 14
+          </ref>, 
+          and it was as bad to kill him 
+          as his life was good. 
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e275">
+          Again, 
+          the life of Christ 
+          was sufficient satisfaction for sin, 
+          therefore he was an infinite good. 
+          The consequence is proved 
+          through what is said in 
+          <ref>
+            I
+            <title>Cur Deus homo</title>, 
+            chapter 21
+          </ref>, 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e478" source="http://scta.info/resource/u8ue3d-d1e287">
+              you will never satisfy 
+              unless you pay back something 
+              greater than that 
+              for which sin you ought not to have done <!-- translation check -->
+            </quote>
+            <bibl>
+              <name>Anselm</name>,
+              <title>Cur Deus Homo</title>, 
+              I, c. 21 
+            </bibl>
+          </cit>. 
+          But man ought not to sin for any finite good,
+          as the first proposition says, 
+          therefore, etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e299">
+          Fourth proposition, 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e559">
+              every good is as good 
+              as its destruction is bad
+            </quote>
+          </cit>
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e309">
+          Against, 
+          God instructs <name>Socrates</name> that 
+          he should not destroy this straw 
+          under penalty of mortal sin 
+          and that he should not kill 
+          a lion under penalty of venial sin, 
+          and acts against each, 
+          then the straw is of greater goodness that the lion 
+          because its destruction is worse.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e326">
+          Fifth, 
+          the life of the body of Christ is more loveable 
+          than all sins are hatable. 
+        </p>
+        <p>
+          Against, 
+          the amount of the first that is loveable, 
+          is equal <!-- to the second --> <!-- something weird, can't figure out how to translate --> 
+          because, 
+          by loving God one hates sin, 
+          and by hating sin, 
+          one loves God.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e340">
+          Again, 
+          if this were so 
+          and it were the case 
+          that no one ought to have loved him 
+          more than he loved himself, 
+          therefore this one ought to have loved him 
+          more than he hated sin, 
+          therefore he ought not to have given this live
+          for the satisfaction of sin.
+        </p> 
+        <p xml:id="beq3sc-d1e1134-d1e354">
+          Again, 
+          <ref>
+            <title>Proslogion</title>, 
+            chapter 25
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e363">
+          Again, 
+          he says about the <name>Blessed Virgin</name> 
+          that 
+          <cit>
+            <quote xml:id="beq3sc-d1e113-Qd1e692">
+              she was conceived and born 
+              in original sin
+            </quote>
+            <bibl>
+              <name>Anselm</name>
+              <title>Cur Deus homo</title>
+              II, c. 16
+            </bibl>
+          </cit>, 
+          <ref>
+            II, 
+            <title>Cur Deus homo</title>, 
+            chapter 16
+          </ref>.
+        </p>
+        <p xml:id="beq3sc-d1e113-d1e712">
+          Again, 
+          he proves that God is not able to destroy 
+          the rectitude of the will 
+          because this is either by willing 
+          or not willing.
+          Not by not willing as is clear.
+          Not by willing 
+          because if this is the case, 
+          then he wishes that he does it,
+          and from whose will 
+          he wishes to withdraw the rectitude, 
+          he does not wish that keeps the rectitude. 
+          But to keep the rectitude 
+          is will just as God will it to will, 
+          therefore if God 
+          destroys the rectitude from the will, 
+          he does not will 
+          that it will what he wishes it to will.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e387">
+          But against this 
+          because the devil wishes 
+          just God wishes him to will 
+          because knows that this consequence is valid, 
+          the devil is obstinate in evil, 
+          therefore he wishes unjustly, 
+          and God wishes the antecedent 
+          and that the consequence is valid, 
+          therefore it follows 
+          that he wills the consequent.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e401">
+          Again, 
+          if no will <sic>will</sic> be 
+          <cb ed="#P" n="b"/>
+          correct unless 
+          it will just as God wishes it to will, 
+          it follows that in Christ there was some non-correct will 
+          when he said in 
+          <ref>
+            <title>Matthew</title> 26
+          </ref>
+          <cit>
+            <quote xml:id="beq3sc-d1e1134-Qd1e412" ana="#mt26_39">
+              not as I will, but as you will
+            </quote>
+          </cit>, 
+          etc.
+        </p>
+        <p xml:id="beq3sc-d1e1134-d1e421">
+          Again, 
+          against this form of arguing <name>Anselmi</name> 
+          he argues thus,
+          because when God removes grace, 
+          either he wishes one not to have grace
+          or he does not wish. 
+          If he wishes him not, therefore etc., 
+          for then he is not a debtor of grace. 
+          Against, 
+          he commands him always to have grace. 
+          If he wishes that he has grace, 
+          then he does not remove it. 
+        </p>
+        <p>
+          Therefore to this proposition about the rectitude of the will,
+          I say that he understands 
+          that God is not able to separate it 
+          from the will having grace "ipsa invita" <!-- translation check -->
+          for his ordained power.
+          And thus is the end of the question.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
