@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 65 [Pembroke 236 Transcription]</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 65 [Pembroke 236 Transcription]</title>
+          <date when="2019-01-02">January 02, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="pembroke236">Pembroke 236</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-01-02" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#P" n="178-v"/><cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e1444">
+        <head xml:id="beq3sc-d1e1444-Hd1e4126">Quaestio 65 [Pembroke 236 Transcription]</head>
+        <head xml:id="beq3sc-d1e1444-Hd1e4129" type="question-title">Utrum dilectio Dei aeterna sit homini possibilis</head>
+        <p xml:id="beq3sc-d1e1444-d1e4132">
+          <lb ed="#P"/>Utrum dilectio dei aeterna 
+          <lb ed="#P"/>sit homini possibilis
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4146">
+          <pc type="#pilcrow"/> quod non quia nullus 
+          <lb ed="#P"/>potest esse certus se aeternaliter 
+          <lb ed="#P"/>deum diligere igitur antecedens patet 
+          <lb ed="#P"/>quia securitas sic fore includitur 
+          <lb ed="#P"/>in aeterna dei dilectione secundum <name>augustinum</name> 
+          <lb ed="#P"/>13 <title>de trinitate</title> antecedens probatur quia si aliquis 
+          <lb ed="#P"/>posset habere huius securitatem esset extra limi<lb ed="#P"/>tes 
+          creaturae in tantum quod deus non posset eum 
+          <lb ed="#P"/>adnihilare quia si sic illo posito talis errore aestima<lb ed="#P"/>vit 
+          aeternaliter istam dilectionem <unclear>habiturum</unclear> <pc type="#punctus"/> 
+          <lb ed="#P"/>igitur deus qui fecit eum sic aestimare decipit 
+          <lb ed="#P"/>eum igitur veritas fefellit aliquem quod est 
+          <lb ed="#P"/>impossibile et contra <name>augustinus</name> 83 quaestionibus quaestione 14
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e161">
+          <pc type="#pilcrow"/>Ad oppositum 
+          <lb ed="#P"/>est fides catholica
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e169">
+          In ista quaestione apud theologum 
+          <lb ed="#P"/>natura est difficultas unde <title>monologion</title> 100 dicitur an <unclear>creatura</unclear> 
+          <lb ed="#P"/>talis deo sine fine fruatur stultissima
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4254">
+          ideo ad 
+          <lb ed="#P"/>rationem in oppositum dico quod talis propositio iste est secu<lb ed="#P"/>rus 
+          de sua beatitudine futura in aeternum <unclear>dicentis</unclear> 
+          <lb ed="#P"/>potest exponi primo modo sic iste credit sine 
+          <lb ed="#P"/>haesitatione quacumque quod semper erit beatus et 
+          <lb ed="#P"/>ita erit in rei veritate
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4279">
+          <pc type="#pilcrow"/> alio modo iste credit 
+          <lb ed="#P"/>sine haesitatione quacumque quod semper erit beatus 
+          <lb ed="#P"/>et ita erit et impossibile est quod aliter sit primam 
+          <lb ed="#P"/>securitatem habet omnis beatus de sua beatitudine sed non 
+          <lb ed="#P"/>secundum nec habere potest aliqua creatura quia si habe<lb ed="#P"/>ret 
+          deciperetur cum omnis creatura quamdiu 
+          <lb ed="#P"/>est libere conservetur a deo a qua dependentia 
+          <lb ed="#P"/>non potest absolvi <pc type="#punctus"/> unde ita libere conservat 
+          <lb ed="#P"/>deus animam christi hodie sicut unquam <pc type="#punctus"/> ex quo 
+          <lb ed="#P"/>secuntur istae conclusiones
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e228">
+          <pc type="#pilcrow"/> haec est contingens petrus 
+          <lb ed="#P"/>fuit beatus et est verus et potest semper fuisse
+          <lb ed="#P"/>falsa
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e237">
+          <pc type="#pilcrow"/> similiter haec est contingens anima christi erit beata quia 
+          <lb ed="#P"/>neccessario si illae propositiones <unclear>debuerunt <!-- looks like debunt --></unclear> exponi 
+          <lb ed="#P"/>exponuntur per propositiones quarum aliqua est 
+          <lb ed="#P"/>contingens
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e252">
+          <pc type="#pilcrow"/> Et quando arguitur quod haec est impossibilis deus 
+          <lb ed="#P"/>adnihilabit petrum quia ex ea sequitur quod petrus 
+          <pb ed="#P" n="179-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>erravit igitur deus decepit eum
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e266">
+          <pc type="#punctus"/> ad istud arguitur 
+          <lb ed="#P"/>dico 3a primo quod prima consequentia non valet sicut non sequitur 
+          <lb ed="#P"/>deus adnihilabit diabolum igitur diabolus erroneae aesti<lb ed="#P"/>mavit 
+          beatitudinem suam <unclear>semper</unclear> fore <pc type="#pilcrow"/> unde oportet 
+          <lb ed="#P"/>sic arguere deus adnihilabit petrum et petrus 
+          <lb ed="#P"/>aestimavit se semper fore beatum igitur petrus er<lb ed="#P"/>ravit <pc type="#punctus"/>
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4381">
+          <pc type="#pilcrow"/> 2o dico quod haec consequentia est bona petrus 
+          <lb ed="#P"/>erravit igitur deus decepit eum saltim ut causa 
+          <lb ed="#P"/>partialis quia si petrus erravit igitur aliqua notitia 
+          <lb ed="#P"/>erronea fuit in anima petri <sic>set</sic> omnis res quae 
+          <lb ed="#P"/>unquam fuit in anima petri fuit a deo sicud 
+          <lb ed="#P"/>ab efficiente igitur deus causavit illum errorem <sic>set</sic>  
+          <lb ed="#P"/>hoc est decipere igitur deus decepit eum <pc type="#punctus"/> sic enim di<lb ed="#P"/>cimus 
+          ille decepit me quia causavit in me 
+          <lb ed="#P"/>aestimationem erroneam
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e322">
+          <pc type="#pilcrow"/> 3o dico quod iste 
+          <lb ed="#P"/>terminus fallere vel decipere <unclear>dupla</unclear> accipitur 
+          <lb ed="#P"/>proprie vel improprie <pc type="#punctus"/> proprie exponitur sicut deum eset 
+          <lb ed="#P"/>per causare errorem <pc type="#punctus"/> <pc type="#pilcrow"/> improprie exponitur per vi<lb ed="#P"/>ciose 
+          vel inordinate causare errore et 
+          <lb ed="#P"/>sic non potest deus fallere <pc type="#punctus"/> et per istam dis<lb ed="#P"/>tinctionem 
+          patet intentio <name>augustini</name> 83 quaestionibus quaestione 53
+          <lb ed="#P"/>ubi inquit qualiter deus decipit dig<lb ed="#P"/>nos 
+          decipi per malos angelos et ma<lb ed="#P"/>los 
+          homines non per beatos nec immediate per 
+          <lb ed="#P"/>seipsam
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

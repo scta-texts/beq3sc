@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,21 +44,145 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#B" n="262-r"/><cb ed="#B" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="beq3sc-d1e1444">
-        <head>Quaestio 65 [Balliol 246 Transcription]</head>
-        <head type="question-title">Utrum dilectio Dei eterna sit homini possibilis</head>
-        <p>
+        <head xml:id="beq3sc-d1e1444-Hd1e4126">Quaestio 65 [Balliol 246 Transcription]</head>
+        <head xml:id="beq3sc-d1e1444-Hd1e4129" type="question-title">Utrum dilectio Dei aeterna sit homini possibilis</head>
+        <p xml:id="beq3sc-d1e1444-d1e4132">
+          <pb ed="#B" n="262-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>Utrum dilectio dei 
+          <lb ed="#B"/>aeterna <sic>si</sic> homini possibilis
         </p>
-        
+        <p xml:id="beq3sc-d1e1444-d1e4146">
+          arguebatur 
+          <lb ed="#B"/>quod non quia nullus homo potest esse certus 
+          <lb ed="#B"/>se aeternaliter deum diligere igitur 
+          <lb ed="#B"/>consequentia patet quia securitas sic 
+          <lb ed="#B"/>fore includitur in aeterna dei dilectione secundum 
+          <lb ed="#B"/><name>augustinum</name> <title>de trinitate</title> et per <name>anselmum</name> <title>de casu dyaboli</title> 
+          <lb ed="#B"/>antecedens probatur quia si aliquis potest habere huiusmodi securita<lb ed="#B"/>tem 
+          esset extra limites creaturae in tantum 
+          <lb ed="#B"/>quod deus non posset adnihilare quod est in 
+          <lb ed="#B"/>conveniens probo quia sic pensu gratia exempli talis 
+          <lb ed="#B"/>homo qui talem habet securitatem et arguit 
+          <lb ed="#B"/>haec propositio est possibilis deus anihilabit poenam probatio 
+          <lb ed="#B"/>quia ex ea sequitur impossibile probatio nam sequitur deus a<lb ed="#B"/>nihilabit 
+          poenam igitur <unclear>poenus</unclear> erroneae <unclear>estrant</unclear> se 
+          <lb ed="#B"/>aeternaliter illam dilectionem <unclear>habituro</unclear> igitur deus 
+          <lb ed="#B"/>qui fecis eum sic estimaris decipit illum 
+          <lb ed="#B"/>igitur meritas fefellit aliquem quod est inpossibile 
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e161">
+          <lb ed="#B"/>est fides catholica
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e169">
+          in ista quaestione nulla cla<lb ed="#B"/>uditur 
+          <sic>dificultas</sic> apud theologicum constat 
+          <lb ed="#B"/>enim finem ultimum super naturalem hominis esse 
+          <lb ed="#B"/>fruitionem divinae essentiae clarum in se in 
+          <lb ed="#B"/>qua potissime beatitudo <unclear>conscisat</unclear> dicentis 
+          <lb ed="#B"/><name>anselmo</name> 2o <title>cur deus homo</title> in principio naturalem 
+          <lb ed="#B"/>creaturam vel naturam a deo fectam esse 
+          <lb ed="#B"/>instam illo fruendo beata esset <unclear>dupli</unclear> non 
+          <lb ed="#B"/>debet et <title>monologion</title> 76 probat quod deus crea<lb ed="#B"/>turae 
+          rationali amanti deum sicut debet da<lb ed="#B"/>bitur 
+          pro primo ipse deus ut illa cre<lb ed="#B"/>atura 
+          talis deo sive fine fruatur 
+          <lb ed="#B"/>dubitare <unclear>stusti?m</unclear> est
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4254">
+          <pc type="virgula">//</pc> ad ratione in oppositum 
+          <lb ed="#B"/>quae multum difformitas est facta non haben<lb ed="#B"/>te 
+          diffinitatem nisi istam quomodo est securitas 
+          <lb ed="#B"/>in beatitudine dicendum est quod ista propositio petrus est 
+          <lb ed="#B"/>securus de sua beatitudine aeterna potest duplicitas 
+          <lb ed="#B"/>exponi sic petrus credit sive <unclear>quare</unclear> 
+          <lb ed="#B"/>quae dubitatione quod semper erit beatus 
+          <lb ed="#B"/>et ita erit in rei veritate
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4279">
+          <pc type="virgula">//</pc> alio modo sic 
+          <lb ed="#B"/>petrus credit sine quantumque dubitatione 
+          <lb ed="#B"/>quod semper erit beatus et ita erit et inpossibile est 
+          <lb ed="#B"/>quo aliter sit primam securitatem 
+          <lb ed="#B"/>habent omnes beati de sua beatitudine 2am non 
+          <lb ed="#B"/>habent nec habere potest <choice><orig>alica</orig><reg>aliqua</reg></choice> creatura quia si talem 
+          <lb ed="#B"/>adhaesionem vel estimationem habere quod 
+          <lb ed="#B"/>impossibile erit eam non esse beatam decipere 
+          <lb ed="#B"/>cum omnis creaturam quam deum est libere 
+          <lb ed="#B"/><unclear>c??servetur</unclear> a deo a qua dependentia non 
+          <lb ed="#B"/>potest absolvi unde ista libere conservat deus 
+          <lb ed="#B"/>hodie animam christi <unclear>sid?</unclear> numquam fecis ex quo 
+          <lb ed="#B"/>istae conclusiones sunt concedendae
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e228">
+          haec est contingens petrus 
+          <lb ed="#B"/>fuit beatus et est vera et semper fuisse
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e237">
+          similiter 
+          <lb ed="#B"/>haec est contingens anima christi erit beati secundum unam 
+          <lb ed="#B"/>viam <unclear>sid?</unclear> alias fuit declaratum quia si 
+          <lb ed="#B"/>exponatur istae propositiones et consimiles neccessaria 
+          <lb ed="#B"/>exponitur per propositiones quarum alia est con<lb ed="#B"/>tingens
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e252">
+          et quando in fine argumenti ostenditur 
+          <pb ed="#B" n="262-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>quod haec est inpossibilis deus <sic>ad nihilabit</sic> petrum quia ex 
+          <lb ed="#B"/>sequitur <sic>in possibile</sic> nam sequitur deus adnihilabit petrum 
+          <lb ed="#B"/>ergo petrus erravit igitur deus decepit eum consequens 
+          <lb ed="#B"/>filium et consequentia <name>augustinum</name>
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e266">
+          ad idem dico 3a primo quod 
+          <lb ed="#B"/>prima consequentia vel vali deus adnihilabit petrum 
+          <lb ed="#B"/>ergo petrus eroneae estimavit suam beatitudinem 
+          <lb ed="#B"/>semper foret oportet addere aliam propositionem 
+          <lb ed="#B"/>et tunc illa <unclear>co?va</unclear> erit unum sufficiens antecedens 
+          <lb ed="#B"/>ad id consequens unde ista consequentia est concedenda deus ad<lb ed="#B"/>nihilabit 
+          petrum et petrus estimavit se semper 
+          <lb ed="#B"/>esse vel foret igitur petrus erravit et fuit 
+          <lb ed="#B"/>deceptus
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4381">
+          <pc type="virgula">//</pc> 2o dico ad istam rationem 
+          <lb ed="#B"/>quod ista 2a consequentia est bona petrus erravit 
+          <lb ed="#B"/>ergo deus decepit eum sicut causa partialis homo probo 
+          <lb ed="#B"/>sic si petro erravit tunc <choice><orig>alica</orig><reg>aliqua</reg></choice> notitia 
+          <lb ed="#B"/>erronea fuit in anima petri sed omnis res 
+          <lb ed="#B"/>quae <unclear>inquomodo</unclear> fuit in anima petri fuit a deo 
+          <lb ed="#B"/><unclear>sid</unclear> a causa <sic>eficiente</sic> igitur deus causavit illum errorem 
+          <lb ed="#B"/>sed hoc est decipere igitur deus decipit eum sic 
+          <lb ed="#B"/><unclear>enim</unclear> dicimus iste decipit me id est causavit in 
+          <lb ed="#B"/>me erroneam estimationem eodem modo dicimus 
+          <lb ed="#B"/>de sortes et de quacumque re quae constant er<lb ed="#B"/>rorem 
+          in nobis
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e322">
+          3o modo quod iste terminus fal<lb ed="#B"/>lere 
+          vel decipere etc accipitur proprie et im<lb ed="#B"/>proprie 
+          proprie exponitur sicut dictum pro causare 
+          <lb ed="#B"/>errorem inproprie pro intense vel deordinatis 
+          <lb ed="#B"/><unclear>cai?us</unclear> errorem et sic non potes tdeus fallere consequentia 
+          <lb ed="#B"/>autem <name>augustini</name> ad mentem <unclear>angeli</unclear> de 83 q 9 
+          <lb ed="#B"/>14 ita si christus fefellit ostendendo discipiulis 
+          <lb ed="#B"/>fantasma <unclear>loco toporis</unclear> christus non fuit veritas 
+          <lb ed="#B"/>et ista consequentia est bona et tam antecedens quam 
+          <lb ed="#B"/>consequens est inpossibile et per istam patet <unclear>disti?tionem</unclear> 
+          beati augustini in caelo de genese <unclear>q?us i?em</unclear> vero inquit 
+          <lb ed="#B"/>qualiter deus decepit per malos angelos 
+          <lb ed="#B"/>et per malos homines sed non per bonos nec 
+          <lb ed="#B"/><sic>in mediate</sic> per seipsum et accipit ibi de<lb ed="#B"/>cipere 
+          pro inordinate decipere
+        </p>
       </div>
     </body>
   </text>
