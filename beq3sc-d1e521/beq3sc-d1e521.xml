@@ -421,12 +421,25 @@
             <rdg wit="#B">pationem</rdg>
           </app> 
           secundum imaginationem 
-          <ref>
-            <name ref="#Averroes">Commentatoris</name> 
-            8 <title>Physicorum</title>, 
-            commento 69
-          </ref>. 
-          Quod caliditas in aqua sit 
+          <cit>
+            <ref target="http://scta.info/resource/cnag1q-d1e110">
+              <name ref="#Averroes">Commentatoris</name> 
+              8 <title>Physicorum</title>, 
+              commento 69
+            </ref>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In Physica</title>, 
+              VIII, commento 69
+              (Juntina, vol. IV, Venice 1562, 412)
+            </bibl>
+          </cit>. 
+          Quod 
+          <app>
+            <lem>autem</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app> 
+          caliditas in aqua sit 
           <app>
             <lem>essentialiter</lem>
             <rdg wit="#B" type="variation-absent"/>
@@ -480,7 +493,7 @@
           sicut album positum a remotis per intensionem remissam 
           repraesentat visui 
           <app>
-            <lem>nigredinem vel corporale medium</lem>
+            <lem>nigredinem vel corpore nigredinem</lem>
             <rdg wit="#B" type="variation-absent"/>
           </app>, 
           ita frigiditas aquae multum 
@@ -502,7 +515,14 @@
             <lem>situ</lem>
             <rdg wit="#B">scitu</rdg>
           </app>, 
-          igitur est in duplo intentior quam prius. 
+          igitur est 
+          <app>
+            <lem>in duplo intentior</lem>
+            <rdg wit="#B" type="variation-inversion">
+              intentior in duplo
+            </rdg>
+          </app> 
+          quam prius. 
           Sed contra, 
           <app>
             <lem>hoc non accipit quia sic</lem>
