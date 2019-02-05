@@ -66,18 +66,41 @@
           Sed unum non remittitur nisi propter intensionem 
           alterius in eodem subiecto, igitur. 
           Minor probatur per 
-          <ref xml:id="beq3sc-d1e551-Rd1e115">
+          <ref xml:id="beq3sc-d1e551-Rd1e115" corresp="#beq3sc-d1e551-Qd1e126">
             <name ref="#Averroes">Commentatorem</name> 
-            9 
+            <app>
+              <lem>5</lem>
+              <rdg wit="#B">9</rdg>
+            </app>
             <title>Physicorum</title>, 
             commento 
             45
           </ref>, 
           ubi dicit 
-          quod <unclear>diminutum</unclear> in omni 
-          est propter admixtionem sui contrarii 
+          quod 
+          <cit>
+            <quote xml:id="beq3sc-d1e551-Qd1e126" source="http://scta.info/resource/cnag1q-l5">
+              diminutum in omni est propter admixtionem sui contrarii
+            </quote>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In Physica</title>, 
+              V, commento 45
+              (Juntina, vol. IV, Venice 1562, 235ra)
+            </bibl>
+          </cit> 
           et 
-          <ref xml:id="beq3sc-d1e551-Rd1e127">idem commento 19 eiusdem</ref> 
+          <cit>
+            <ref xml:id="beq3sc-d1e551-Rd1e127" target="http://scta.info/resource/cnag1q-l5">
+              idem, commento 19 eiusdem
+            </ref>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In Physica</title>, 
+              V, commento 19
+              (Juntina, vol. IV, Venice 1562, 221va)
+            </bibl>
+          </cit> 
           et multis 
           <app>
             <lem>aliis</lem>
@@ -93,28 +116,51 @@
             <lem>patet</lem>
             <rdg wit="#B" type="variation-absent"/>
           </app> 
-          <ref xml:id="beq3sc-d1e551-Rd1e147">
-            10 
-            <title>Metaphysciae</title>,
-            commento 23
-          </ref>, 
+          <cit>
+            <ref xml:id="beq3sc-d1e551-Rd1e147" target="http://scta.info/resource/xch7dn-d1e126">
+              10 
+              <title>Metaphysciae</title>,
+              commento 23
+            </ref>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In Metaphysica</title>, 
+              X, commento 23 
+              (Juntina, vol. VIII, Venice 1562, 271ra-272rb)
+            </bibl>
+          </cit>, 
           et 
-          <ref xml:id="beq3sc-d1e551-Rd1e153">
-            primo 
-            <title>De caelo</title> 
-            commento 
-            <app>
-              <lem>7</lem>
-              <rdg wit="#B">1</rdg>
-            </app>
-          </ref>, 
+          <cit>
+            <ref xml:id="beq3sc-d1e551-Rd1e153" target="http://scta.info/resource/juh67y-d1e53">
+              primo 
+              <title>De caelo</title> 
+              commento 
+              <app>
+                <lem>7</lem>
+                <rdg wit="#B">1</rdg>
+              </app>
+            </ref>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In De Caelo</title>, 
+              I, commento 7 
+              (Juntina, vol. VI, Venice 1562, 6rb-6v)
+            </bibl>
+          </cit>, 
           ubi frequenter habetur 
           quod omne mixtum moritur 
           ad modum elementi dominantis, 
           igitur in omne mixto sunt elementa contraria 
           et duae qualitates contrariae 
           quia, 
-          nisi qualitates contrariae forent ibi, 
+          nisi qualitates 
+          <app>
+            <lem>contrariae forent</lem>
+            <rdg wit="#B" type="variation-inversion">
+              forent contrariae
+            </rdg>
+          </app> 
+          ibi, 
           elementa contraria non forent ibi. 
           Consequens est falsum.
         </p>
@@ -132,7 +178,12 @@
           per quod patet ad primum
         </p>
         <p xml:id="beq3sc-d1e551-d1e173">
-          Ad secundum dicitur quod nullum 
+          Ad secundum 
+          <app>
+            <lem>dicitur</lem>
+            <rdg wit="#P" type="variation-absent"/>
+          </app> 
+          quod nullum 
           <app>
             <lem>elementum</lem>
             <rdg wit="#B">ellectum</rdg>
@@ -171,10 +222,19 @@
         </p>
         <p xml:id="beq3sc-d1e551-d1e230">
           Et ad 
-          <ref xml:id="beq3sc-d1e551-Rd1e232">
-            <name ref="#Averroes">commentatorem</name> 
-            commento 23
-          </ref> 
+          <cit>
+            <ref xml:id="beq3sc-d1e551-Rd1e232">
+              <name ref="#Averroes">commentatorem</name> 
+              commento 23
+            </ref>
+            <bibl>
+              <name>Averroes</name>, 
+              <title>In Metaphysica</title>, 
+              X, commento 23 
+              (Juntina, vol. VIII, Venice 1562, 271ra-272rb)
+            </bibl>
+            
+          </cit> 
           <app>
             <lem>dico</lem>
             <rdg wit="#P" type="variation-absent"/>
