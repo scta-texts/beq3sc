@@ -55,7 +55,7 @@
       <div xml:id="beq3sc-d1e113">
         <head xml:id="beq3sc-d1e1134-Hd1e105">Quaestio 51</head>
         <head xml:id="beq3sc-d1e1134-Hd1e108" type="question-title">
-          <supplied>Utrum doctrina venerabilis Anselmi rationabiliter debeat reprobari?</supplied>
+          <supplied>Utrum doctrina <name>Venerabilis Anselmi</name> rationabiliter debeat reprobari?</supplied>
         </head>
         <p xml:id="beq3sc-d1e1134-d1e111">
           Utrum doctrina 
@@ -132,7 +132,7 @@
           </app> 
           ratio eiusdem 
           <ref xml:id="beq3sc-d1e113-Rd1e204">
-            <title>de concordia</title> 
+            <title>De concordia</title>,
             capitulo 13
           </ref>.
         </p>
@@ -148,7 +148,10 @@
             <name>Augustinum</name>, 
             primo 
             <title>Retractionum</title>,
-            nono capitulo  
+            <app>
+              <lem>nono capitulo</lem>
+              <rdg wit="#B" type="variation-inversion">capitulo nono</rdg>
+            </app>  
           </ref>.
         </p>
         <p xml:id="beq3sc-d1e113-d1e223">
@@ -206,10 +209,11 @@
             <lem>illud vult</lem>
             <rdg wit="#B" type="variation-inversion">vult illud</rdg>
           </app> 
-          habere et non habet nisi velit 
+          habere et non habet nisi 
           <app>
-            <lem>illud</lem>
-            <rdg wit="#P" type="variation-absent"/>
+            <lem>illud velit</lem>
+            <rdg wit="#B" type="variation-inversion">velit illud</rdg>
+            
           </app> 
           habere, 
           habet a voluntate, 
@@ -282,7 +286,8 @@
           <app>
             <lem>quod</lem>
             <rdg wit="#B" type="variation-absent"/>
-          </app> minima laesio Christi 
+          </app> 
+          minima laesio Christi 
           <app>
             <lem>est</lem>
             <rdg wit="#P">esset</rdg>
@@ -342,12 +347,26 @@
             </bibl>
           </cit>,
           <ref xml:id="beq3sc-d1e113-Rd1e452" corresp="#beq3sc-d1e113-Qd1e454">
-            II 
+            <app>
+              <lem>II</lem>
+              <rdg wit="#B" type="correction-addition">
+                <add>II</add>
+              </rdg>
+            </app> 
             <title>Cur Deus homo</title>, 
             capitulo 14
           </ref>,
           et tam malum fuit eum occidere 
-          quam bonam fuit eius vitam
+          quam 
+          <app>
+            <lem>bona</lem>
+            <rdg wit="#B">bonam</rdg>
+          </app> 
+          fuit eius 
+          <app>
+            <lem>vita</lem>
+            <rdg wit="#B">vitam</rdg>
+          </app>
           <app>
             <lem n="vitam"/>
             <rdg wit="#B" type="variation-present">capitulo iii</rdg>
@@ -510,7 +529,7 @@
         </p>
         <p xml:id="beq3sc-d1e1134-d1e363">
           Item, 
-          dicit de beata virgine quod 
+          dicit de <name>Beata Virgine</name> quod 
           <cit>
             <quote xml:id="beq3sc-d1e113-Qd1e692" source="http://scta.info/resource/u8ue3d-d1e516" type="paraphrase">
               fuit concepta et nata in originali 
@@ -625,7 +644,7 @@
           recta nisi 
           quia vellet 
           sicut Deus vult eam velle, 
-          sequitur quod in Christo fuisset aliqua 
+          sequitur quod in <name>Christo</name> fuisset aliqua 
           <app>
             <lem>voluntas</lem>
             <rdg wit="#P" type="variation-absent"/>

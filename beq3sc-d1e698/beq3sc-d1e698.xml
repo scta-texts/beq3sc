@@ -58,7 +58,12 @@
           <supplied>Utrum gratuite diligens deum plus se possit pro eadem mensura mereri et demereri?</supplied>
         </head>
         <p xml:id="beq3sc-d1e698-d1e4132">
-          Utrum gratuite diligens Deum plus 
+          Utrum 
+          <app>
+            <lem>gratuite</lem>
+            <rdg wit="#B">gratuitatae</rdg>
+          </app> 
+          diligens Deum plus 
           se possit pro eadem mensura mereri 
           et demereri?
         </p>
