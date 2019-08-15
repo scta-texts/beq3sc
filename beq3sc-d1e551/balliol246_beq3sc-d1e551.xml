@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#B" n="204-v"/><cb ed="#B" n="a"/>
+        <pb ed="#B" n="204-v"/>
+        <cb ed="#B" n="a"/>
       </div>
     </front>
     <body>

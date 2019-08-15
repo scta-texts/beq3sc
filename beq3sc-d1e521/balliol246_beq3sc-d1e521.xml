@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#B" n="203-v"/><cb ed="#B" n="b"/>
+        <pb ed="#B" n="203-v"/>
+        <cb ed="#B" n="b"/>
       </div>
     </front>
     <body>
@@ -198,7 +199,8 @@
           <lb ed="#B"/>statu et medietas illarum et sic in infinitum dicitur quod 
           <lb ed="#B"/>non est ad propositum quia calor christi in sacramento non
           <pb ed="#B" n="204-v"/>
-          <cb ed="#B" n="a"/>est ibi localiter nec situaliter
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>est ibi localiter nec situaliter
         </p>
       </div>
     </body>

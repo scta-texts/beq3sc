@@ -45,12 +45,9 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
       <div xml:id="starts-on">
-        <pb ed="#B" n="206-r"/><cb ed="#B" n="a"/>
+        <pb ed="#B" n="206-r"/>
+        <cb ed="#B" n="a"/>
       </div>
     </front>
     <body>
@@ -60,7 +57,7 @@
         <p xml:id="beq3sc-d1e362-d1e3853">
           <lb ed="#B"/>Utrum sapientia in creata obliguan<lb ed="#B"/>do 
           viatorem ad aliquod
-          <cb ed="#B" n="b"/>
+          <cb ed="#B" n="b"/><!-- 206rb -->
           <lb ed="#B"/>antecedens obliget eum in ipso ad quodlibet suum consequens
         </p>
         <p xml:id="beq3sc-d1e362-d1e3864">
