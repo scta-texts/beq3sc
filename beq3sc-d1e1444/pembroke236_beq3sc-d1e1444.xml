@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#P" n="178-v"/><cb ed="#P" n="b"/>
+        <pb ed="#P" n="178-v"/>
+        <cb ed="#P" n="b"/>
       </div>
     </front>
     <body>
@@ -54,7 +55,7 @@
         <head xml:id="beq3sc-d1e1444-Hd1e4126">Quaestio 65 [Pembroke 236 Transcription]</head>
         <head xml:id="beq3sc-d1e1444-Hd1e4129" type="question-title">Utrum dilectio Dei aeterna sit homini possibilis</head>
         <p xml:id="beq3sc-d1e1444-d1e4132">
-          <lb ed="#P"/>Utrum dilectio dei aeterna 
+          <lb ed="#P" n="95"/>Utrum dilectio dei aeterna 
           <lb ed="#P"/>sit homini possibilis
         </p>
         <p xml:id="beq3sc-d1e1444-d1e4146">

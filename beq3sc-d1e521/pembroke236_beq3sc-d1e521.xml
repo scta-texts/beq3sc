@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#P" n="154-v"/><cb ed="#P" n="b"/>
+        <pb ed="#P" n="154-v"/>
+        <cb ed="#P" n="b"/>
       </div>
     </front>
     <body>
@@ -54,7 +55,7 @@
         <head xml:id="beq3sc-d1e521-Hd1e4126">Quaestio 23 [Pembroke 236 Transcription]</head>
         <head xml:id="beq3sc-d1e521-Hd1e4129" type="question-title">Utrum qualitas suscipiat magis aut minus</head>
         <p xml:id="beq3sc-d1e521-d1e4132">
-          <lb ed="#P"/>Utrum qualitas suscipiat magis 
+          <lb ed="#P" n="80"/>Utrum qualitas suscipiat magis 
           <lb ed="#P"/>aut minus <pc type="#punctus"/>
         </p>
         <p xml:id="beq3sc-d1e521-d1e4141">

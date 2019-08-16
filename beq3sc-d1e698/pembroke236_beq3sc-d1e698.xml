@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#P" n="156-v"/><cb ed="#P" n="a"/>
+        <pb ed="#P" n="156-v"/>
+        <cb ed="#P" n="a"/>
       </div>
     </front>
     <body>
@@ -54,7 +55,7 @@
         <head xml:id="beq3sc-d1e698-Hd1e4126">Quaestio 31 [Pembroke 236 Transcription]</head>
         <head xml:id="beq3sc-d1e698-Hd1e4129" type="question-title">Utrum gratuite diligens deum plus se possit pro eadem mensura mereri et demereri</head>
         <p xml:id="beq3sc-d1e698-d1e4132">
-          <lb ed="#P"/>Utrum gratuite diligens deum plus 
+          <lb ed="#P" n="4"/>Utrum gratuite diligens deum plus 
           <lb ed="#P"/>se possit pro eadem mensura mere<lb ed="#P"/>ri 
           et demereri
         </p>

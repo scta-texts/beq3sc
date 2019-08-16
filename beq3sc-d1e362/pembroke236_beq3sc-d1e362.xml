@@ -44,7 +44,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#P" n="152-r"/><cb ed="#P" n="a"/>
+        <pb ed="#P" n="152-r"/>
+        <cb ed="#P" n="a"/>
       </div>
     </front>
     <body>
@@ -53,7 +54,7 @@
         <head xml:id="beq3sc-d1e362-Hd1e3850" type="question-title">Utrum sapientia increata obligando viatorem ad aliquod antecedens, 
           obliget eum eoipso ad quodlibet suum consequens</head>
         <p xml:id="beq3sc-d1e362-d1e3853">
-          <lb ed="#P"/>Utrum sapientia in creata 
+          <lb ed="#P" n="46"/>Utrum sapientia in creata 
           <lb ed="#P"/>obligando viatorem ad aliquod
           <lb ed="#P"/>antecedens obliget eum eoipso 
           <lb ed="#P"/>ad quodlibet suum consequens

@@ -46,7 +46,8 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#P" n="155-r"/><cb ed="#P" n="b"/>
+        <pb ed="#P" n="155-r"/>
+        <cb ed="#P" n="b"/>
       </div>
     </front>
     <body>
@@ -57,7 +58,7 @@
         </head>
         <p xml:id="beq3sc-d1e551-d1e4132">
           <cb ed="#P" n="b"/>
-          <lb ed="#P"/>Utrum contraria possunt esse 
+          <lb ed="#P" n="59"/>Utrum contraria possunt esse 
           <lb ed="#P"/>in eodem subiecto coextensa
         </p>
         <p xml:id="beq3sc-d1e551-d1e4144">
