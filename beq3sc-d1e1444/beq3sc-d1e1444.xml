@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 65</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 65</title>
+          <date when="2020-07-03">July 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+        <p xml:lang="en">Based primarily on B (Balliol 246) with occasional adjustments from P 
+          (which varies widely and appears to be an inferior text)
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-07-03" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="262-r"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e1444">
+        <head xml:id="beq3sc-d1e1444-Hd1e4126">Quaestio 65</head>
+        <head xml:id="beq3sc-d1e1444-Hd1e4129" type="question-title">
+          Utrum dilectio Dei aeterna sit homini possibilis
+        </head>
+        <p xml:id="beq3sc-d1e1444-d1e4132">
+          Utrum dilectio Dei aeterna
+          <app>
+            <lem n="aeterna"/>
+            <rdg wit="#B" type="variation-present" facs="262r/59">si</rdg>
+          </app>
+          homini possibilis?
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4146">
+          Arguebatur quod non 
+          quia nullus homo potest esse certus se aeternaliter Deum diligere, 
+          igitur. 
+          Consequentia patet 
+          quia securitas sic fore includitur in aeterna Dei dilectione 
+          secundum 
+          <ref xml:id="beq3sc-d1e1444-Rd1e132">
+            <name xml:id="beq3sc-d1e1444-Nd1e133">Augustinum</name>, 
+            <title>De Trinitate</title>
+          </ref>
+          et per 
+          <ref xml:id="beq3sc-d1e1444-Rd1e140">
+            <name xml:id="beq3sc-d1e1444-Nd1e141">Anselmum</name>, 
+            <title>De casu diaboli</title>
+          </ref>. 
+          Antecedens probatur quia, 
+          si aliquis potest habere huiusmodi securitatem, 
+          esset extra limites creaturae intantum 
+          quod Deus non posset illum adnihilare, 
+          quod est inconveniens. 
+          Probo quia sic <name xml:id="beq3sc-d1e1444-Nd1e140">Petrus</name> 
+          gratia exempli talis homo 
+          qui talem habet securitatem, et arguit haec propositio, 
+          est possibilis Deus annihilabit Petrum. 
+          Probatio, quia ex ea sequitur impossibile. 
+          Probatio, nam sequitur, Deus annihilabit 
+          Petrum, igitur Petrus erronee aestimat se aeternaliter illam dilectionem habiturum, 
+          igitur Deus, qui fecit eum sic aestimare, 
+          decipit illum, igitur veritas fefellit aliquem, 
+          quod est impossibile et contra 
+          <ref xml:id="beq3sc-d1e1444-Rd1e185">
+            <name xml:id="beq3sc-d1e1444-Nd1e186">Augustinum</name>, 
+            <app>
+              <lem n="Augustinum"/>
+              <rdg wit="#B" type="variation-present" facs="262r/76">a</rdg>
+            </app>
+            83 quaestionibus, 
+            quaestione 14.
+          </ref>
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e161">
+          Ad oppositum est fides catholica.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e169">
+          In ista quaestione nulla clauditur difficultas apud 
+          <app>
+            <lem wit="#P">theologum</lem>
+            <rdg wit="#B" facs="262r/78">theologicum</rdg>
+          </app> , 
+          constat enim finem ultimum supernaturalem hominis esse fruitionem 
+          divinae essentiae clarum 
+          in se in qua potissime beatitudo 
+          <app>
+            <lem>consistit</lem>
+            <rdg wit="#B" type="correction-substitution" facs="262r/81">
+              <subst>
+                <del>consastit</del>
+                <add>consistit</add>
+              </subst>
+            </rdg>
+          </app> 
+          dicente 
+          <ref xml:id="beq3sc-d1e1444-Rd1e232" corresp="#beq3sc-d1e1444-Qd1e240">
+            <name xml:id="beq3sc-d1e1444-Nd1e233">Anselmo</name> 
+            2 
+            <title>Cur Deus Homo</title>, 
+            in principio
+          </ref>, 
+          <cit>
+            <quote xml:id="beq3sc-d1e1444-Qd1e240">
+              naturalem creaturam vel naturam a Deo factam esse 
+              iustam illo fruendo beata esset dubitari non debet
+            </quote>
+            <bibl>XXX</bibl>
+          </cit>. 
+          Et 
+          <ref xml:id="beq3sc-d1e1444-Rd1e208" corresp="#beq3sc-d1e1444-Qd1e217">
+            <title>Monologion</title> 76
+          </ref> 
+          probat 
+          <cit>
+            <quote xml:id="beq3sc-d1e1444-Qd1e217">
+              quod Deus, 
+              creaturae rationali amanti Deum sicut debet, 
+              dabitur pro praemio ipse Deus, 
+              ut illa creatura talis Deo sine fine fruatur, 
+              dubitare stultissime est
+            </quote>
+          </cit>.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4254">
+          Ad rationem in oppositum 
+          (quae multum deformitas est facta non habente <unclear>diffinitatem</unclear> 
+          nisi istam quomodo est securitas in beatitudine), 
+          dicendum est quod ista propositio, 
+          <name xml:id="beq3sc-d1e1444-Nd1e224">Petrus</name> est securus de sua beatitudine aeterna,
+          potest duplicitas exponi. 
+          <!-- break -->
+          Sic <name xml:id="beq3sc-d1e1444-Nd1e276">Petrus</name> credit sine quacumque dubitatione 
+          quod semper erit beatus et ita erit in rei veritate.
+        </p>
+        <!-- break ?? -->
+        <p xml:id="beq3sc-d1e1444-d1e4279">
+          Alio modo sic 
+          <name xml:id="beq3sc-d1e1444-Nd1e237">Petrus</name> credit sine quacumque dubitatione 
+          quod semper erit beatus et ita erit 
+          et inpossibile est quod aliter sit. 
+          <!-- break ? -->
+          Primam securitatem habent omnes beati de sua beatitudine, 
+          secundam non habent nec habere potest aliqua creatura quia, 
+          si talem adhaesionem vel aestimationem habere, 
+          quod impossibile erit eam non esse beatam decipere, 
+          cum omnis creaturam quamdiu est libere conservetur a Deo 
+          a qua dependentia non potest absolvi.
+          <!-- break --> 
+          Unde ista libere conservat Deus hodie animam Christi, sicut umquam  fecit. 
+          Ex quo istae conclusiones sunt concedendae.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e228">
+          Haec est contingens <name xml:id="beq3sc-d1e1444-Nd1e338">Petrus</name> 
+          fuit beatus et est vera et semper fuisse.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e237">
+          Similiter haec est contingens, 
+          anima Christi erit beata, 
+          secundum unam viam, sicut alias fuit declaratum, 
+          quia si <unclear>exponatur</unclear> istae propositiones et consimiles necessaria, 
+          <unclear>exponitur</unclear> per propositiones, 
+          quarum 
+          <app>
+            <lem wit="#P">aliqua</lem>
+            <rdg wit="#B" facs="262r/113">alia</rdg>
+          </app>  
+          est contingens.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e252">
+          Et quando in fine argumenti ostenditur
+          <pb ed="#B" n="262-v"/>
+          <cb ed="#B" n="a"/> 
+          quod
+          <cit>
+            <quote xml:id="beq3sc-d1e1444-Qd1e373" 
+              source="http://scta.info/resource/beq3sc-d1e1444-d1e4146" synch="61-113">
+              haec est impossibilis, 
+              Deus annihilabit Petrum, 
+              quia ex ea, sequitur impossibile, 
+              nam sequitur Deus adnihilabit Petrum, 
+              ergo <name xml:id="beq3sc-d1e1444-Nd1e385">Petrus</name> erravit, 
+              igitur Deus decepit eum
+            </quote>
+          </cit>, 
+          consequens falsum et consequentia 
+          <name xml:id="beq3sc-d1e1444-Nd1e392">Augustinis</name>.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e266">
+          Ad idem dico tertia. <!-- same ref as above ?? --> 
+          Primo quod prima consequentia nihil valet, 
+          Deus annihilabit <name xml:id="beq3sc-d1e1444-Nd1e293">Petrum</name>, 
+          ergo <name xml:id="beq3sc-d1e1444-Nd1e296">Petrus</name> erroneae aestimavit suam beatitudinem 
+          semper foret oportet addere aliam propositionem 
+          et tunc illa <unclear>copulativa</unclear> 
+          erit unum sufficiens antecedens ad illud consequens. 
+          Unde ista consequentia est concedenda, 
+          Deus annihilabit <name xml:id="beq3sc-d1e1444-Nd1e302">Petrum</name> 
+          et <name xml:id="beq3sc-d1e1444-Nd1e306">Petrus</name> aestimavit se semper esse vel foret, 
+          igitur <name xml:id="beq3sc-d1e1444-Nd1e309">Petrus</name> erravit et fuit deceptus.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4381">
+          Secundo, 
+          dico ad istam rationem quod ista secunda consequentia est bona, 
+          <name xml:id="beq3sc-d1e1444-Nd1e426">Petrus</name> erravit, 
+          ergo Deus decepit eum sicut causa partialis. 
+          Hoc probo sic, si petro erravit, 
+          tunc aliqua notitia erronea fuit in anima <name xml:id="beq3sc-d1e1444-Nd1e442">Petri</name>. 
+          Sed omnis res quae umquam fuit in anima 
+          <name xml:id="beq3sc-d1e1444-Nd1e450">Petri</name> fuit a Deo 
+          sicut a causa efficiente, 
+          igitur Deus causavit illum errorem. 
+          Sed hoc est decipere, igitur Deus decipit eum, 
+          sic enim dicimus <mentioned>iste decipit me</mentioned>, 
+          id est causavit in me erroneam aestimationem. 
+          Eodem modo dicimus de Sortes et de quacumque re 
+          quae constant errorem in nobis.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e322">
+          Tertio, 
+          modo quod iste terminus <mentioned>fallere</mentioned> 
+          vel <mentioned>decipere</mentioned> etc. 
+          accipitur proprie et improprie, 
+          proprie exponitur sicut dictum pro causare errorem, 
+          improprie pro viciose vel deordinate causare errorem, 
+          et sic non potest Deus fallere. 
+          Consequentia autem 
+          <ref xml:id="beq3sc-d1e1444-Rd1e434" corresp="#beq3sc-d1e1444-Qd1e444">
+            <name xml:id="beq3sc-d1e1444-Nd1e493">Augustini</name> 
+            ad mentem <unclear>angeli</unclear> 
+            <title>de 83 quaestionibus</title> 
+            14
+          </ref>
+          ita 
+          <cit>
+            <quote xml:id="beq3sc-d1e1444-Qd1e444" source="http://scta.info/resource/a83-q14-d1e108" 
+              type="paraphrase">
+              si Christus fefellit ostendendo discipulis phantasma 
+              loco 
+              <app>
+                <lem>corporis</lem>
+                <rdg wit="#B">coporis</rdg>
+              </app> 
+              Christus non fuit veritas
+            </quote>
+          </cit>.
+          Et ista consequentia est bona 
+          et tam antecedens quam consequens est impossibile. 
+          Et per istam patet distinctionem 
+          <ref xml:id="beq3sc-d1e1444-Rd1e363">
+            <name xml:id="beq3sc-d1e1444-Nd1e514">Beati Augustini</name> 
+            in caelo De Genese IX, 53
+          </ref> 
+          <app>
+            <lem wit="#P">ubi</lem>
+            <rdg wit="#B" facs="262v/33">vero</rdg>
+          </app>
+          inquit qualiter Deus decepit per malos angelos et per malos homines, 
+          sed non per bonos nec immediate per seipsum, 
+          et accipit ibi <mentioned>decipere</mentioned> 
+          pro inordinate decipere.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

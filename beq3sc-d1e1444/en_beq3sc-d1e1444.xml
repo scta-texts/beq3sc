@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 65 [English Translation of Balliol 246 Transcription]</title>
+        <author ref="#Holcot">Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+        <editor>John Slotemaker</editor>
+        <editor>Hester Gelber</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 65 [Balliol 246 Transcription]</title>
+          <date when="2018-05-31">May 31, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="balliol246">Balliol 246</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-05-31" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#B" n="262-r"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="beq3sc-d1e1444">
+        <head xml:id="beq3sc-d1e1444-Hd1e4126">Question 65 [English Translation of Balliol 246 Transcription]</head>
+        <head xml:id="beq3sc-d1e1444-Hd1e4129" type="question-title">
+          Whether the eternal love of God is possible for man?
+        </head>
+        <p xml:id="beq3sc-d1e1444-d1e4132">
+          Whether the eternal love of God is possible for man?
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4146">
+          It was argued 
+          that not because no man is able to be certain 
+          that God eternally loves them, 
+          therefore.
+          Consequence is clear 
+          because the security that this will be so 
+          is included in the eternal love of God 
+          according to 
+          <cit>
+            <ref>
+              <name>Augustinum</name>,
+              <title>De trinitate</title>
+            </ref>
+          </cit>
+          and through
+          <cit>
+            <ref>
+              <name>Anselmum</name>, 
+              <title>De casu dyaboli</title></ref>
+            <bibl>XXX</bibl>
+          </cit>.
+          The antecedent is proved 
+          because if someone is able to have security of this type 
+          this would be beyond the limits of a creature 
+          insomuch that God would not be able to annihlate him, 
+          which is inconvenient. 
+          I prove because 
+          <name>Petrus</name> is
+          for example is such a person 
+          who has this kind of security,
+          and he argues this proposition,
+          it is possible that God will annihilate the punishment <!-- poenam -->
+          The proof is 
+          that from this the impossible follow. 
+          For the proof follows, 
+          God will annihilate the punishment, 
+          therefore he will erroneously think 
+          that he will eternally have this love, 
+          therefore God who made him thus to think this 
+          deceives him, 
+          therefore the Truth deceives someone, 
+          which is impossible and 
+          against 
+          <cit>
+            <ref>
+              <name>Augustine</name> in 83 questions question 14
+            </ref>
+          </cit>
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e161">
+          In opposition is the catholic faith.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e169">
+          In this question 
+          there is not difficult hiding for the theologian, 
+          for it happens that the ultimate supernatural end of man 
+          is the clear enjoyment of the divine essence in itself 
+          in which the highest possible beatitude exists, 
+          as 
+          <ref>
+            <name>Anselm</name> says in 2 
+            <title>Cur Deus homo</title>, 
+            in the beginning
+          </ref>, 
+          <cit>
+            <quote>
+              that the natural creature or nature has been made just by God,
+              so that while enjoying him he will be blessed
+              ought not to be denied
+            </quote>
+            <bibl>
+              Anselm,
+              Cur Deus Homo, I, c. 1
+            </bibl>
+          </cit>.
+          And
+          <ref>
+            <title>Monologion</title> 76
+          </ref> 
+          proves that God 
+          to the rational creature loving God as he ought 
+          <unclear>gives</unclear> <!-- gives instead of dabitur?? will be given-->
+          as a reward God himself, 
+          so that such a creature may enjoy 
+          God without end
+          is most foolish to doubt.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4254">
+          To the argument in the opposition
+          (which 
+          has made much deformity 
+          while not having much meaning
+          unless the following, 
+          how there is security in beatitude), 
+          it should be said 
+          that this proposition, 
+          <name>Peter</name> is secure about his eternal beatitude, 
+          is able to be explained in two ways. 
+          <!-- should this be a break -->
+          First Peter believes without any doubt that he will always be blessed 
+          and thus he will be in the truth of the matter.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4279">
+          In another mode thus,
+          <name>Peter</name> believes without any doubt 
+          that he will always be bless 
+          and thus he will be 
+          and it is impossible 
+          that it is otherwise. 
+          
+          All the blessed have the first type of security from their beatitude,
+          they do not have the second
+          nor is some creature able to have it 
+          because 
+          if such adhesion or estimation were had,
+          then the creature would be deceived 
+          about the fact that it is impossible 
+          that they are not blessed, 
+          since every creature as long as it is 
+          is freely conserved by God 
+          by a dependence which is not able to be resolved.
+          Whence this, 
+          today God conserves freely the soul of Christ, 
+          just as he ever did. 
+          From this
+          the following conclusions should be conceded.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e228">
+          This is contingent, 
+          <name>Peter</name> was blessed 
+          and is true and always was true.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e237">
+          Similarly, 
+          this is contingent, 
+          the soul of Christ will be blessed according to one life 
+          just as it was elsewhere declared
+          because if these propositions 
+          and similar necessary things are explained, 
+          then they are explained 
+          through propositions, 
+          some of which are contingent.
+          
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e252">
+          And when in the end of the argument it is shown
+          <pb ed="#B" n="262-v"/>
+          <cb ed="#B" n="a"/>
+          that <quote>this is impossible, 
+          that God will annihilate <name>Peter</name>, 
+          because from this the impossible follows, 
+          for it follows that God will annihilate Peter, 
+          therefore Peter erred, 
+          therefore God deceived him</quote>, 
+          the consequent is false, 
+          and the consequence is from <ref><name>Augustine</name></ref>.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e266">
+          To the same 
+          is say three things. 
+          In the first place 
+          that the first consequence <unclear>validates nothing</unclear>, <!-- nihil valet --> 
+          God will annihilate <name>Peter</name>, 
+          therefore <name>Peter</name> erroneously thins 
+          his beatitude will always be, 
+          it is necessary to add some proposition 
+          and then this <unclear>copulative</unclear> will be one 
+          where the antecedent is sufficient for this consequent.
+          Whence this consequence should be conceded, 
+          God will annihilate <name>Peter</name> 
+          and Peter thought that he would be and will be forever, 
+          therefore <name>Peter</name> erred and was deceived.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e4381">
+          In the second place, 
+          I say to this argument
+          that this second consequence is valid, 
+          <name>Peter</name> erred, 
+          therefore God deceived him 
+          as a partial cause.
+          I prove this is the following way,
+          if <name>Peter</name> errered, 
+          the there was some erroneous knowledge in the soul of <name>Peter</name>. 
+          But every thing which every was in the soul of <name>Peter</name> 
+          was from God as an efficient cause, 
+          therefore God caused this error. 
+          But this is to deceive, 
+          therefore God deceived him, 
+          for in this way we say, 
+          <mentioned>he deceived me</mentioned>, 
+          that is he caused in 
+          me an erroneous estimation. 
+          In the same way about <name>Socrates</name> 
+          and about anything which coexists with error in us.
+        </p>
+        <p xml:id="beq3sc-d1e1444-d1e322">
+          In the third place, 
+          these days this term <mentioned>to mislead</mentioned> or <!-- these days / recently for "modo" -->
+          <mentioned>to deceive</mentioned> etc 
+          is understood both properly and improperly,
+          when properly it is explained as the saying for the causing of the error, 
+          when improperly for the vicious and disordered causing of error, 
+          and in this way God is not able to deceive. 
+          But the consequence of 
+          <ref xml:id="beq3sc-d1e1444-Rd1e434">
+            <name>Augustine</name> 
+            to the mind of the  <unclear>angeli</unclear>, 
+            de 83 questions, 14
+          </ref> 
+          thus 
+          <cit>
+            <quote xml:id="beq3sc-d1e1444-Qd1e444" source="http://scta.info/resource/a83-q14-d1e108" type="paraphrase">
+              if Christ deceived by showing the disciples 
+              a phantasm in the <unclear>place of a body</unclear>, 
+              then Christ was not the truth
+            </quote>
+            <bibl>Xxx</bibl>
+          </cit>.
+          And this consequence is valid 
+          and both the antecedent and the consequent 
+          are impossible. 
+          And through this is clear the 
+          distinction of 
+          <ref>
+            <name>Blessed Augustine</name>
+            <unclear>in heaven</unclear> from 
+            <title>De Genese</title>, question 9 53</ref>, 
+          where he says 
+          how God deceived through bad angels and through bad men, 
+          but not through good nor immediately through himself, 
+          and there he understands <mentioned>deception</mentioned> 
+          for inordinate deception.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
