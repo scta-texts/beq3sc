@@ -735,7 +735,7 @@
             7 <title>Metaphysicae</title>, commento 23
           </ref>, 
           <cit>
-            <quote xml:id="beq3sc-d1e1093-Qd1e636" source="http://scta.info/resource/xch7dn-d1e102">
+            <quote xml:id="beq3sc-d1e1093-Qd1e636" source="http://scta.info/resource/xch7dn-d1e102-d1e5658@163-185">
               sanitas dicitur de 
               intellectu sanitatis 
               quae est in anima et 
@@ -757,13 +757,13 @@
             </bibl>
           </cit> 
           et 
-          <ref xml:id="beq3sc-d1e1093-Rd1e1034">eodem commento</ref> 
+          <ref xml:id="beq3sc-d1e1093-Rd1e1034" corresp="#beq3sc-d1e1093-Qd1e1047">eodem commento</ref> 
           <app>
             <lem>dicit</lem>
             <rdg wit="#P" type="variation-absent"/>
           </app>,
           <cit>
-            <quote xml:id="beq3sc-d1e1093-Qd1e1047" source="http://scta.info/resource/xch7dn-d1e102">
+            <quote xml:id="beq3sc-d1e1093-Qd1e1047" source="http://scta.info/resource/xch7dn-d1e102-d1e5784@16-39">
               forma artis est duplex, 
               una quae est in anima, 
               et alia quae est extra, 
